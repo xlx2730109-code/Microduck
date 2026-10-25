@@ -8,6 +8,7 @@
 | `photo_zero_jig_front.jpg` | 零位支架装机正面，可见舵机铭牌 `HD1910M` |
 | `photo_zero_jig_side.jpg` | 零位支架装机侧面 |
 | `tip_use_m3_not_self_tapping.png` | 躯干与髋连接处用合适长度的 M3 螺丝拧紧，不用自攻螺丝 |
+| `zero_position_jig.3mf` | 同一支架的可打印 3MF，来自用户提供的 `0位支架.3MF` |
 | `zero_position_jig.stp` | 零位支架 STEP，1.3 MB；作者称仅验证了下半部，未验证部分不作为标定依据 |
 
 - 作者实物照片中的舵机铭牌为 `HD1910M`，用户确认与已购 HD-1910-C001 是同一款。
