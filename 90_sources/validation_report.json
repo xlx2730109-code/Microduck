@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-22",
+  "checks": [
+    {
+      "type": "repository",
+      "repo": "fanhao375/microduck-replica-cad",
+      "commit": "dabbda7c592e42e0d016a293dc8c9fcabb300bbf",
+      "files_on_disk": 39,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "kissqy/Microduck-kissqy",
+      "commit": "525a215a19397767a073b782f57e97cf53683761",
+      "files_on_disk": 1936,
+      "missing": [],
+      "archive_crc": null,
+      "git_blob_verification": true
+    },
+    {
+      "type": "repository",
+      "repo": "fanhao375/Microduck-kissqy",
+      "commit": "e376346723e1670a649b2a00e4dcec0f3d2a46cd",
+      "files_on_disk": 1945,
+      "missing": [],
+      "archive_crc": null,
+      "git_blob_verification": true
+    },
+    {
+      "type": "repository",
+      "repo": "fanhao375/microduck-replica",
+      "commit": "813639d668c1dc56bd0aa145a930bb2c9fb5986c",
+      "files_on_disk": 988,
+      "missing": [],
+      "archive_crc": null,
+      "git_blob_verification": true
+    },
+    {
+      "type": "repository",
+      "repo": "pollen-robotics/elec_RPI_Robot_HAT",
+      "commit": "6de86283297e4c49a9da8312cd3395ab83c437e3",
+      "files_on_disk": 46,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "pollen-robotics/microduck",
+      "commit": "942e58e3aa6dbb28e7037203fff11866122c7567",
+      "files_on_disk": 469,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "pollen-robotics/microduck_rl",
+      "commit": "b02fdea4902c2b93b7d34a83a6f05da4ececb7d3",
+      "files_on_disk": 254,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "joeynyc/awesome-microduck",
+      "commit": "75b59609af34189014787989c3d7910da0232535",
+      "files_on_disk": 16,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "AI-FanGe/Microduck-build-tutorial",
+      "commit": "49678215d0b40529522772a40c06c216390449dd",
+      "files_on_disk": 122,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "jyg9/microduck-community-kit",
+      "commit": "35a4bf8a4c7c7038ab7b20f0aa86236101a4d596",
+      "files_on_disk": 163,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "wslengzhicheng/microduck-diy",
+      "commit": "6c88eb6be07b9003c58a0f0a946bac15305f6bdd",
+      "files_on_disk": 31,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "repository",
+      "repo": "zhuoligetu123/microduck-hd1910m",
+      "commit": "59d5117d2aa6428150d55250bb8c692b46d818f1",
+      "files_on_disk": 709,
+      "missing": [],
+      "archive_crc": null,
+      "git_blob_verification": true
+    },
+    {
+      "type": "repository",
+      "repo": "haoyn231/xiaozhi_linux_rs",
+      "commit": "57981916aafc91b66bba3fc658f7a6be0789c3b6",
+      "files_on_disk": 61,
+      "missing": [],
+      "archive_crc": "PASS",
+      "git_blob_verification": false
+    },
+    {
+      "type": "zip",
+      "path": "02_feetech/Microduck-kissqy/release-assets/Microduck-Console-R17-V167.zip",
+      "crc": "PASS",
+      "entries": 195
+    },
+    {
+      "type": "zip",
+      "path": "02_feetech/Microduck-kissqy/release-assets/Microduck-Training-Studio-R1.5.27.zip",
+      "crc": "PASS",
+      "entries": 307
+    },
+    {
+      "type": "firmware",
+      "path": "02_feetech/Microduck-kissqy/microduck-hd1910/firmware/console/updates/Microduck-Robotd-FT6-R17.tar.gz",
+      "sha256": "bcfd5c183c697b9c4e0fdbd563d995eda6a48331a7c49b9e76d20bd156c65cce",
+      "matches_publisher": true
+    },
+    {
+      "type": "imu_firmware",
+      "path": "02_feetech/Microduck-kissqy/microduck-hd1910/firmware/console/updates/imu_to_feetech_ReVA_FT6_SYNC15_UART_IRQ_v1.bin",
+      "sha256": "d7bd2f37a6a4e0e15d1f9650a3959bcf4d8c704524d8ec319d72d8bdf104ab6d",
+      "matches_publisher": true
+    },
+    {
+      "type": "firmware_tar",
+      "members": 161,
+      "parsed": true
+    },
+    {
+      "type": "cad_inventory",
+      "solidworks": 77,
+      "step_files_with_package_overlap": 23,
+      "native_CAD_rebuild_tested": false
+    }
+  ],
+  "broken_local_links": [],
+  "hardware_tests_performed": false,
+  "software_installed": false
+}

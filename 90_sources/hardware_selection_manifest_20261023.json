@@ -1,0 +1,291 @@
+{
+  "retrieval_dates": [
+    "2026-10-22",
+    "2026-10-23"
+  ],
+  "timezone": "Asia/Taipei",
+  "scope": "Hardware selection research; no hardware testing, installation, flashing, deployment or purchase",
+  "report": "00_notes/11_硬件型号版本选型调研.md",
+  "sources": [
+    {
+      "id": "S01",
+      "url": "https://dl.radxa.com/zero3/docs/hw/3w/radxa_zero_3w_product_brief.pdf",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S02",
+      "url": "https://docs.radxa.com/en/zero/zero3/faq",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S03",
+      "url": "https://docs.radxa.com/zero/zero3/hardware-design/revision",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S04",
+      "url": "https://github.com/fanhao375/microduck-replica/blob/813639d668c1dc56bd0aa145a930bb2c9fb5986c/tools/radxa/镜像使用说明.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S05",
+      "url": "https://github.com/kissqy/Microduck-kissqy/blob/main/hardware/AMP2.0-VERSION.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S06",
+      "url": "https://github.com/kissqy/Microduck-kissqy/blob/main/hardware/IMU-FIRMWARE.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S07",
+      "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT/blob/main/README.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S08",
+      "url": "https://github.com/fanhao375/microduck-replica/blob/813639d668c1dc56bd0aa145a930bb2c9fb5986c/README.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S09",
+      "url": "https://github.com/fanhao375/Microduck-kissqy/blob/hd1910-v167-trunk-imu-i2c/IMU-MODULE.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S10",
+      "url": "https://docs.radxa.com/accessories/camera/camera-8m-219",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S11",
+      "url": "https://www.raspberrypi.com/products/camera-module-3/",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S12",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l5cx.pdf",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S13",
+      "url": "https://github.com/fanhao375/microduck-replica/blob/813639d668c1dc56bd0aa145a930bb2c9fb5986c/docs/电控采购清单.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S14",
+      "url": "https://www.samsung.com.cn/memory-storage/memory-card/memory-cardpro-endurance-128gb-mb-mj128ka-cn/",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S15",
+      "url": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-max-endurance-uhs-i-microsd?sku=SDSQQVR-128G-GN6IA",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S16",
+      "url": "https://news.samsung.com/us/samsung-announces-improved-speeds-pro-plus-memory-card-line-up?r=true",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S17",
+      "url": "https://support-en.sandisk.com/app/products/product-detailweb/p/9346",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S18",
+      "url": "https://www.hollyland.com/accessories/np-f550-battery",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S19",
+      "url": "https://github.com/kissqy/Microduck-kissqy/blob/main/DUCK-SHOPPING-LIST.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S20",
+      "url": "https://www.smallrigreseller.com/smallrig-np-f550-usb-c-rechargeable-camera-battery-4331.html",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S21",
+      "url": "https://help.deitymic.com/en/np-f550/overview-and-specifications",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S22",
+      "url": "https://www.nitecore.com/product/usn3pro",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S23",
+      "url": "https://github.com/huangjunsen0406/py-xiaozhi/blob/main/README.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S24",
+      "url": "https://www.seeedstudio.com/ReSpeaker-Lite-p-5928.html",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S25",
+      "url": "https://github.com/Seeed-Studio/wiki-documents/blob/docusaurus-version/sites/en/docs/Sensor/ReSpeaker_Lite/reSpeaker_lite_introduction.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S26",
+      "url": "https://github.com/haoyn231/xiaozhi_linux_rs/blob/main/README.md",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S27",
+      "url": "https://store.siglent.com/product/spd1168x-可编程线性直流稳压电源/",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S28",
+      "url": "https://www.rigol.com/dam/global/downloads/brochures/en/data-sheet/dc-powers/DP800_DataSheet_EN.pdf",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S29",
+      "url": "https://meters.uni-trend.com.cn/content/1301.html",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S30",
+      "url": "https://www.fluke.com/en-us/product/electrical-testing/digital-multimeters/fluke-17b-plus",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S31",
+      "url": "https://www.mitutoyo.com.br/nossos-produtos/instrumentos-de-medicao/paquimetro/paquimetro-digital-aos-cd-6-asx.html",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S32",
+      "url": "https://www.wihatools.com/products/precision-phillips-screwdrivers",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S33",
+      "url": "https://ftdichip.com/product-category/products/cables/",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S34",
+      "url": "https://docs.radxa.com/en/zero/zero3/accessories/pd-30w",
+      "type": "reference; not necessarily downloaded locally"
+    },
+    {
+      "id": "S35",
+      "url": "https://www.waveshare.com/wiki/ESP32-S3-AUDIO-Board",
+      "type": "reference; not necessarily downloaded locally"
+    }
+  ],
+  "retained_pdfs": [
+    {
+      "path": "05_vendor/selection_20261022/radxa_8m219_product_brief.pdf",
+      "bytes": 626268,
+      "sha256": "3854b264433c77abb552c836eccd62e3aa3bf4ef4eca9551d38a8f8780470e0f",
+      "signature_ok": true
+    },
+    {
+      "path": "05_vendor/selection_20261022/radxa_zero3w_product_brief.pdf",
+      "bytes": 1175105,
+      "sha256": "f01495a08f9616b3d2d655337ca45c8b7b1328ff75393fe59f2192bfc25c456a",
+      "signature_ok": true
+    },
+    {
+      "path": "05_vendor/selection_20261022/rigol_dp800_datasheet.pdf",
+      "bytes": 3156704,
+      "sha256": "0879aae26dc36044b9dfdf919851bbc09f76110f8d90cc475c3724e4c5b1e342",
+      "signature_ok": true
+    }
+  ],
+  "retained_repository_documents": [
+    {
+      "path": "90_sources/hardware_selection_20261023/kissqy_AMP2.0-VERSION.md",
+      "bytes": 3204,
+      "sha256": "e7d14bd07a5646a74b24384b10133a839ac7bf3fa17f5a72f9ff956ef1a19893",
+      "source_id": "S05"
+    },
+    {
+      "path": "90_sources/hardware_selection_20261023/kissqy_IMU-FIRMWARE.md",
+      "bytes": 6825,
+      "sha256": "c80e9b2bf944dfacc77154370c00ec9bc2a960f551fc755a09d38647d6019ee1",
+      "source_id": "S06"
+    },
+    {
+      "path": "90_sources/hardware_selection_20261023/pollen_HAT_README.md",
+      "bytes": 1800,
+      "sha256": "4e235eb44104c36979fe64c7cb0115ade9c9fc12f8d6813fc6c32a383bb49cec",
+      "source_id": "S07"
+    },
+    {
+      "path": "90_sources/hardware_selection_20261023/py_xiaozhi_README.md",
+      "bytes": 14155,
+      "sha256": "71f507960d273ec2ab15a647dd3076384b0f5b9d235ca5ce15507042934ac611",
+      "source_id": "S23"
+    },
+    {
+      "path": "90_sources/hardware_selection_20261023/seeed_ReSpeaker_Lite.md",
+      "bytes": 15857,
+      "sha256": "8f737fd198deb1c21d70c0f2ddd02fab400f2f5cc3807e54e2055b629e95cc88",
+      "source_id": "S25"
+    },
+    {
+      "path": "90_sources/hardware_selection_20261023/xiaozhi_linux_rs_README.md",
+      "bytes": 11026,
+      "sha256": "1d23e16c529275f8bb9c95d73d8fd0d8f90de9470c6cf30d83d6f1a222ab2243",
+      "source_id": "S26"
+    }
+  ],
+  "failed_downloads": [
+    {
+      "url": "https://studio.westerndigital.com/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/max-endurance-uhs-i-microsd/data-sheet-max-endurance-uhs-i-microsd.pdf",
+      "status": "HTTP 404",
+      "retained_file": false
+    }
+  ],
+  "observed_prices": [
+    {
+      "item": "ZERO 3W",
+      "sku": "RS107-D2E0H1W15",
+      "price": 39.99,
+      "currency": "USD",
+      "status": "Vendor page displayed In stock; not checkout verified",
+      "url": "https://arace.tech/products/radxa-zero-3w"
+    },
+    {
+      "item": "ReSpeaker Lite",
+      "sku": "107990273",
+      "price": 24.9,
+      "currency": "USD",
+      "status": "Vendor page displayed In stock; not checkout verified",
+      "url": "https://www.seeedstudio.com/ReSpeaker-Lite-p-5928.html"
+    },
+    {
+      "item": "SPD1168X",
+      "price": 2071,
+      "currency": "CNY",
+      "status": "Manufacturer store page displayed in stock; not checkout verified",
+      "source_id": "S27"
+    },
+    {
+      "item": "SmallRig 4331",
+      "price": 44.9,
+      "currency": "USD",
+      "status": "Reseller support page; dimensions and weight need confirmation",
+      "source_id": "S20"
+    }
+  ],
+  "validation": {
+    "source_count": 35,
+    "missing_source_ids": [],
+    "broken_local_links": [],
+    "pdf_signature_checks": true,
+    "hardware_validation": false
+  },
+  "report_sha256": "02f9cb79055246922b1a2546482c3d1cba9466c8d50ebb3654f48e6c9af39ce2"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://codeload.github.com/haoyn231/xiaozhi_linux_rs/zip/57981916aafc91b66bba3fc658f7a6be0789c3b6",
+    "path": "90_sources/archives/haoyn231__xiaozhi_linux_rs__57981916aafc.zip",
+    "bytes": 578986,
+    "sha256": "0e641f7c18b607a09cafeee4ce52c73d85544192207fba838cef53bc0e2ea92c",
+    "repo": "haoyn231/xiaozhi_linux_rs",
+    "branch": "main",
+    "commit": "57981916aafc91b66bba3fc658f7a6be0789c3b6",
+    "commit_date": "2026-07-25T10:20:03Z",
+    "extract_dir": "06_voice/xiaozhi_linux_rs",
+    "license": null,
+    "archive_crc": "PASS",
+    "retrieved_at": "2026-10-22T13:11:31.119680+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/huangjunsen0406/py-xiaozhi/9bfc807d368cccac71af8d9f7042ab6b5af92030/README.md",
+    "path": "06_voice/py-xiaozhi/README.md",
+    "bytes": 14154,
+    "sha256": "243d72c3ffb57d829fa5f92718a64f755c7efd4a9c70c7096e9f4b7e54d2cb19",
+    "repo": "huangjunsen0406/py-xiaozhi",
+    "commit": "9bfc807d368cccac71af8d9f7042ab6b5af92030",
+    "scope": "selected reference files only"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/huangjunsen0406/py-xiaozhi/9bfc807d368cccac71af8d9f7042ab6b5af92030/README.zh.md",
+    "path": "06_voice/py-xiaozhi/README.zh.md",
+    "bytes": 9495,
+    "sha256": "be84b71ddd42c5f794ee1220b20a4308d0d4f84e3c707abe86025c1adc38e208",
+    "repo": "huangjunsen0406/py-xiaozhi",
+    "commit": "9bfc807d368cccac71af8d9f7042ab6b5af92030",
+    "scope": "selected reference files only"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/huangjunsen0406/py-xiaozhi/9bfc807d368cccac71af8d9f7042ab6b5af92030/LICENSE",
+    "path": "06_voice/py-xiaozhi/LICENSE",
+    "bytes": 1063,
+    "sha256": "49ddd0fdc520a6e936b6c618dbcc66055d31b746ddd1972337f2a6e96135ba4d",
+    "repo": "huangjunsen0406/py-xiaozhi",
+    "commit": "9bfc807d368cccac71af8d9f7042ab6b5af92030",
+    "scope": "selected reference files only"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/huangjunsen0406/py-xiaozhi/9bfc807d368cccac71af8d9f7042ab6b5af92030/pyproject.toml",
+    "path": "06_voice/py-xiaozhi/pyproject.toml",
+    "bytes": 5208,
+    "sha256": "a8db112b4fab1466a691135e4f405cee649035542540f742c1b380431c60d445",
+    "repo": "huangjunsen0406/py-xiaozhi",
+    "commit": "9bfc807d368cccac71af8d9f7042ab6b5af92030",
+    "scope": "selected reference files only"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/78/xiaozhi-esp32/7e69845d818553ac045efbcde746b22bef6eecf6/README.md",
+    "path": "06_voice/xiaozhi-esp32/README.md",
+    "bytes": 10746,
+    "sha256": "f84c920abf339934121586855de4f7a8f9f62f5f38b4c8530b0e0e0e2afb88c3",
+    "repo": "78/xiaozhi-esp32",
+    "commit": "7e69845d818553ac045efbcde746b22bef6eecf6",
+    "scope": "selected reference files only"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/78/xiaozhi-esp32/7e69845d818553ac045efbcde746b22bef6eecf6/README_zh.md",
+    "path": "06_voice/xiaozhi-esp32/README_zh.md",
+    "bytes": 10362,
+    "sha256": "311d97752fb9c9a2e7642958756e0326bcd5adff5bcff8fdff2d13b131ba9d0b",
+    "repo": "78/xiaozhi-esp32",
+    "commit": "7e69845d818553ac045efbcde746b22bef6eecf6",
+    "scope": "selected reference files only"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/78/xiaozhi-esp32/7e69845d818553ac045efbcde746b22bef6eecf6/LICENSE",
+    "path": "06_voice/xiaozhi-esp32/LICENSE",
+    "bytes": 1140,
+    "sha256": "0a5a839033bfe18fe75d32b50d9d028912cf876f69ef59c2791aeb2971335d05",
+    "repo": "78/xiaozhi-esp32",
+    "commit": "7e69845d818553ac045efbcde746b22bef6eecf6",
+    "scope": "selected reference files only"
+  }
+]

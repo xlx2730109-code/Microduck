@@ -1,0 +1,27 @@
+{
+  "archive": {
+    "url": "https://codeload.github.com/wslengzhicheng/microduck-diy/zip/6c88eb6be07b9003c58a0f0a946bac15305f6bdd",
+    "path": "90_sources/archives/wslengzhicheng__microduck-diy__6c88eb6be07b.zip",
+    "bytes": 1269068,
+    "sha256": "ae79b1fda2f653a87a993d30f64b528e5b10ddcce6312644756a359a31a2520e",
+    "repo": "wslengzhicheng/microduck-diy",
+    "branch": "main",
+    "commit": "6c88eb6be07b9003c58a0f0a946bac15305f6bdd",
+    "commit_date": "2026-09-13T09:05:46Z",
+    "extract_dir": "04_alternatives/microduck-diy",
+    "license": null,
+    "archive_crc": "PASS",
+    "retrieved_at": "2026-10-22T11:46:24.557990+00:00"
+  },
+  "repository": {
+    "default_branch": "main"
+  },
+  "commit": {
+    "sha": "6c88eb6be07b9003c58a0f0a946bac15305f6bdd",
+    "commit": {
+      "committer": {
+        "date": "2026-09-13T09:05:46Z"
+      }
+    }
+  }
+}

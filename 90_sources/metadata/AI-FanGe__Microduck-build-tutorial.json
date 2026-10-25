@@ -1,0 +1,27 @@
+{
+  "archive": {
+    "url": "https://codeload.github.com/AI-FanGe/Microduck-build-tutorial/zip/49678215d0b40529522772a40c06c216390449dd",
+    "path": "90_sources/archives/AI-FanGe__Microduck-build-tutorial__49678215d0b4.zip",
+    "bytes": 20336145,
+    "sha256": "9fedc2af0c8c01697c75618fc745f8544947cbdc3ae9a8fd7f19a57be5011889",
+    "repo": "AI-FanGe/Microduck-build-tutorial",
+    "branch": "main",
+    "commit": "49678215d0b40529522772a40c06c216390449dd",
+    "commit_date": "2026-09-11T07:51:37Z",
+    "extract_dir": "04_alternatives/Microduck-build-tutorial",
+    "license": null,
+    "archive_crc": "PASS",
+    "retrieved_at": "2026-10-22T11:47:58.330701+00:00"
+  },
+  "repository": {
+    "default_branch": "main"
+  },
+  "commit": {
+    "sha": "49678215d0b40529522772a40c06c216390449dd",
+    "commit": {
+      "committer": {
+        "date": "2026-09-11T07:51:37Z"
+      }
+    }
+  }
+}

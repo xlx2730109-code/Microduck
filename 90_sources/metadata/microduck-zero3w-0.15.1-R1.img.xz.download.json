@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/kissqy/Microduck-kissqy/releases/download/public-image-r1/microduck-zero3w-0.15.1-R1.img.xz",
+  "path": "02_feetech/images/kissqy_R1/microduck-zero3w-0.15.1-R1.img.xz",
+  "bytes": 767412924,
+  "sha256": "75da978b5d56acd9e4146256431732381de84523bb683e4ab7ac9f0580a7bce5",
+  "expected_sha256": "75da978b5d56acd9e4146256431732381de84523bb683e4ab7ac9f0580a7bce5",
+  "sha256_verified": true,
+  "transfer": "HTTP ranges"
+}

@@ -1,0 +1,27 @@
+{
+  "archive": {
+    "url": "https://codeload.github.com/haoyn231/xiaozhi_linux_rs/zip/57981916aafc91b66bba3fc658f7a6be0789c3b6",
+    "path": "90_sources/archives/haoyn231__xiaozhi_linux_rs__57981916aafc.zip",
+    "bytes": 578986,
+    "sha256": "0e641f7c18b607a09cafeee4ce52c73d85544192207fba838cef53bc0e2ea92c",
+    "repo": "haoyn231/xiaozhi_linux_rs",
+    "branch": "main",
+    "commit": "57981916aafc91b66bba3fc658f7a6be0789c3b6",
+    "commit_date": "2026-07-25T10:20:03Z",
+    "extract_dir": "06_voice/xiaozhi_linux_rs",
+    "license": null,
+    "archive_crc": "PASS",
+    "retrieved_at": "2026-10-22T13:11:31.119680+00:00"
+  },
+  "repository": {
+    "default_branch": "main"
+  },
+  "commit": {
+    "sha": "57981916aafc91b66bba3fc658f7a6be0789c3b6",
+    "commit": {
+      "committer": {
+        "date": "2026-07-25T10:20:03Z"
+      }
+    }
+  }
+}

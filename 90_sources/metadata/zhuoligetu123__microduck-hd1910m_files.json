@@ -1,0 +1,4256 @@
+[
+  {
+    "path": "04_alternatives/microduck-hd1910m/.gitignore",
+    "git_blob_sha1": "1825f98ff0068b2240edefd9873f0a5e863069e2",
+    "bytes": 380,
+    "sha256": "2b75695ea5bc5cbca1bbdc1d8300d4aa13693a25b831ec6ffb24b35a5ec42c77"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/README.md",
+    "git_blob_sha1": "892eeade532f37a17d5e249ff323d8b6b5c986f8",
+    "bytes": 9488,
+    "sha256": "725380449191d346da6a5063333e449a6a3e631cba0f21ccdc8cd6d179e95125"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/THIRD_PARTY.md",
+    "git_blob_sha1": "7a735903094feacff5b51922357b9a80bd5000e2",
+    "bytes": 1367,
+    "sha256": "d34f31bff3c5401af8e5c72516fe26217c5c8fec8cb6e3f677c2fce899e67a9f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/explainer_validation.json",
+    "git_blob_sha1": "265c01f007b337d5ee58a0941fcbff52bf4c591a",
+    "bytes": 964,
+    "sha256": "0b8874cf86fa74fdb1b624da6aedebd184b14e335839fe6af1387d72ca131484"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/gif_previews.json",
+    "git_blob_sha1": "f11566cb2ae12344bf84e808c3716191d02bdc06",
+    "bytes": 1040,
+    "sha256": "753452d4e2bc6b2d56be3b763e1a56dae8101ba85986f0c8da505441725fffdb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/01_overview.png",
+    "git_blob_sha1": "73761d79e523ffeeffe0b191d328638a41e35676",
+    "bytes": 232121,
+    "sha256": "b6ae90adaa0a7967f7f03b61278626a0574a29a0e4381c1cd9e054aaabc9f5e9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/04_photo_imu_power.png",
+    "git_blob_sha1": "92618c8a10998fa3c3ab05cfb4e972f60c485023",
+    "bytes": 790343,
+    "sha256": "65c0892fc28bbbba65123860c075e1b231d6897f784de938f927b1f00df97764"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/05_photo_usb_servo_camera.png",
+    "git_blob_sha1": "afa5378b4b09532f0951a345b055b4088d168fb2",
+    "bytes": 951976,
+    "sha256": "1b3b6171711e690a3569bd1f63555148afdef1790b078f332b308167d3a8fcc7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/HOME三视图.png",
+    "git_blob_sha1": "780b9d7faa8e64d5d5f3e53b689fa30dfa967cbd",
+    "bytes": 220246,
+    "sha256": "a2cb0dc60b3ae00dfc88414e7889583ec7c540b290828fed9485e76687cb360c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/URDF零位三视图.png",
+    "git_blob_sha1": "42931570bb37cd8e83aa0527bcca76d07d1b0c80",
+    "bytes": 206964,
+    "sha256": "f2c5d56deda727d129724b3264c3147bc8e0fa8fa21e96c2049b555f243b9fcf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/app_final.png",
+    "git_blob_sha1": "edda1cbe21dbfdb064cd40fa7a9226becf6ce189",
+    "bytes": 353131,
+    "sha256": "ea78987f70831f3d1811f0d8765a0fa35c593136d39f1cc040ad18dcd1f78c2e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/app_preview.gif",
+    "git_blob_sha1": "a88716de389f64b8fa362c58321a5fe31e82c517",
+    "bytes": 6746724,
+    "sha256": "8f0903448b464e086aa16e629a7fe2cfdaecbda5af0e934bb2588aad315c18a3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/exec-baff1ccd-ea24-47f1-a2a6-6d1fc63a12fa.png",
+    "git_blob_sha1": "71d222710d7a04f0afc2d14f2dfe5b9f5922141c",
+    "bytes": 1695069,
+    "sha256": "e5fdc396910eb8457db3c89ecf5ef5a96f0e5b8f556ff40f6a77a77b9e89b961"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/gif_final_frame.png",
+    "git_blob_sha1": "37c8f658ec4bcc99b24575db41dba915037e982f",
+    "bytes": 312263,
+    "sha256": "fa0ac246315f059fd8f178500202e2a5723c2ca32066f7d900206c2208c2275e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/mujoco_00210.jpg",
+    "git_blob_sha1": "a124276972d196a1f03a91f3929a721970028a2f",
+    "bytes": 159948,
+    "sha256": "10b4ac48d14ab14bc5b0edcc77e5eae1cc61aae37e9a899835f3f30070629a9b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/mujoco_preview.gif",
+    "git_blob_sha1": "c29ea382ca52f2e2acfa1ac055a3851691f7106d",
+    "bytes": 7385766,
+    "sha256": "5d7b4a9ff55a9d27186052d7558e316756693baebb62563c99faa405e72e1aa9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/images/已检查的图像.png",
+    "git_blob_sha1": "afa5378b4b09532f0951a345b055b4088d168fb2",
+    "bytes": 951976,
+    "sha256": "1b3b6171711e690a3569bd1f63555148afdef1790b078f332b308167d3a8fcc7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/release_validation.json",
+    "git_blob_sha1": "15f999d1d57c99d8f74f4f3c5a0916e4f18a551e",
+    "bytes": 3761,
+    "sha256": "5c34a22cdbaa76e4bab519cdf4d811216e7ae960d6e429f157017d9ee2a9478c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/skill_validation.json",
+    "git_blob_sha1": "ec498ee3ac79f5d096d2906959980283045e9f6c",
+    "bytes": 1050,
+    "sha256": "40b8169680938570de1c230b6dc2c7a2268fb3508aee377ec42ce7aceabb00ca"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/source_manifest.json",
+    "git_blob_sha1": "105ff2c03220dac13c18434cebaf09f29d54ff4b",
+    "bytes": 84437,
+    "sha256": "bd8f5d7de0646eae11c2ebc55e773dacd7ca0ef58b0ae95da31556755fe608ec"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/training.md",
+    "git_blob_sha1": "0aa3f2c5d28512bfcbda169b93d952718979754f",
+    "bytes": 1723,
+    "sha256": "66e3d792a1839c80d153124abac06c474016b9e08dd3c682170bfe9ae9a4a8e4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/update_20261006.md",
+    "git_blob_sha1": "611bd4b4919273a424794d1995fe38f81de85d3e",
+    "bytes": 2148,
+    "sha256": "fa1b106d153b509a6ae709e74c7f983a15ecebc568984cb9f6881018cf99fd1b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/docs/video_validation.json",
+    "git_blob_sha1": "6e4694652ad616f2c446e35a0cd0ffeefbca66cf",
+    "bytes": 4846,
+    "sha256": "91dcc35cdf88c65342bebcc4b9a9518e7173c89716083786e80b4fde887d22ac"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/.cargo/config.toml",
+    "git_blob_sha1": "effc29e64e546f3c7668e3c989238dfacb7709b7",
+    "bytes": 1231,
+    "sha256": "1640af64aa50e1365f7660f35ba3872cb5c0a1f1bc3ead2f1d146c29b1392b44"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/.gitignore",
+    "git_blob_sha1": "8bc02f5f96375bd9038b8995b67e097e54b64722",
+    "bytes": 892,
+    "sha256": "117e85e5bc43c86c6700f92daa626856903a2d76cac03f7a6c5e609103632a9e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/CONTRIBUTING.md",
+    "git_blob_sha1": "2546aa058520227a86bb9abe4dd537fe40c07eea",
+    "bytes": 8935,
+    "sha256": "ab9280c6016ca7c0619bab83d4f3d1665c98c24921699aa7cacd3bedf1ecf22c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/Cargo.lock",
+    "git_blob_sha1": "941c61f65e5186408321454937e5051910f97658",
+    "bytes": 129004,
+    "sha256": "2aa18ba260a3e57238ffd805b110b8ec3cb91b9a72a4a3ee334683796314296c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/Cargo.toml",
+    "git_blob_sha1": "a292328667fb83e3a7e75568f1e587e40630154b",
+    "bytes": 5320,
+    "sha256": "17c06cbcb1af28a28c9119e23a61d29547e9791c0b59e5e9d28fbc3058a5fe71"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/LICENSE",
+    "git_blob_sha1": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/README.md",
+    "git_blob_sha1": "d5dae0add0219ed8bcf048dcb8efb5452699fce3",
+    "bytes": 4930,
+    "sha256": "f7f5aedb7e0e9f6cbf1841e2f07e25bb5f89bd3430e55314ae1a64a2868ba9a7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/Cargo.toml",
+    "git_blob_sha1": "987b881d276959962256c7b97e9b19db23bf12ed",
+    "bytes": 2919,
+    "sha256": "660b1fe5593f9f9e4ff111b092561095bcb293c9354bcb665c17cdfac2a413a6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/adv.rs",
+    "git_blob_sha1": "eac71776b5ffff57091a92ce402ed23eb4a533d4",
+    "bytes": 5930,
+    "sha256": "c349d33e49adae7110f970ce91096a787e89f5b09a4b984dbebbff5c35f088e0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/bluez.rs",
+    "git_blob_sha1": "900be631c7400ff36bcd60be18938a628f18bdff",
+    "bytes": 41090,
+    "sha256": "30feca59fdb94cfb10ab97f7092baf8262cbfd79493b54bfdc3f768c0a37ca47"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/chorale.rs",
+    "git_blob_sha1": "5e936c6bbbeb5c17d025419647857cb24f93ed76",
+    "bytes": 23376,
+    "sha256": "9e2bffc1d893eda240f20e344d996e8a8a3b8c90c872b3c3862791deba5ee52f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/framing.rs",
+    "git_blob_sha1": "f48474d1efb7a1a132648e7d4842c23dd54ea696",
+    "bytes": 8560,
+    "sha256": "d3d65704f7050cee3217f74511abb7c9bd4c11db5bd3c53e0f0f0ae35161c22e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/gatt.rs",
+    "git_blob_sha1": "1790f333b38181cfcddaa71a306243fefd3f3846",
+    "bytes": 2769,
+    "sha256": "ec262a9b5675eac4c2cdebc50f71f07c7974009fe3f25dd7716c06ceb697fef4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/lib.rs",
+    "git_blob_sha1": "135ac159c41e920069bfaf3c936589402896cc01",
+    "bytes": 2189,
+    "sha256": "6282d76733dba1f0149c6d8f2008b7d897af0b983dc9955d1463e93cbd4c2c72"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/link.rs",
+    "git_blob_sha1": "83b9fb6544e48620cb1a5b0d2653b9eae99e0030",
+    "bytes": 4113,
+    "sha256": "2960ba5add76c5543f823bdb9101730e463266abb73c3738c8deaa57f828198d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/main.rs",
+    "git_blob_sha1": "2f62f081591e1069bdaa741b660a13eb5e3568a9",
+    "bytes": 8207,
+    "sha256": "181535f650331b7a21c77f21d333a8f4af713e58d7abff05cd52bfaa1aab9e16"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/pairing.rs",
+    "git_blob_sha1": "6586bfad4db31dabf6b3625e70798516c18d1838",
+    "bytes": 9565,
+    "sha256": "6e47d08a9dca998570a5f001a415eb53ab87151ef48497b54476780dfda6bbaf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/route.rs",
+    "git_blob_sha1": "3f97f06133dbb9d0299f6592a49e18c98be85b19",
+    "bytes": 44762,
+    "sha256": "e2abe50e7a6deebd30bb0971c4335ba8a2fa5cfa76f62b01556f5b42cd202394"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/session.rs",
+    "git_blob_sha1": "2b22429de6b84a364e100c024e4658b0dc546f09",
+    "bytes": 38778,
+    "sha256": "d190743f1ebd76f2a745617a40a0ea8f17dfb14c7a3ff394addd237823a9aea3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/src/upstream.rs",
+    "git_blob_sha1": "29f5f0b9fb94e76f31ad42dddd45e8a3b4486be7",
+    "bytes": 13284,
+    "sha256": "52eb3d17e405d2dec6bf15b392a945673994439b2a07267217939afa20e329c8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/systemd/btd.service",
+    "git_blob_sha1": "85cfd27bf0284f24e3b127b2b219ffc1560ef238",
+    "bytes": 3899,
+    "sha256": "fb64b20f44596d4c997db0ba81e69d180959d20c8d6847d32a26c56ed54058e9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/btd/systemd/sysusers.d/btd.conf",
+    "git_blob_sha1": "281a377606f68051319dacaab880d3a42b8bdb95",
+    "bytes": 1230,
+    "sha256": "44b197606cd117f68c3478f3d97977571fbc538f5db423ae3526c41f413ac0cb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/Cargo.toml",
+    "git_blob_sha1": "56a19096971fc621421729e549c3cf6f6b23b10f",
+    "bytes": 2235,
+    "sha256": "7b24d57f7c088db7561be250fe59eabd7e157faf47aacc0ba22dc260eeb25642"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/bluez.rs",
+    "git_blob_sha1": "c30741d98e9ef110bb5498ad753aa9defd8fe499",
+    "bytes": 43710,
+    "sha256": "6ef19dce713c959bb872ed04be6c1bd1114b71ad8de72f99f1845db5e146baf0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/identity.rs",
+    "git_blob_sha1": "200897afa23c667f2f92df4573e7c227c75e1102",
+    "bytes": 7260,
+    "sha256": "7357e76df9ef3202c9dc985a86bac0a059fd3828172938c85c21d14bd03c4b0c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/lib.rs",
+    "git_blob_sha1": "0bb003419b4732f6333c879a2fc27502a4bc013f",
+    "bytes": 1930,
+    "sha256": "42cf665852c3e173e508c05e30f9dffbd940938703467438e7eb7d1393de9bbf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/main.rs",
+    "git_blob_sha1": "48cdeba42539b2e643afeb041f9fe0468eb21841",
+    "bytes": 22673,
+    "sha256": "1e27aac90ba110b0ea7d6ac30e299f7b121ada67821024873868874c35fa624f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/net.rs",
+    "git_blob_sha1": "c693bcefc96dbb01e7b0ac8210eba2e71cfcb817",
+    "bytes": 15062,
+    "sha256": "405e4206952155cc3a154d918e6205f89b1dd6e717c0898080ddd23eda42f709"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/nm.rs",
+    "git_blob_sha1": "63c586a4a6b5147e1dc5aae05f681f3099812558",
+    "bytes": 37027,
+    "sha256": "42639f6762ca6ae7c39b7d95104dfe0a4d4b6c68b59ec8b7166cbcb7817cc69d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/pad.rs",
+    "git_blob_sha1": "abb058fda2270b298243e0a5eb5a9bc35cc9b2ec",
+    "bytes": 19289,
+    "sha256": "97987eb82c8af8d718579447d9d83b6dcf1109754b33c5b85ee1123069988890"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/power.rs",
+    "git_blob_sha1": "169dd3946fe44f9db696401e5f6bd7c480132ed0",
+    "bytes": 2527,
+    "sha256": "eec7fd812765c248e261c62fe1a4621cd0ba77f33f5406b02c0140c6141762ab"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/store.rs",
+    "git_blob_sha1": "5b83760042c1ee99be04f8c4c521e7a2034cfd4a",
+    "bytes": 13574,
+    "sha256": "a138b5cce1ef41dfa64c844fe972011abc6a6ae66bdce4c7e21e4eb6480fc4d4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/src/units.rs",
+    "git_blob_sha1": "667a28918fbc79b34945d1692ce58996889f71a7",
+    "bytes": 10469,
+    "sha256": "9aa63845b32dadd430689f3b38df01f44ca380ad042a6ba0e7c2d70090c3b18a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/systemd/configd.service",
+    "git_blob_sha1": "926839501a776a12ef4950d8190d3fd27a7aa9f3",
+    "bytes": 5222,
+    "sha256": "130cbd29350c8ac13ad2609731d2db2f83fbcc6878ac25c916d0824cc7a7ba66"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/configd/systemd/sysusers.d/README",
+    "git_blob_sha1": "5e8dc50075030d8a20bbe392669015c4919eaf04",
+    "bytes": 378,
+    "sha256": "64c2e5700a0681e26a320cb3564aea371e018c244203e959529ed98f0cd97ec3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/README.md",
+    "git_blob_sha1": "d81d750b603940c5a95128da014e5ac3e0813674",
+    "bytes": 25384,
+    "sha256": "47bc0d9a6afb3599f7d092f26bdafe7ac20018847b47a452e7d68469c0e520a8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/aic3104-i2c3.dts",
+    "git_blob_sha1": "69d9526b106c3f088b83373f33e707ee99f18eb9",
+    "bytes": 3039,
+    "sha256": "5fab9e696f835c77f6dd1d923a910e49a8bf7572ba9bad51203f27af6730c696"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/aic3104-init.sh",
+    "git_blob_sha1": "4c2a0db617a8b3c2d2475e5ebf977564b6582ce1",
+    "bytes": 2301,
+    "sha256": "63cc614c1dc9133d94ff7393bc41f208a0dbd399a2e4bffc945a3d80985d5a27"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/aic3x-dkms/Makefile",
+    "git_blob_sha1": "45b5c60efb9cca93616bd9bc7d11a0c668616590",
+    "bytes": 420,
+    "sha256": "c0425be7424dc69b5f9b973b7bc849c83e6ea2fa40be227fb5d5c8a2fc626244"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/aic3x-dkms/dkms.conf",
+    "git_blob_sha1": "d794398abe2d7d9c6fd3a28657df9a2881ec0bf2",
+    "bytes": 440,
+    "sha256": "8f2fccf94b2bf29d41e5f78f45de1a6b60e7db991561d247b98f7c2a7c07c102"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/aic3x-dkms/tlv320aic3x-i2c.c",
+    "git_blob_sha1": "d7e94d564dbf7e5dd9a76f81598bcaa94bccd413",
+    "bytes": 1824,
+    "sha256": "216466b6990ddb5a07f867053bb3d459a31152a4e6dd08585bbff4c149323955"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/aic3x-dkms/tlv320aic3x.c",
+    "git_blob_sha1": "08938801daec26e4b1adcb1a8147e31e8ef0439d",
+    "bytes": 63877,
+    "sha256": "d828977826122524fa05e91dcb3c9597b876c60cfe3309254e0e571f24c60b80"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/aic3x-dkms/tlv320aic3x.h",
+    "git_blob_sha1": "14298f9e6d9b3cb723c246935ed531302439fc3b",
+    "bytes": 8781,
+    "sha256": "0c1db577de263b7c8161ed9069973385fbf45a0b4a075a582d4dea21ccfde186"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/audio/i2c3-pihat.dts",
+    "git_blob_sha1": "40ae6d4a573caeb971fdc79802e196500b6635b3",
+    "bytes": 2946,
+    "sha256": "39c89da24a5a717aff1716a0c095af676828c3a3d8ebafb808f77c518965cb92"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/dev-key/README.md",
+    "git_blob_sha1": "c5256bcb96a2840cd58ed92b9806a4768ad36d1d",
+    "bytes": 1367,
+    "sha256": "2c771414863112331cc18864ec95f54218596881b3fbfce6d7a5dbc59fa3aa86"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/dev-key/team.dev.pub",
+    "git_blob_sha1": "05ba99f404d1d6ade7c117286c56f4d82e25ff2c",
+    "bytes": 114,
+    "sha256": "d606aa2c9874a542ef4b5394f2631f7e34f0dc6a3e44b2910d8fc434240a7006"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/journald.conf.d/10-robot.conf",
+    "git_blob_sha1": "dcaff843d9b9db9fe12aac9a846c157c4ab2109f",
+    "bytes": 2389,
+    "sha256": "ea98c12f0c07cf715afbf2c7c4e88a0a75c54c04ea2790eba59fb6d0a9bb6600"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/overlays/rk3568-npu-enable.dts",
+    "git_blob_sha1": "6701f0a2e0859d5a16e342d3070e6d22e401e933",
+    "bytes": 1375,
+    "sha256": "0a1cb42659f3edc4e8326c2467c7c16cc7f90ee89af47e4819eb80349a186d59"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/robotd.toml",
+    "git_blob_sha1": "160b6d7531b728edde8ce8e5f113bf83741e1e4f",
+    "bytes": 23143,
+    "sha256": "11bfce6974ebf988ec4fed07be2581a61156e379c4f5a48dfd2b06aded153222"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/trusted_keys/README.md",
+    "git_blob_sha1": "71a1ba680fdcd6daf4b333f4cd4bccfa565798b8",
+    "bytes": 1997,
+    "sha256": "4fd4617d01ec563ae050f0ce17295e6065143f03d6ee5ab6244ab68ff243c44d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/trusted_keys/release-1.pub",
+    "git_blob_sha1": "19e60a9562224156270f0358967160f508042838",
+    "bytes": 114,
+    "sha256": "ff69d327edacca0589a806f9295f12f05c995b10db7078acd8d77fd523de704a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/trusted_keys/release-2.pub",
+    "git_blob_sha1": "bbf58b87c806cd1b055e25cfcc3ebe54ef9410fd",
+    "bytes": 114,
+    "sha256": "22e94876b49d0832d38583361bc808dc8a80ca327e5f9ab1f71d00415d08b055"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/trusted_keys/release-3.pub",
+    "git_blob_sha1": "5b6a998d7b03c5483a0ea146c9d4011f101cb8cc",
+    "bytes": 114,
+    "sha256": "8244201b39c35a341c3ea53342764ad5d9f269f6c5327913e75f7768dc88235d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/deploy/updater.toml",
+    "git_blob_sha1": "a5a3a80fd6c9400e000b6fb670f54fcaaf2dfd44",
+    "bytes": 10531,
+    "sha256": "5e569d663d9f221559529e3f0631973a1b65370cbb1c5e2672cc3bafd6e56279"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/README.md",
+    "git_blob_sha1": "867f71dea5a1a24eae984cee13754b313f854b17",
+    "bytes": 5742,
+    "sha256": "33119cafde9812367765b2852a6a1d6aab2d4fb1300a8f194b320d74a3a53483"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/app-path-design.md",
+    "git_blob_sha1": "361b8df807fc8a05692d751c587952083ce9fba1",
+    "bytes": 53194,
+    "sha256": "5e8336c612416adf9f6aefd1efd9f42c80b2b0a500903990b8978dc2e6b1ce6d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/architecture.md",
+    "git_blob_sha1": "1b2c1e1b795912ad0058d26d0969c3c79576f65d",
+    "bytes": 36328,
+    "sha256": "313bc1d1900da2f68f4d6473ff9a7f4901d466336ab06d87bc4dec2e109f76c5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/boot-recovery-net.md",
+    "git_blob_sha1": "853232015f8a285a39ad5069948622e88de70cbe",
+    "bytes": 13686,
+    "sha256": "2286272909879890f29de82fbe9f8b0464ffdb0e1b76c074aa18065a037db7f2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/policy-channel-design.md",
+    "git_blob_sha1": "34f686c9559f7767d225f7e659cb46cb1df192a9",
+    "bytes": 50423,
+    "sha256": "7507e13c1834cd0789eff419b14f7cd9627f9d259bf956254ac9bc75f09d2e54"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/remote-access-design.md",
+    "git_blob_sha1": "d1008352913260773995d782d706680310b2d786",
+    "bytes": 43360,
+    "sha256": "6e377c62fe6cb1d13d17a7763ab7710615ebed5548d75318d15b3f86145e1e4f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/remote-webrtc.md",
+    "git_blob_sha1": "60b6188ba2a8c19fee01a52ae06d6db7896cd139",
+    "bytes": 33685,
+    "sha256": "2871c2095afef9554f16f083d33a8bc4ff90fd5c58ac51091104ac25f955c3d5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/restart-order.md",
+    "git_blob_sha1": "04b2003ef759acca3043d5f7508198337a06b124",
+    "bytes": 27633,
+    "sha256": "a7c308e64b2f064a5538136a1328d91653c39b4f8b1dd3c8b77be21436b44c19"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/robotd-design.md",
+    "git_blob_sha1": "3cf00dfb4c2b10af310034083d62fccfdd47207f",
+    "bytes": 58030,
+    "sha256": "b1b0f5266bb4b7caf91b22935e09d238206a28b1feb900007d0efcd1ea4de5c7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/updater-design.md",
+    "git_blob_sha1": "1fb552e3bd1b5ad653f0136447c5df2b71cc86b7",
+    "bytes": 85210,
+    "sha256": "e0ab2618da530433ee75fac2e9ba744d3aa1112da0a4b2a888d335cf89d7bdf8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/design/webrtc-console.md",
+    "git_blob_sha1": "35d608222ca5cfaee9233bd166cef851d6d5aa57",
+    "bytes": 21888,
+    "sha256": "12a078929009e6cd7d6da29f1b7030c882ebc39c2663925bfe916649c0904cd2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/ideas/autonomous_behavior.md",
+    "git_blob_sha1": "001805256839f92856679d557c798d6efdbaf2ab",
+    "bytes": 6703,
+    "sha256": "3eb2d06bfacb611cc91755ce9d5a3e4341757cac71efde8b19dff61148fb47e5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/policy-manifest.md",
+    "git_blob_sha1": "a3e77cb49ed2df88b54e6ab55c7ecb5e9b2b02ae",
+    "bytes": 7303,
+    "sha256": "a0ad3cb9c5643e8599614a4459182ee1b81bea1482e03ac251f09f5a2463ce6f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/ci-setup.md",
+    "git_blob_sha1": "f936b876d1575248a3400b325ae16a82d24051a2",
+    "bytes": 11243,
+    "sha256": "4183ac420ab5e4d2dc02e001bad528fd5bc62271e1be4a5b28cbf66af6d3e215"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/idle-cpu.md",
+    "git_blob_sha1": "d6e368612769f3c69ae12c4fb2956b17ef4e003e",
+    "bytes": 6798,
+    "sha256": "62105f604f57560a4fb7ccce6acf4d37bdca4eb71fd67419fdd40a5c547690b1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/install-path-gap.md",
+    "git_blob_sha1": "2ef76259704409568c8c2a542889f04a35264c9c",
+    "bytes": 37275,
+    "sha256": "fedce11fa19a48ebb8bdae647ddcfa50c0aa02b2e0e0414d3e9123a7b4e188f6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/media-bringup.md",
+    "git_blob_sha1": "67cef93480b4fe39918481fb9304c891940a6a2d",
+    "bytes": 32851,
+    "sha256": "0b9d434b86d19771eb0a7ac5f0d89937f0e4c4e273fc93bd0c2809c190a5350e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/npu-bringup.md",
+    "git_blob_sha1": "326f4c8ab6434dd6a7b84df7183b83f2e8ed36da",
+    "bytes": 6225,
+    "sha256": "8eaa0629e19e90a05cd1ab36aea703aff0678c126bfe8db6b88fe3a16793cc87"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/pad-minimal-pairing.md",
+    "git_blob_sha1": "915a60c4ee1fae2a1fa47442e3a67c1d45658b87",
+    "bytes": 9958,
+    "sha256": "b6c31fc9fd2d21c34bb838b150b9a58b861bc73f2f81a681aecea66efa0e1d27"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/roadmap.md",
+    "git_blob_sha1": "4a559df53b1a8a8cdbac2050993904e9c7c9e257",
+    "bytes": 25279,
+    "sha256": "025d5a23d54efff68e0642a76c4abfd960eeaddcceb71ea0fdaeea877259a4d1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/slice-2-bringup.md",
+    "git_blob_sha1": "29f856e499e13266a38817263d26e4ddf9773fc0",
+    "bytes": 8098,
+    "sha256": "ef8c2c6becdd9cefd0936556375389b9ad035b18ef39afeaf0f2d4f9a976091a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/project/update-over-ble.md",
+    "git_blob_sha1": "33d825d5e2d59167ce3b8b9e8b88358b802a4607",
+    "bytes": 10222,
+    "sha256": "0c91d45fc90a0007dcb39dccf42da060f2f777d35e74563034cfb313c176f62b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/robot/cheatsheet-dev.md",
+    "git_blob_sha1": "0d657296425378e936c22dc545d0e4e8d6254485",
+    "bytes": 6237,
+    "sha256": "6dc6b0e385be4f169335079517b8e5f1c62a75ebc08f8e77a71cbf778f07ad79"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/robot/cheatsheet.md",
+    "git_blob_sha1": "d6c3676d266df48e4c5568432a106ddc84ea683c",
+    "bytes": 43239,
+    "sha256": "f3a6776d2c6c2cec40cec7c50359adb15c362db10f38007156b609ba5a2ee626"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/robot/dev-push.md",
+    "git_blob_sha1": "f9d0b949cc799f2d924b1b685342a20471ed706f",
+    "bytes": 12495,
+    "sha256": "92edb91cdb8ad33be107fbbd7bca72d183ecadd3ce93458ff7cd3d6cec3bc997"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/robot/duckctl.md",
+    "git_blob_sha1": "c3d02dbe8109b8ede92a8710487e8c313eaa2bdd",
+    "bytes": 20155,
+    "sha256": "3be1fbaea898e7593c155a378ed27d38fb6e6b920edd07f63d52163f0136689f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/robot/install-by-hand.md",
+    "git_blob_sha1": "f9a8661da67c5dbf9085a13b514ac4af694d6760",
+    "bytes": 4394,
+    "sha256": "a1ac50910e47951c6634ec63df0b75ac06c8d55735801383732cfc3741cd06c4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/robot/install-dev.md",
+    "git_blob_sha1": "e7d73f3f42f7b439f6cd2c4a00f067ece3f053fa",
+    "bytes": 12874,
+    "sha256": "72b089e630bd81170c6ca1eec5d2a93514ba99bafa7e3c47073dc330380003aa"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/docs/robot/pair-a-gamepad.md",
+    "git_blob_sha1": "072a4eb2012c3d8e84b4e64b9906f8995cf93123",
+    "bytes": 11523,
+    "sha256": "4c86767a49c8aa83c76ec6a6569708149926afcdc62fa4d458f34d6424a239dd"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/Cargo.toml",
+    "git_blob_sha1": "9f72699d7cfed0df7efd9f3170565a4df29b5b14",
+    "bytes": 2417,
+    "sha256": "0946650b154d904ecd46824d9694c3f1242867506eb81a002d29e09280fb6e6f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/examples/feetech_policy_probe.rs",
+    "git_blob_sha1": "36fbbf9cb4ac9256704c847a56e542f5d5062f04",
+    "bytes": 2997,
+    "sha256": "f7ad3a01cbed844c9293db4ac2d47ba556b7025275769ab2e974ee9b6d912161"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/examples/feetech_readonly.rs",
+    "git_blob_sha1": "2cec50a3c0575e68aa4cdc9ec466094e4818d1e0",
+    "bytes": 1872,
+    "sha256": "93faf6fd8d0ec6783d827fabfeb42900c0a00b4b8dde07e931dd7dc754498223"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/examples/feetech_rl_bench.rs",
+    "git_blob_sha1": "c69cceafbcc20186fda6dbf865d71708253c006b",
+    "bytes": 40775,
+    "sha256": "c096a580801428420ee5c1ede4a337fdeed974bf655f26fc332ab23a85706122"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/examples/policy_offline.rs",
+    "git_blob_sha1": "b8e5c25a2619304f2f6faef2d8cedeeb4f67d499",
+    "bytes": 1316,
+    "sha256": "9433992b46cb1b5610d97ab13a118778a2f37f121176c975f2f57e7b2fadc949"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/examples/support/bench_control.rs",
+    "git_blob_sha1": "a0fd849da1348e01ffd03e30e75cd3a3a7e51ad6",
+    "bytes": 3638,
+    "sha256": "c423f218d83f6b753f1f90ce954db5b8d7e12e6270acf6bdeffcfc9a9dfb80d1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/bno08x.rs",
+    "git_blob_sha1": "12f0602d22db1edf0b4f26f31698b4f1ad71d439",
+    "bytes": 23287,
+    "sha256": "5d5e367c6ac4d88d59edc626f9a107c21036babb6c054ef839933ac8d5d1b6b1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/bus.rs",
+    "git_blob_sha1": "00fbca9c62c874652a23a1ccbd440ea7d9a19b9a",
+    "bytes": 22154,
+    "sha256": "d57ba4cce8aba11132a2680d4478fbe112f434e88d8f27fb390c72cd3cdaee19"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/fall.rs",
+    "git_blob_sha1": "2de79c1fb494a6cbaee4c79c3c0f79948f22fff7",
+    "bytes": 11674,
+    "sha256": "6560a08585884214ccd3c54e2dd54bffcf378abbf8b4da29f26da7924da51dca"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/feetech.rs",
+    "git_blob_sha1": "19c8d05c10aefe2aa6b448c31f4ee23b3066c8e8",
+    "bytes": 95466,
+    "sha256": "294405373b112bb85f66f29112155ee8b91b8feea4bd473d006410967b11b08c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/hd1910.rs",
+    "git_blob_sha1": "3b8d40eaac80367adbe7d49e837e76b98666f19d",
+    "bytes": 5879,
+    "sha256": "59a84144cf590d761a58a9e848146d2b4e14373b31d1a8beedb07acd746cb85e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/imu.rs",
+    "git_blob_sha1": "436fc6ba9302543160e773e6833d2882ff30a073",
+    "bytes": 13735,
+    "sha256": "1ac4d16e38d879c3f4e825c186be9ec27a92ece5cf634b4b93011a826a3d5b47"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/io.rs",
+    "git_blob_sha1": "f28897e58ae1474f17d75a5fb6c0e649da11d9b8",
+    "bytes": 13705,
+    "sha256": "85195a6da5b0d6b224642f73acb2951a2cdbc4cd74e231c2fcd1648945c50488"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/lib.rs",
+    "git_blob_sha1": "074a9956b0eb0a48d43011f8896ef8983c8ab255",
+    "bytes": 1082,
+    "sha256": "1efa5d630d3592018b1e673e8f9bdf51c41e3f0fc3bf34a458e31a019e12fefb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/model.rs",
+    "git_blob_sha1": "5989b0292ce687bd652e7b96b87b1099685d6d44",
+    "bytes": 9967,
+    "sha256": "9db82fc263d699c0e5c2f086dd7822c077257084eac219c565076e1309737a75"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/obs.rs",
+    "git_blob_sha1": "de1fcb8476a61fc00a181d62df2894323c6b7664",
+    "bytes": 16426,
+    "sha256": "04cf7c2b5f3610fc0ffa6450cd1eca4e8e0f5acc5775abaf86bdeee5b83589ae"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/policy.rs",
+    "git_blob_sha1": "2086e93215dd05cef7a90b24078973837bf59ee3",
+    "bytes": 38629,
+    "sha256": "f007d251aa37f7e27717beb7d4b842873a619bab00673d30f52727142b0d354d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/safety.rs",
+    "git_blob_sha1": "26149ee08e84f0caaee1140a7a14d3416d464e51",
+    "bytes": 23320,
+    "sha256": "f50e458abd330a69b71b5da1018230683b724389083166045a6a18677b31696f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-control/src/sim.rs",
+    "git_blob_sha1": "81252b5ad57e5b66ed8fd76a4ec7cfcb7378cd29",
+    "bytes": 17775,
+    "sha256": "dd111e32985ceef617a748dfb174c92ace716baec707ae9f8d19893ff01b324f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-detect/Cargo.toml",
+    "git_blob_sha1": "c5ad332c2f30d94e52afa8454c368bd577ff246d",
+    "bytes": 1070,
+    "sha256": "585658f207793f7b8e99bab58537e4f89ff8a60ebb2486c7343c57c2386463de"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-detect/models/duck_detect.rknn",
+    "git_blob_sha1": "49fce2e23be9044e8865c0eee2a2a4e731d865f2",
+    "bytes": 3851471,
+    "sha256": "b3b79b7dbddeaa51a2475f4021d8ae2004f870cf6f4ad5291f88ae9077ae475a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-detect/src/bin/duck-bench.rs",
+    "git_blob_sha1": "350ee0cc19c6429923e82066d5f493e4d110a0aa",
+    "bytes": 11708,
+    "sha256": "7463f62c66cfa955907bee0d42a15df240156bd9c2e729d2613e992023300b3d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-detect/src/lib.rs",
+    "git_blob_sha1": "3407f7e590ea912b1319aabf3d890f6b84d5e18f",
+    "bytes": 20263,
+    "sha256": "ec6e32130b5800ea1cba75eb1e066a3ee0b3ce4249b8ce69ad1f5bd7849765d5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-detect/src/onnx.rs",
+    "git_blob_sha1": "bc8881ac3fefacd4ab149926e40cad535db4fa22",
+    "bytes": 3837,
+    "sha256": "90202a3112fa70bace22bc40596c0582c717bb3b7c7735577d950949c202032a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-detect/src/rknn.rs",
+    "git_blob_sha1": "6260c49f0df9a048d42dca229e53467c77f8139c",
+    "bytes": 19708,
+    "sha256": "c0231af64cc10f6e7751bc36c48d296d6e0aa1c39870920f107cbd5e76a3981d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-ipc-proto/Cargo.toml",
+    "git_blob_sha1": "141cc4d516dae628947addf2f498bf4571e99166",
+    "bytes": 1017,
+    "sha256": "5d529590c413cb9298259a0577783842bde33e3b59612cee7e96f393d48ef5ea"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duck-ipc-proto/src/lib.rs",
+    "git_blob_sha1": "9edc489d1e6fe8eac0b8b27e6723a57dfbab5909",
+    "bytes": 268749,
+    "sha256": "d38298ede30cd4a24f6f5b4b5e76df3066dcc09b3b5d224fe788145ed968ce26"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duckctl/Cargo.toml",
+    "git_blob_sha1": "4b8ff521c8daec18991202e57bed603b741efa92",
+    "bytes": 3112,
+    "sha256": "a0a90f7e99a86519527fae1ea91a216beac28602ae8b8b1ec9777789772e5860"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duckctl/examples/advwatch.rs",
+    "git_blob_sha1": "98051ee766a9856de8162f8e53bd4fb84d829bcb",
+    "bytes": 9033,
+    "sha256": "fc80e34c6fd6adc8e93648499877e17bc1e3a988dd04783810ff54df54d10326"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/duckctl/src/main.rs",
+    "git_blob_sha1": "b029d6d5344898dd358c3e76c9cbe25ad960f81c",
+    "bytes": 140863,
+    "sha256": "d1e2732a8da9bb0d9e63ace51a99d59c47c3b8891b1e827f9f25e1944809b089"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/hooks/postinstall",
+    "git_blob_sha1": "ad5e6513fbee9be549bbcd8acd44bbecc048ce0f",
+    "bytes": 8486,
+    "sha256": "ba8c0a694093fe6dd53a6c7531f1c0b4b6b60d2771b692f2b090833dc20328a2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/hooks/preinstall.in",
+    "git_blob_sha1": "270821882bd3c76a32436585c57c2fb428312d17",
+    "bytes": 10165,
+    "sha256": "594c26355b10f0902278fe35cfdf9bd268a3c35a4a00f5d327b0aacc4b21eaa6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/Cargo.toml",
+    "git_blob_sha1": "caa1604cddfa1b5e520fcad34e041b6269638b93",
+    "bytes": 869,
+    "sha256": "a62537e0a9e2c12a34d469569e46d084623b27084b6a7c9289f8c2245fac7fbc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/assets/alpha/robot_walk.xml",
+    "git_blob_sha1": "96b702a7c0783dcadd4c12b12901f3f60251d41e",
+    "bytes": 6881,
+    "sha256": "078693dff3bcd5e69eb6cc483974178e1511a11f762b1a4dd00370bc5d58b8a8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/src/hand.rs",
+    "git_blob_sha1": "8ca490199923180f96a1eff5046b27bf10f39b6d",
+    "bytes": 16014,
+    "sha256": "f891b8c3419788c05663323873c4c9ada1ba1a37cd0c9c075855c40e5bb6a569"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/src/head.rs",
+    "git_blob_sha1": "95e1ec5e8597ec5e49065d275e0e23458299bb20",
+    "bytes": 14808,
+    "sha256": "5620296511a67199e68155f7ec058e2613dbcf2abf45febd1d07dbb854553ff4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/src/lib.rs",
+    "git_blob_sha1": "48898f3126484e3b959c31b09753ea53a2027561",
+    "bytes": 10280,
+    "sha256": "9382bb43c6f4108ba87400a62c8c391258b8e9bc46f127f014d7a07380a5465c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/src/math.rs",
+    "git_blob_sha1": "65172acd04b5e63112ba22f8ecd7e155f510017e",
+    "bytes": 6144,
+    "sha256": "f5ef74e4abb1cbe4410be561a85abab7d8e9bd374b1157480d1b00918474c316"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/src/mjcf.rs",
+    "git_blob_sha1": "374b538d2dc7d89ae53d2d9da509848ca7167d6b",
+    "bytes": 7044,
+    "sha256": "95a2372a4e50691132c984428ed95a78ff5cc85299fc0f11c174945277e68225"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/src/tof.rs",
+    "git_blob_sha1": "35cc94e4a5e9e12d914346c8b6681b9f363279fb",
+    "bytes": 15724,
+    "sha256": "1c613f352c9db19080b9dbad2c045223956cefc6fec09c9d894218d82a5deea9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/tests/fixtures/fk_alpha.json",
+    "git_blob_sha1": "24109f20a12a0c0397105abd9f25320333403017",
+    "bytes": 163350,
+    "sha256": "dc7b69ac2c2bfe4c527f46bfec2ff7f5740cc4afb69676d9b4fa77f2d5885c2b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/tests/fk_against_mujoco.rs",
+    "git_blob_sha1": "b88cd765cf29e108314bb7aa8c0e57c7d7099421",
+    "bytes": 2880,
+    "sha256": "0d5857a0e77d187316faa71e50dede6ebe448dfa94829e192598d6407ef9ada7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/kinematics/tests/perf_probe.rs",
+    "git_blob_sha1": "90933690a2e5095411ee16a78f5a6103b2e05d47",
+    "bytes": 2327,
+    "sha256": "df95426f45e23fa124c2f2cb81963ca0eb89f4e04803127c2a00f67cb0ce3891"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/Cargo.toml",
+    "git_blob_sha1": "e77b50ffcc480fc4a7cc275ecafc5ea108ce6137",
+    "bytes": 4465,
+    "sha256": "c14661fd9d4f7c02574c78bf4ce19beed41c7d738f4a12cabe9c8a618eb3331e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/config.rs",
+    "git_blob_sha1": "ff38b936a29f9d2ca1a665884454bf9683b123b6",
+    "bytes": 4329,
+    "sha256": "1f0c4c6176f22ad8528d9cdd847367c575e1730ffdb4671781dff5ddd099dab1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/detect.rs",
+    "git_blob_sha1": "2320d86b79af426c2a3950168c58e695791f313a",
+    "bytes": 16776,
+    "sha256": "dd539d54c5f25c792ef9b1d3f6b7ec1e6f172dc39c6f18d3d692e047ea0566c5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/exposure.rs",
+    "git_blob_sha1": "7264d5885d94730b9d6cbc6221a8e16c7882282c",
+    "bytes": 26059,
+    "sha256": "8a2a8bef43b09c71d5830a0675c8af4301cd2961163a4440bb3f9709c45b3e65"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/lib.rs",
+    "git_blob_sha1": "cf7ee95adfda04b98a1cd9aac9aeb8752852cf08",
+    "bytes": 1852,
+    "sha256": "1bb749cf7c8439b9c26fdbf2328fa9565aab16608e4a741a2775a5d4fd40be0f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/main.rs",
+    "git_blob_sha1": "6289656d2e961c1dd723f2858906266079fd6f0c",
+    "bytes": 19277,
+    "sha256": "87904d2ba43b9f89cee65c9ee3ad29d1e798deab5aa2d81d86445b9f4218d12d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/pipeline.rs",
+    "git_blob_sha1": "ac96d75687667de991168a6886799cb0cee6847b",
+    "bytes": 77686,
+    "sha256": "94a68bb688d81206cb8a1663b82c84db8a4fa42a6b2e092459c7d12136984a38"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/producer.rs",
+    "git_blob_sha1": "3c1d7f2890a52f232b3f789cd98c0594cf6a24ba",
+    "bytes": 9206,
+    "sha256": "a7bb25e53f83aaacfef0e7e48cffb647f5e82368cde0f886bba79ce4663cf26b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/route.rs",
+    "git_blob_sha1": "47fa7421ad33e26c14b94dea05adfe2da9464858",
+    "bytes": 28804,
+    "sha256": "98f21b6115ffaba092ddf142999ef60457503fadf1469f6f5338bf932f81b475"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/session.rs",
+    "git_blob_sha1": "2b013b42ee1ab6240abe93696a7cb7ce071565c0",
+    "bytes": 19290,
+    "sha256": "b2c5e99c6f9328da237c8876557b766086fca91c211181de1d37336d65e20ad8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/upstream.rs",
+    "git_blob_sha1": "b7eaf4e88ccca5a9717bbc15d6979cdf7d6bb2b8",
+    "bytes": 7802,
+    "sha256": "f77ff2d533e5e8f305466a25198500a3b27efe37fc410f0fddb4da21efa71bd9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/src/web.rs",
+    "git_blob_sha1": "8ab2be1e47576871781c1a9c18badf7d935f36fc",
+    "bytes": 8166,
+    "sha256": "f64d0573aa2c9c1e9847b551936ee21a142e5e798b56447da66bed18f6c2f114"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/systemd/mediad.service",
+    "git_blob_sha1": "0e86e94748a3c15ccb722b62da441c6809ad59d0",
+    "bytes": 8396,
+    "sha256": "b469b1e09f1aac4721a2372fd58dd753d61193b76bc53d922fc887ec4678573c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/systemd/sysusers.d/mediad.conf",
+    "git_blob_sha1": "62fe095db72aa6c7347db085c062639c4d75ffad",
+    "bytes": 1068,
+    "sha256": "8392279e34c3ecabfaa1952aedd6ef099fb0c8032915f3b4f358624b3a0a1d27"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/mediad/webclient/index.html",
+    "git_blob_sha1": "adb6e6e7db07a74b41320c51832dde0b9e64e566",
+    "bytes": 47991,
+    "sha256": "b9f9a7c9c9b7ebfcc9eef205d0f44a6f02987e0cd01f741d67b64bd4f47d962d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/odometry/Cargo.toml",
+    "git_blob_sha1": "f3cddcc9c5a53bb3e617adc4d9c9868e8f7e725e",
+    "bytes": 751,
+    "sha256": "67eca960b2b2774656ca3e06491efa994eaa7f14bb41513053222dd91a571f7f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/odometry/src/lib.rs",
+    "git_blob_sha1": "a3742b5c5ce05786dc68c5a59435673ab742b61a",
+    "bytes": 13095,
+    "sha256": "6f3801a25d3235ba5cd3f32af52886e63440b54f5e44c5bcb11f12947000a98a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/padd/Cargo.toml",
+    "git_blob_sha1": "4a6ded09c06745809cc8523fe2adbab8a0d9368e",
+    "bytes": 2243,
+    "sha256": "c741f738e17121eb892248e9fcd5afeef8650513a799d3369bca0e6f1adfaf1c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/padd/src/main.rs",
+    "git_blob_sha1": "15de674e74e022f8fcfefa96469a07ecb87c2911",
+    "bytes": 46472,
+    "sha256": "7634e9ade5459b9aa6ad5a6536c27b4c536ae9f92dbcf298233bfac30c98a814"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/padd/src/tap.rs",
+    "git_blob_sha1": "db7a9219f60e04573187223adaf399248ed241a0",
+    "bytes": 31541,
+    "sha256": "704009a691de8fd5ecbd9401f4a38a72fa7078ddffc3c78ede26fea9f2aa8662"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/padd/systemd/padd.service",
+    "git_blob_sha1": "26348fca91295aa9d111c98c07a0bcb6e6e75cf1",
+    "bytes": 5187,
+    "sha256": "6f94c1d8a45b4ab30c911654eb176db7bc28948f4f466b58518b73f3bbbabed0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/padd/systemd/sysusers.d/padd.conf",
+    "git_blob_sha1": "32fc32a7c4fa5875341dd3fe95cfe5512211ab3e",
+    "bytes": 1126,
+    "sha256": "14de7d036c40a432a033f97b66b473de8b1890aa6eb449ecee65b93380396c76"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/pet-detect/Cargo.toml",
+    "git_blob_sha1": "75b20d8fd256038d3e393f1f5811389caf118e0e",
+    "bytes": 926,
+    "sha256": "1af344691e40c4cb4525455ee5dc4cbdfb3f0bb5eb8e97429492e4b94d594c6d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/pet-detect/README.md",
+    "git_blob_sha1": "4de5189847409e581b8b7bb01febc7ee8afba0ca",
+    "bytes": 1605,
+    "sha256": "111c7febe5c076d5c4286cbb41fd1b7d7f256094a918191894ca2af91b1ec98b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/pet-detect/src/bin/detect.rs",
+    "git_blob_sha1": "af917628334e9c1246008156edfcc3703f46242f",
+    "bytes": 2726,
+    "sha256": "b9ddb5429ef907af724d37f71a7d3f8fe38efe27582c206f20f3dbca41f6e1f0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/pet-detect/src/bin/features.rs",
+    "git_blob_sha1": "26e3e5d27bba770d27a8cab5d91b21316834d0be",
+    "bytes": 1656,
+    "sha256": "bfbaddc9f84daaf53c5dcb4bf645e9dfe5c3fd67e4ecfc5d50f3b4a5938c85f5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/pet-detect/src/lib.rs",
+    "git_blob_sha1": "4da0ba7ce1ca390fb71f0f9e538bdaaae9457c81",
+    "bytes": 13661,
+    "sha256": "fb8419b2e12c4cd63b4f93dc1783e8e0d49760077cf7ebf671723d774d985c92"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/pet-detect/src/worker.rs",
+    "git_blob_sha1": "e32fa0e3b97e46238db9a36d356db172bd76a390",
+    "bytes": 21004,
+    "sha256": "e4c50deb28795d86f032527bf58e7e95d119bd75e99a8f61cf8fcd79f21ad614"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/pet-detect/training/train.py",
+    "git_blob_sha1": "b7948a122f2b42698bcb5312b383806d91f25fc8",
+    "bytes": 5740,
+    "sha256": "7decbc6bac47011a8c2887a3168cd0409f1b69d9f8bb40644cf4c7886450fa78"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/Cargo.toml",
+    "git_blob_sha1": "ceeeee3103683c240ff62245975d1fd913b9f456",
+    "bytes": 2590,
+    "sha256": "00d753e306eacd60cb6ab0d9b404f6dfe4ef346b1b94505a0068aad2ea2f014b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/assets/duck.bin",
+    "git_blob_sha1": "9ad4e3b9b879b7caf97155d3e48156043c798dac",
+    "bytes": 68622,
+    "sha256": "1e1200053e2326706632306bc80831d5e0dfa5462d792a677fc05a43f145651e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/src/configure.rs",
+    "git_blob_sha1": "17c3d86bedc8758a67b6669a04640bd33840921d",
+    "bytes": 32423,
+    "sha256": "1f0384294e8b5cc0af7af9ff022c0d35b974860cc8399f31b0c4697d82714df2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/src/duck.rs",
+    "git_blob_sha1": "cf5d36d36d740f83b8cc5a246e1e1b51429727e1",
+    "bytes": 37646,
+    "sha256": "25b22ba4c996bb4d2e5cc700fc61fc7689d0b468105fcd0a471672498047eb32"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/src/main.rs",
+    "git_blob_sha1": "80867e25dfddc3da61d1708cbc2c605913f7ec58",
+    "bytes": 269218,
+    "sha256": "53c8f0184d838d032643677e3b668333417f0b97eefe9b7d8944a1bc5df4c312"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/src/monitor.rs",
+    "git_blob_sha1": "1106583f555e626495cc0843e5c5874d5abb0238",
+    "bytes": 180770,
+    "sha256": "8d35f2a7b098f9552b66d7c78b3eb12d926299c8388a804d0e45dd000bb76cd8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/src/path_map.rs",
+    "git_blob_sha1": "e32d5e123f98c0e4846b43890c465ab628f54229",
+    "bytes": 13373,
+    "sha256": "88d0dc7eac871d146a979df05f19846632f0fbb8fb01c7574f290c72c8939941"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotctl/src/show.rs",
+    "git_blob_sha1": "869e480d8e1d1cdd948b2f9b072ff4ed59e560d0",
+    "bytes": 30262,
+    "sha256": "3504cd545251d8e17baae24cbe26701f02bcc7d0f65da384efc87c79b43e6205"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd-params/Cargo.toml",
+    "git_blob_sha1": "c4afef3a0f01dde6917753d021271127a583761e",
+    "bytes": 1451,
+    "sha256": "fef345ddab3c69cf787360a59e9f5bcad19195a82b72746ddcfc05e25e455001"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd-params/src/edit.rs",
+    "git_blob_sha1": "adf21ef0085dcc781206c9a25375b133e79d3d91",
+    "bytes": 58457,
+    "sha256": "2b7d26267c102be5ebaa92c24cc42f63ef0664b0c4bd708d2118dc1cda26d966"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd-params/src/lib.rs",
+    "git_blob_sha1": "29b99925fb57c4779d1f401121b463871fcd5bb6",
+    "bytes": 134674,
+    "sha256": "efb6626791e4cffb87d7f301c25994249e87bde817ca84ba92e44e323e855716"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd-params/src/registry.rs",
+    "git_blob_sha1": "b4bb29ea1598520e0e7936219e9fe967eea6f604",
+    "bytes": 23766,
+    "sha256": "32c291355fe72f7bf8883631b73eafd903b1446ee7510f7f149b903e1b9b4443"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/Cargo.toml",
+    "git_blob_sha1": "c3e64b395cd430869a2c9707c0e733c2c77bf84e",
+    "bytes": 2592,
+    "sha256": "e6313a936b549c7bd9214e59f5e96236c484080c84913a8be96c9db77f1ac1d7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/chorale.rs",
+    "git_blob_sha1": "3d1d229af3cf3e743e11d67da3083e5be25af64f",
+    "bytes": 56062,
+    "sha256": "f4b67edd128fc3d679c76261c3fb342fbd687e65c82991ca802869ada1f40110"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/control.rs",
+    "git_blob_sha1": "fa6a6f43f101a55caf827678d0538d5ecb6eccf0",
+    "bytes": 45995,
+    "sha256": "d8d71be12a95b0c636d811009c7ed7fa5f042fc610cf80c46ac6c120d9ba29b4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/imu_only.rs",
+    "git_blob_sha1": "0b744d9d7adff7a8e61b75f3dc39642635a6aca1",
+    "bytes": 5459,
+    "sha256": "597d30e3d66aa920235140ce5566fc62c1b81a23dfdc7850c80ae74bbabf15d8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/intents.rs",
+    "git_blob_sha1": "f87702394ca6d21a9e264cd2083c2463285e2f2b",
+    "bytes": 29852,
+    "sha256": "3eec24e9fe158b6e6296bea017ea77fd412c38c0180a8d2a465127175abe6b1b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/main.rs",
+    "git_blob_sha1": "90999ee1eb777eb765e9fe4e7506573665f41760",
+    "bytes": 346953,
+    "sha256": "d795108566ba1815c35d5660e9e58c41fd21fa0e5e56fc041e198eb6dbb1294d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/params.rs",
+    "git_blob_sha1": "11964411757dee19f6ff3769b7039006d583324c",
+    "bytes": 361,
+    "sha256": "386305e3ce00a409f6527d2be2048a927c2b448423ed1bb9fc63f29af0ff3064"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/soc.rs",
+    "git_blob_sha1": "0e25804b718e5b7231190b212998589aedaee24c",
+    "bytes": 3751,
+    "sha256": "a0952f1e10eca4a44f655b0d90ff3f07ecdb7198e16f0be0a3e45a3916070ce9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/sound.rs",
+    "git_blob_sha1": "106b151dbcaba57b0c882e0abbd13fd21917f96d",
+    "bytes": 41876,
+    "sha256": "9682c35f6242d86ae0c3a2e9182d2a9a85159bbb0ab6ecff6fe31d049f404c55"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/src/theremin.rs",
+    "git_blob_sha1": "9527675cb1e890644fa023a993276200d14d5e5b",
+    "bytes": 20732,
+    "sha256": "498335f69f7ba185fac85bdbc2ad692db7c89d1b729b3a86e06c0254d7f24749"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/systemd/robotd.service",
+    "git_blob_sha1": "c2dc06aa808b860e58ab58b40ce123bbec84b5e3",
+    "bytes": 4425,
+    "sha256": "6a27fe4da782adf0ba677d7605aa79b440500beffde8cbf76ee80d4f3eb0b737"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/robotd/tests/updater_gate.rs",
+    "git_blob_sha1": "e35957c880a663ab5cd61d60e3c9d519f34fa573",
+    "bytes": 20456,
+    "sha256": "43b0221b0cffb6c181c5b182197d68a5971f218ac2f93d77e6d129019e54172a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/bake-duck-mesh.py",
+    "git_blob_sha1": "cd3bcaab9220d3368350c08e21dac571e7b493c5",
+    "bytes": 8989,
+    "sha256": "3cb2060e2bf44d3fa93a4fbf736e6b0797dce54c9995b0c0a53f4900b1205044"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/board-test.sh",
+    "git_blob_sha1": "a6dad0cf4d8ad45dcc6147c9fc40884e329a7f6e",
+    "bytes": 55061,
+    "sha256": "ca81c813a97d8d5f7a356edd9e9c90af079b6737b813726d83651523633fd94f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/ci-release-notes.sh",
+    "git_blob_sha1": "9b45ce06b4845b0d172e2796a59e626c2f366383",
+    "bytes": 2744,
+    "sha256": "eb3edd66ebd0a34e5b9491c1c553e98cc2e9a55ae797a1ef5abce94aaa1d6377"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/cross-sysroot.sh",
+    "git_blob_sha1": "30a11769897d48e41b9ecd0dbb927913c2eed041",
+    "bytes": 9772,
+    "sha256": "24e92c4c69fc669e167437855853275fc1229cecece5b978eea57472a68dfeed"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/dev-build.Dockerfile",
+    "git_blob_sha1": "7c957ecc1946b92966961cafeefad75a7f842cfd",
+    "bytes": 2111,
+    "sha256": "a18fd5087ca9e397ef8edfd7e8a67292fd428debd0bfd09fbe1e3067458041b1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/dev-push.sh",
+    "git_blob_sha1": "737592ed5cc2e8449d5c6e6a8a82b1ba50ec3e23",
+    "bytes": 29196,
+    "sha256": "07432908be6d145604003df3ec2ecf26922fb6b6d1ee3c69516b262f295b4722"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/install.sh",
+    "git_blob_sha1": "ca7fe2ac1ffd7987b63c839aa79ef2895545dd88",
+    "bytes": 50788,
+    "sha256": "698c3767170617a8463a6240c2dea20fc818ccdd6efacda1f1365589014f7aae"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/migrate-network.sh",
+    "git_blob_sha1": "22df828fb09c97e61790981c6be8c740958060ff",
+    "bytes": 22913,
+    "sha256": "522afefacd5ccfa9254559fa2e9405a874505917a90008cdcf70716341baad90"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/pad-link-test.sh",
+    "git_blob_sha1": "fee09201423cc5530f8678d6fbd3f62f425fd61c",
+    "bytes": 20175,
+    "sha256": "d6c0c6638ae03927064dcf98218cd27b3e02a1a9da058892547bace40d6d48ad"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/pad-stack-report.sh",
+    "git_blob_sha1": "da98e5464c2d6dd9149654d83aeb7f8e3d98b580",
+    "bytes": 31146,
+    "sha256": "a93d055e888463ba006afcb9007ddffb1c00bd5414c6da97cbe3f158b6bd7770"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/provision-board.sh",
+    "git_blob_sha1": "94757128cc267df83705d9c1aac807f1b2c576a5",
+    "bytes": 44162,
+    "sha256": "52d55cbde503205dda12f9e8ca637b6b4ee4d9aaf41f158a431b861eea5dfa5d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/provision.sh",
+    "git_blob_sha1": "50900ee4ac23c6bd6632ef77ea7662445c80bd9b",
+    "bytes": 37661,
+    "sha256": "eac1ab270715bc5eb6a4e37f7c5b1354e183bd4344ab34018dabb699540e2fdd"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/rkaiq-modinfo-shim.c",
+    "git_blob_sha1": "43d321db0bb5e73250d05bb5a44a4ff572d4f3fc",
+    "bytes": 3457,
+    "sha256": "f78344c0346bf3a67890d3c01197995cc76fbce554c59da1ea7f651a2290cb6b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/robot-boot-check",
+    "git_blob_sha1": "d4524eddf8fc0624acf54b9bda3fa2a3d2337bc2",
+    "bytes": 5757,
+    "sha256": "1ac92f6c727d07e7f9f1c0556cd1b015e5efb9ae799509aa56e4af656a66d1a8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/robot-rescue",
+    "git_blob_sha1": "37cb0dca9e8ae9a96adbee605dff4ef290df8db0",
+    "bytes": 9611,
+    "sha256": "b78473d7f4be7796ad88714f49c76f72370c069d68e46bc3671c2cf8de698795"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/seed-policies.sh",
+    "git_blob_sha1": "9f841d4f25d037eb1e16c00ee8d8e30d0d7c4b1d",
+    "bytes": 10106,
+    "sha256": "47a41e5dc9cd8b7b8d45f82b20227ea77012c41dd477349865287a4ddce2500e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/setup-board.sh",
+    "git_blob_sha1": "a3743a9ebf72abd34afc23b649d0d11136834fc3",
+    "bytes": 52185,
+    "sha256": "43ab00d003a874b54915e86a5c99d8768fdf209d4b07851853e7d390dc6ff751"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/setup-gstreamer.sh",
+    "git_blob_sha1": "60a32533b2b80e2f3a5c2eb81ca67b1049f86504",
+    "bytes": 32689,
+    "sha256": "a8ee6034f22aa2a361c7dacdeb8a4552dd4ba5179177b2980c8d725c696c566e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/setup-login.sh",
+    "git_blob_sha1": "a59e430b513f37058fe5ca3134e4081377e569b2",
+    "bytes": 8055,
+    "sha256": "23152c2ecf1ebf4b89c51f0a74ff02171fb4d0860be01e6d8f7c7c24dc7d507b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/setup-npu.sh",
+    "git_blob_sha1": "b34c28d597a0ebd441caf48fbf8acb9bbe04c69c",
+    "bytes": 12105,
+    "sha256": "f42c60f4482ff3430580be8f06c05f0015d52d0ca0dfada1b5e6f1401a268ceb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/setup-rkaiq.sh",
+    "git_blob_sha1": "32b7bd729aa8ca7dfcd4e8dc76323ced5ee385dd",
+    "bytes": 16478,
+    "sha256": "621e3507d9ab791ba946d51d65bb9e2cfdd57616044e0d7a57eb5483264e6a33"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/systemd-test.Dockerfile",
+    "git_blob_sha1": "0c8014076b25a5ebda9ebcd6971ee9960515267a",
+    "bytes": 1092,
+    "sha256": "8858341bc74a87665766504680ecfbf3f071889dbf50418842d75500e0a1a2eb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/scripts/systemd-test.sh",
+    "git_blob_sha1": "7fad407c1b1b187a2ad47059d46ace48e8670bb1",
+    "bytes": 19830,
+    "sha256": "12160ca379243d2b1b130daaa576ccab705dc814877a500448fce5f3d33b1d5c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/Cargo.toml",
+    "git_blob_sha1": "29d98fab5374d1f178aff9ff8e057a0291ed6e20",
+    "bytes": 649,
+    "sha256": "7440862f12528dd8b44e285239e84b8e566a8f98ed226329dd1e29c78dc74fdc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/scores/duck_strut.mid",
+    "git_blob_sha1": "8f6d31ab4bbb5b052aab59e98ba7052caad5c396",
+    "bytes": 2958,
+    "sha256": "221b8a64a9dfe9567909bca372bbeb00b1bf40a1bc96112f503a69651b32eed4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/scores/outer_wilds.mid",
+    "git_blob_sha1": "ad65142a38397380db30e677739406c169e93bfe",
+    "bytes": 4994,
+    "sha256": "1d4852c1485699dc58147f5da90ac81c2143694958e3dfac1ca67514915133ff"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/scores/wistful.duckscore",
+    "git_blob_sha1": "29d970869fb8b03182f9c84e5f346539dbd684bb",
+    "bytes": 4171,
+    "sha256": "4baa780c5a90ca6bf92b1a0f20a0ef17dbaa826cbe20ed715484d5a9889d051a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/chorale/beat.rs",
+    "git_blob_sha1": "c8e2261ded379557c0a15ac49dcdea3619ef5663",
+    "bytes": 22845,
+    "sha256": "9bff98288a5e0534ec3a1be6075920b9bcbef87588fb3ae144d0c7efb9147728"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/chorale/midi.rs",
+    "git_blob_sha1": "b6c78c7c1c1ed7488631ca2c2f6ac77d8cbe4142",
+    "bytes": 32103,
+    "sha256": "b3097ae290c6185a44fc9b03a8e0e8508b18084ccbe91f99d92a5b46fd6a260a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/chorale/mod.rs",
+    "git_blob_sha1": "1270c6c3441f89cfd8b22eb6036dfeb84e2ceaf2",
+    "bytes": 62618,
+    "sha256": "7805f4132a175164f5a07e0b6db770dffc690a5439b0f3d07f30595efcd8b3fc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/chorale/text.rs",
+    "git_blob_sha1": "4e7da3b9dd9a9dceac56e5d283082609090cec04",
+    "bytes": 20329,
+    "sha256": "3442975227291eb760dc0dba56b2f250b91a63a8a0bd0570232e9993c8ab7223"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/lib.rs",
+    "git_blob_sha1": "e3770e75bc60b79f9f9a9858e67402bcc56f0ae7",
+    "bytes": 7211,
+    "sha256": "7660b1b660cd70544645d7b05021d50a7b7e2dfad46f5fc7d5242af867de0005"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/main.rs",
+    "git_blob_sha1": "7f34546d17264f74f4375380584fe96e6da8d16b",
+    "bytes": 17967,
+    "sha256": "c19a5c2bcfce0e1bbc53a3d3b39e012c160f83c717624e7d9a9ed1c741dc66a9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/personality.rs",
+    "git_blob_sha1": "762a5c401cff1052d0583602d2928bbaed6b73cc",
+    "bytes": 7161,
+    "sha256": "17f738ab3940ff084a808c61aa5e76e6e7e4f4e0c1fea9323fd0daa090a6c0cd"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/rng.rs",
+    "git_blob_sha1": "775d1d269e4a7534b7c2123bf5849270515f7e5d",
+    "bytes": 5655,
+    "sha256": "d697f7b2e318add8547c22360f94bf8be638e0513f69b6847e7cb20c307122be"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/stream.rs",
+    "git_blob_sha1": "e7549a19cd94ba99b1dd1ef8e41f484f5c3e1b01",
+    "bytes": 39343,
+    "sha256": "4adcccd524477659b368fde8d44adef36f9fdb7e8495bb23752ef9700513b564"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/synth.rs",
+    "git_blob_sha1": "e1ad24b69219f220640c7353d3cead8635a8a8eb",
+    "bytes": 8895,
+    "sha256": "2cff1e97cac3ae16d6d384ecd25b709a81937654942df2fee5c572b89818b4c6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/sounds/src/voices.rs",
+    "git_blob_sha1": "7f637f7eb72ae1fa0fb97c1d87622fe96eadd021",
+    "bytes": 16501,
+    "sha256": "05374c5c557bfd76b7e7c04fadeaf45ff2a9e2d3af70233d2f9e0c99e28ced07"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/test-support/Cargo.toml",
+    "git_blob_sha1": "6c49fc6c70f97f427f23a95c31e9a135154d6506",
+    "bytes": 634,
+    "sha256": "1e92f5852f5354cacd4195c46037b17ed3bbb7ca6fd04e38727c9cbc8b509d0e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/test-support/examples/fake-release.rs",
+    "git_blob_sha1": "298fb0aa0d5852450fae73c7440ef92cdfe9a8a4",
+    "bytes": 7138,
+    "sha256": "81d971a761bad67631e9ea8b4668be305d948b4a52cc921a7dd460e6f99878f5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/test-support/examples/systemd-fixture.rs",
+    "git_blob_sha1": "a2e9c37f3c8bc84d1d38870d5087cf4762d3d4d9",
+    "bytes": 12744,
+    "sha256": "39eebd8f2cfa0ac434c184a593393ce82062332a95b26cf1034a5ae1143abd2a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/test-support/src/lib.rs",
+    "git_blob_sha1": "2f13dbd718ec8748b4bdbeba0cfafe27b3318118",
+    "bytes": 10646,
+    "sha256": "5382b6e3636b968971ee03a6d307395d9ce19175a0a6bc14e1997f5db52b557f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/Cargo.toml",
+    "git_blob_sha1": "c37917245f72e330e7136f809e2f438247029227",
+    "bytes": 989,
+    "sha256": "7221c1ae7964df1d134be510242b016096e28a937794d1f20f2f2c145881f57f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/build.rs",
+    "git_blob_sha1": "74740e1821abc7311c4d4dd28537eaf8355f1780",
+    "bytes": 4669,
+    "sha256": "d07e5a7a001425450c65fd6668bd838f0da65846780f5f7e5612fac39dd13742"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/src/lib.rs",
+    "git_blob_sha1": "89b76fbdbc23ce889f09720af96ca4f06a8cee52",
+    "bytes": 7049,
+    "sha256": "6ec6bf7ebd69d5d9713a08215075a1e0e2c2e32bd6fc6424ef2a6a153488c201"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/src/main.rs",
+    "git_blob_sha1": "9280eabc0cafd0711903c12b80b4ba5053a59464",
+    "bytes": 27317,
+    "sha256": "d8139fa72f7f9abb5844d52a3cd4b78125dd08b52fe716f990b41b2cf9b833a5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/src/sensor.rs",
+    "git_blob_sha1": "55e6e3b0413be59f481544f0a1e095e51ea8cf43",
+    "bytes": 14580,
+    "sha256": "809382a79afa448f27cc956fb66a56d86d0cf88101c7e8ae2c7440f27ccaaf17"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/src/status.rs",
+    "git_blob_sha1": "3a41858b3dc97ca4f056bd84b657ae1b962b5dc5",
+    "bytes": 3431,
+    "sha256": "7f464e6fb541cc77c07008f2e49d51f078d3997d4058c4dab75903e6b7855997"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/systemd/sysusers.d/tofd.conf",
+    "git_blob_sha1": "64e67b166416648635bdd267f9518c1d04db1a1e",
+    "bytes": 638,
+    "sha256": "200df36d6b70a4baeed170dd2275df6d48a9177af2fa5c0834c7e33e080b9569"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/systemd/tofd.service",
+    "git_blob_sha1": "2ba9c27a0f9dee752a4a0c0fc3c6c20562d020bb",
+    "bytes": 1999,
+    "sha256": "17082237e9394e64d0b79f3d6f97d84a2c0f2300bccd014c25d0e25b5f93b718"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/LICENSE.txt",
+    "git_blob_sha1": "b40364c28f3652a3ef7e5e6450ad4648d711f28a",
+    "bytes": 383,
+    "sha256": "bdc7b0f98db4846279336431024c49a01d578a2ea1d19ec68797bbe33e718d2d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/platform.c",
+    "git_blob_sha1": "6c26582d155e62d15ffa7810cef45ed34e5ef41e",
+    "bytes": 4208,
+    "sha256": "b85b7e04e3a25308430d64675598319643b272f192fb76b0724109ee0b1a442c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/probe.c",
+    "git_blob_sha1": "d3c00c659f8db9473a92cbe9fc5d2592df3e9a74",
+    "bytes": 2504,
+    "sha256": "7e9a8f41b2785cb3c1ad73d23b044f59ae8662e4c859c9468cad5c219592c32d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l5cx/platform.h",
+    "git_blob_sha1": "2e31a52670e880d62e6ce2cd8b0e35ce5e3e2abd",
+    "bytes": 2168,
+    "sha256": "d08c4877dc41186fd3dfcf38360e07fdbd56a9b176a1b0bebe7d87de6dea3083"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l5cx/shim.c",
+    "git_blob_sha1": "96aea337b2caade7da07ec4a53304d54c9539ef5",
+    "bytes": 2770,
+    "sha256": "fe4d6e3c6031dd917aad8d439af26bbe4f3023b58ca3f50152c63a284094fc08"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l5cx/vl53l5cx_api.c",
+    "git_blob_sha1": "6ce026edae72c969f2ea06d301cbe884c702d287",
+    "bytes": 37790,
+    "sha256": "2f7166891f405f102c7f2c0b987160c196ab6a2fcc7af98cd54979bee8e427de"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l5cx/vl53l5cx_api.h",
+    "git_blob_sha1": "dc8b52a0a267d7ad7fe5ef6a888e8d56f64f5792",
+    "bytes": 26858,
+    "sha256": "49438c5f892d690b34229290b64990dd7aa96b1b51fe588be06eef6c46a486b3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l5cx/vl53l5cx_buffers.h",
+    "git_blob_sha1": "4fe86a1004e28f5ffa229684db0ce15eef03608a",
+    "bytes": 552567,
+    "sha256": "c4e2b6738dfc9bb313020ce550cfbe7a60137e8ebc73f6957700d54e08864853"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l8cx/platform.h",
+    "git_blob_sha1": "72e8b51403e988a6f60097c9788c27cd1559af07",
+    "bytes": 2168,
+    "sha256": "2c5638b1e4dc6168d9394538f34a0fff566fd0e3afd095b16912641c9d9e2008"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l8cx/shim.c",
+    "git_blob_sha1": "8222de294fc3bb65b5186d2aaac2042ee6e5a633",
+    "bytes": 2770,
+    "sha256": "b11c69812e851c9e9ce36e0297baf54ac4b29ab3a802d22bf71b8b3e84c52023"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l8cx/vl53l8cx_api.c",
+    "git_blob_sha1": "56678b448783029ab8d6ccf2e91507722daf1a6e",
+    "bytes": 39102,
+    "sha256": "c036ad41c1f85d64935aab3244f920af9add290206ebcf3d2d10afa819c5469a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l8cx/vl53l8cx_api.h",
+    "git_blob_sha1": "7cdd6e0d9e9d5c6e6731abf89a76ea7c6bc113bb",
+    "bytes": 27401,
+    "sha256": "1515b53bc8d8aa5938a7809a32b70d2212c28cdc4b07109ed35a5d9c78eeaa12"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/tof/vendor/vl53l8cx/vl53l8cx_buffers.h",
+    "git_blob_sha1": "85ae3526891fd23cf3a85fd896f3ed29f17315ae",
+    "bytes": 549954,
+    "sha256": "392721459d81bd901d19809f6b03725f88826e8eff94854a36956cf8d5a9998a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/Cargo.lock",
+    "git_blob_sha1": "7da1ab1b43ded408a6d52dc420ff2f2da40c206a",
+    "bytes": 3408,
+    "sha256": "0a8f4c4d8a76b298c41bcfeb3b62391040ca7893a22bb9a13f204d4e0bcf6437"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/Cargo.toml",
+    "git_blob_sha1": "31477192eb6c3655481fbc5b41fd5152304b7d31",
+    "bytes": 2978,
+    "sha256": "d1b4cf40a2ac9461e12e3aecf960bfd1c2a553d39eca208e138f9ba51edc0147"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/account.rs",
+    "git_blob_sha1": "2d118a25c32dd807c98f21d3320bc1306e1e1869",
+    "bytes": 67280,
+    "sha256": "5a467fd61f694ab76608c453b41a7002b5a1fa063067f08dd9a00fb968c798e0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/config.rs",
+    "git_blob_sha1": "c5095c21c0be16d8b6bb19d3faaa76fee098c76d",
+    "bytes": 38117,
+    "sha256": "db51a2a93e50e215f8037cb09614fb809344756e3659e224ed1a77a032b6b57d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/engine.rs",
+    "git_blob_sha1": "09bcdab8a4480a26869d9b8cfc2467ee622808ab",
+    "bytes": 174124,
+    "sha256": "b271fbdb47d91102e15eec2ffef5f83305b37635543291049dd27233f1fedc98"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/faults.rs",
+    "git_blob_sha1": "82736c080fe26b2c56ddddf21cf333b23c480c50",
+    "bytes": 4948,
+    "sha256": "f12eb5cd3e3ad69074f5ffe7ee6069a0ef29d792c9a92f610e0f785e2747f9e0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/fsutil.rs",
+    "git_blob_sha1": "8b39d8f682687ec5f519e80b8b225efe123d73db",
+    "bytes": 3125,
+    "sha256": "cfb64e8c2020fcee7909b09f7486a5f226f14c9dee9f17962a9981a4cb8d27f3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/hooks.rs",
+    "git_blob_sha1": "4b856c660709321459c769491216ce654e5bbc66",
+    "bytes": 19687,
+    "sha256": "82e512e9a8f0bf2e1e48300855576975881fba8880837fc398218a3706a43372"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/ipc.rs",
+    "git_blob_sha1": "d85297d9d039bb3ab0371b10d53aad7819541449",
+    "bytes": 47359,
+    "sha256": "f1f29aa1456f585735fa9909e36b1a7f7f77562726c36512b244f6b454960f34"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/journal.rs",
+    "git_blob_sha1": "43ff92163405329d0073881ea64c814cce54603e",
+    "bytes": 26883,
+    "sha256": "1fef2466d1bd46b5a8e451244fd9458562bd3f85e53204a2886be6e0783cb5ae"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/lib.rs",
+    "git_blob_sha1": "2682d34b9833e98cf3e4db69e2f2448ac324bca2",
+    "bytes": 14748,
+    "sha256": "7d2eaae8386bc34aed3456ff08ba67f33574b56b343895d07a5958e0874d927b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/main.rs",
+    "git_blob_sha1": "dc6011b822fd7f461e9c81f76432cb2e3b5b91e1",
+    "bytes": 36598,
+    "sha256": "aceada43adec6b86e075b3502e97bdd1991c8dcdc8e7adec297c8ad59678fe58"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/manifest.rs",
+    "git_blob_sha1": "e9ee5aea61544f5ce3f0d2bfafab9c6d13b89066",
+    "bytes": 9819,
+    "sha256": "3d4622b31e25e30d693e9f841c1b08e21ba7e1463ccc3794e113a5e8ef7e175d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/orphan.rs",
+    "git_blob_sha1": "d470bdb414bc8ce293eb1f336e22753b408e6cdb",
+    "bytes": 14901,
+    "sha256": "0e31a8e142e9d72e35bc91862c5c94d59b6abfe2df95ce3c39febf59b91f440a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/policy.rs",
+    "git_blob_sha1": "975cc72485c14b01fdd2c038b3f72ba39a8f4070",
+    "bytes": 57280,
+    "sha256": "efd1e644e3168bc6815552b74a562038dc5781fcb8945581ce7d910789fd4c8d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/preflight.rs",
+    "git_blob_sha1": "da4152a6bc380b9621fe90d127d81ea7661ed2c4",
+    "bytes": 18579,
+    "sha256": "931af2c719df1822b56d64fd4b7aa5f0323f8eb92ef5dc94f303184d01c03f45"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/reconcile.rs",
+    "git_blob_sha1": "fd278ee132965f6e315a862a1b1e5cd29e0c6038",
+    "bytes": 16679,
+    "sha256": "64ae4ac5580dde099e4c7e51a174e63d551540be795556b72776267724e9a38c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/robot.rs",
+    "git_blob_sha1": "138decabeb747c06b8b887f02da2a64c37728aeb",
+    "bytes": 18023,
+    "sha256": "1f4e107b63db76a4ce2ac2adb4559c2349961ff09697d4d10d5240d44fc32f03"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/source/github.rs",
+    "git_blob_sha1": "142dfcc49ebbf2afb56ef80d75e4dfa58865ea67",
+    "bytes": 24609,
+    "sha256": "91aba1d6baec248418591805de1476522f0679a6fe537ff5c88378812eed5c46"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/source/hf_hub.rs",
+    "git_blob_sha1": "90b83233ef6ec3f90d6f1495bc217db25d1445b9",
+    "bytes": 7798,
+    "sha256": "c41313e9875baf1a793022894c7de0c6a18f24743a4071c22095fb506f60e9a8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/source/http.rs",
+    "git_blob_sha1": "78070c3c5fbc6c483710e4f0fdcd6db73a7bd852",
+    "bytes": 14725,
+    "sha256": "1a18f5bb37e73aed95e45a7ebb8eecd6aa97b286771e30e3263b81e692d44ada"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/source/local.rs",
+    "git_blob_sha1": "95271313091625d1abdb1baaf22faff09e930a79",
+    "bytes": 12330,
+    "sha256": "1c2f19cd514a925539c0b842a6a77fd6d3904a34f56f60ee837f998cd96df498"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/source/mod.rs",
+    "git_blob_sha1": "a05fe08ee8caaddc56f1c9db7427a4ef7f7951a5",
+    "bytes": 4756,
+    "sha256": "61c554a958aaa197a3ef5c4deb69c7e21429c71b5b0fce1b8839fd8306a44cfa"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/spawn.rs",
+    "git_blob_sha1": "4541ae743541f7d5885be6f26f9ea17cba450d77",
+    "bytes": 6252,
+    "sha256": "23c074e4e8ae4834a1aadfa773aecefa0d9cdca34b69301ad86c6650b645bd45"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/store.rs",
+    "git_blob_sha1": "ed6bfbae8e5f3cf14e46d7e6543e293d0f4e5a57",
+    "bytes": 17545,
+    "sha256": "fa4f80e79b619da18a7526cfff6e6b5c9c11b9f95deff5339d73364ba7e4791e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/transcript.rs",
+    "git_blob_sha1": "c2dd3981f46f4188faf5cc61010f0174e88921c5",
+    "bytes": 18931,
+    "sha256": "79f1f4dcb575a21189a2119c2428b6bbbf07c45f40fb0145692cb28601c0fa08"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/unix.rs",
+    "git_blob_sha1": "cdb48641be0aaa2baeccea9c44e560a9c312f1cf",
+    "bytes": 2693,
+    "sha256": "b7c7668c579d386de740bbfd9afc9ed7f1fc2368f49d8adb4286ae45d3783685"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/src/verify.rs",
+    "git_blob_sha1": "f0580b91f2e70df5617aa0bc663043d64c0e9fef",
+    "bytes": 22149,
+    "sha256": "3ca3296edd8f49aa16a7035b8f0cc0e80f0d2644d059b8cbb7c22e357145071e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/systemd/robot-boot-check.service",
+    "git_blob_sha1": "92779079016534ff32f943ae70e1ddccab1fd057",
+    "bytes": 1715,
+    "sha256": "5ba93ddf5be20823681863eb375d6cceb0b466e44443869d5ca88c6504a042c9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/systemd/robot-boot-check.timer",
+    "git_blob_sha1": "2eedf2aa3fd1103c272f5c28e7fe765cbf146363",
+    "bytes": 1448,
+    "sha256": "a14654d9d2e421489e1aef68771dd1c897a4b7438e1abff14a289f44f6773e5f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/systemd/sysusers.d/robot.conf",
+    "git_blob_sha1": "79b19b091c3313167ac67948a1c2e546db479cfc",
+    "bytes": 573,
+    "sha256": "893c8a6d82c3563a0c97fb52a81a3a8c0d945012e405d0203aa40bd42d12d82c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/systemd/updaterd.service",
+    "git_blob_sha1": "c44b51fda9be0177ee1f9a80ec7c1001556d22da",
+    "bytes": 4016,
+    "sha256": "9ed725619dfa350b835a21296dd7e6a31214dd8aac68d1dc1ed6308ceb192c21"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/tests/apply.rs",
+    "git_blob_sha1": "1bda1e694fcbfd179ead3789eb175eb6d852a81b",
+    "bytes": 94705,
+    "sha256": "2d3a36d401a6ecd1c6e646c6360106f8d953447542c8c826ee586fd9ebab6030"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/tests/download.rs",
+    "git_blob_sha1": "49f3b10d5b966239cbaf7387b5482e64c9c2e540",
+    "bytes": 10396,
+    "sha256": "fc154908f3318503a481b1728c32b0fde070bff069a96337c2b6fd85419e6e96"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/tests/install.rs",
+    "git_blob_sha1": "efa26bce3a71bc784d572787bcf97a833d6b3b34",
+    "bytes": 15780,
+    "sha256": "cb31f20786ad766fa816b5546f628194b42673068ba889288cc4c1fb56296153"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/tests/ipc.rs",
+    "git_blob_sha1": "aa945da875a62a4633d9831e271f2d3353232ab4",
+    "bytes": 55577,
+    "sha256": "d037253e4c277d947a3a16884ba952435d084efbe6996a4fcd3ba56cccf6e83e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/updater/updater.example.toml",
+    "git_blob_sha1": "0b608518f8c736c1611f64e26a11be82efb42312",
+    "bytes": 10366,
+    "sha256": "f755e8ba6cfd4ac101e9eef4a4d8907a3808efc23198114caa549a891361b1e0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/xtask/Cargo.toml",
+    "git_blob_sha1": "fa7a6afd664051c3e4bd7c2a664839653731cbb7",
+    "bytes": 1218,
+    "sha256": "7cc493e3e95c0da651d5f09582501280d7399b39cd8134bc8b2f25114a248fd1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/xtask/src/main.rs",
+    "git_blob_sha1": "178d79eaea929bb7bfe9396db73c9f2cf9f4cb83",
+    "bytes": 88515,
+    "sha256": "896bb0c0142f60ec75209ae601be36f3c6e3f74c4c5d8446964411231bde0fc9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/xtask/tests/artifact.rs",
+    "git_blob_sha1": "3710bb50412e47da10e0032c6a26d0095a440e70",
+    "bytes": 19418,
+    "sha256": "c719a81b44e01192246be9fcb109885cb8f57545b0a2239b083a155aa2a67fb1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/xtask/tests/rescue.rs",
+    "git_blob_sha1": "ca187760164a8a5933541915c4e1feb477a86cd9",
+    "bytes": 22151,
+    "sha256": "863f620f5afa9938eccbbb78f2ec7a1534c6e18981e23885f984e3b559fd99a1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck/xtask/tests/sideload.rs",
+    "git_blob_sha1": "2094686762b4693a08590aa99ac9b7296364492c",
+    "bytes": 4872,
+    "sha256": "ebc31c945615cb2d40b86ee10d2d894aa9b44f404acc403b96cb0c44238f5c76"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_app/backend/Cargo.lock",
+    "git_blob_sha1": "06f2ccc0b4dd27d8625bc8cca70dcddc69bbd671",
+    "bytes": 22406,
+    "sha256": "421bfb671595bf6db229c4fdc0adf37dc0e3cf5561c6983578d7a819299d17e5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_app/backend/Cargo.toml",
+    "git_blob_sha1": "3b6610f9bec52ae800b9f826f9e3e65740252b14",
+    "bytes": 323,
+    "sha256": "f7a236032b36327f008b89243dca4e012b11677df23133bfea0166db5bc18760"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_app/backend/src/main.rs",
+    "git_blob_sha1": "500aae148fbd0741b18e88b87ff780d524d734de",
+    "bytes": 28094,
+    "sha256": "be1f2411b4cf9c7ecddc2507dfd864229616d6b1589d18a0e6b80db3f29720e7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/LICENSE",
+    "git_blob_sha1": "5babf660c98eac4418422e1a62a5d9fc51a4d63e",
+    "bytes": 11351,
+    "sha256": "2d3fd9ffffa70a4307498ec630b14a6b4731e010f8ddda92686eaf65733c2dfe"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/README.md",
+    "git_blob_sha1": "d3fab1870f45bed8875fd8402f3d6148d632b4e8",
+    "bytes": 1611,
+    "sha256": "08486877bb7b08fed113e2a0e865b44d80c96864c020ba7931996f80adde05d1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/config/hd1910_identification.json",
+    "git_blob_sha1": "758ec8acb2eebb34426e1679634cf520d394237e",
+    "bytes": 386,
+    "sha256": "d4287d8a1d1f6896f33c0c1b2fe620d2ac9e042853dc9d81aabb1bd63cfdcc65"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/config/hd1910_m3_external.json",
+    "git_blob_sha1": "b2e64ee07c2e6eb45c9bb27187a032f0adef9c45",
+    "bytes": 303,
+    "sha256": "f3d9b7c79ca6ddb3dcfabb7d810e3709d9c0931f6d22b9f9252a3b90f82717ca"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/config/hd1910_smoke_fixture.json",
+    "git_blob_sha1": "7b598ccfc8267092ed39420e239c96da3d20d561",
+    "bytes": 424,
+    "sha256": "a2eb8677f9cef51d365d3a6db3f534a28eea6dffd6d9e44908e5c97f18e8f544"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/config/static_home_20261004/reference.json",
+    "git_blob_sha1": "5495fe48e8bab801ef9533a04fbd2e553c6acf0c",
+    "bytes": 13949,
+    "sha256": "183aedcd31f3c87dbeeb7558202e25a2a510145c5923e968daa60f8d00c3e65e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/config/static_home_20261004/simulation.json",
+    "git_blob_sha1": "006c380ae7def2b9e78689eeeca3dbfed2456979",
+    "bytes": 16332,
+    "sha256": "4077ca9ba74187c38b30a65ba5816298cb272a2251ce401296500e83dd433d8a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/pyproject.toml",
+    "git_blob_sha1": "3df4b3c04b7f23ece73d8bae079ce4fe6a07eaef",
+    "bytes": 5328,
+    "sha256": "dd7b25fddb75e27d13f5bff11ea3c9aba8a0466e2ee782dc2a936743dcd44a5a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/action_request_probe.py",
+    "git_blob_sha1": "6cc3131943037ecbf459fc3c2e617254fd0e637d",
+    "bytes": 2873,
+    "sha256": "b50e379bc2e52ba906917f96accdac1fb1751649ce23cc96eade09bc80193a54"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/audit_bounded_policy.py",
+    "git_blob_sha1": "b3f0812ca98f2b307805577674f3e31cacbb8f83",
+    "bytes": 5901,
+    "sha256": "b0cd54831209cbffdc730a98a0bae6d3db63d705dca807cb9416b8e42dc33c99"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/audit_gait_curriculum.py",
+    "git_blob_sha1": "555af9ad08ba8855def01302c1f903bcb86a5213",
+    "bytes": 4413,
+    "sha256": "d34505874339c66008dae1b0d5647a46ed801ef0062d8ab26afdc48ffa4be8b6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/audit_hd1910_m3.py",
+    "git_blob_sha1": "958718be1a7e15e25e5ff4593cf61ede92f9aadc",
+    "bytes": 2381,
+    "sha256": "b3c7cbefae12920d6e2be13ccf3c0cab1bbbc99bfdc2c39abff1a19178147903"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/audit_native_observation_contract.py",
+    "git_blob_sha1": "7ddf8c4eb3f95f5acfd3dd76ea089c0e8a39e9cc",
+    "bytes": 3246,
+    "sha256": "92a195ddf09d189c1f8bf345b91c1ffa848ae716b80d953db8275c5612f02ef5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/calibrate_static_home.py",
+    "git_blob_sha1": "0ca97e36f76e9e89491b6da5538602108a6cf420",
+    "bytes": 12225,
+    "sha256": "df0fd6ebb0a28af6959da82f049477a295d9c2c7050b77d3eed67919c6949a13"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/check_hd1910_physics.py",
+    "git_blob_sha1": "c828aaea53ddc2f9c3e4d143ed0e99766ed40025",
+    "bytes": 2909,
+    "sha256": "b4e5b6291fbaa0f6cfc639176763ccab83a25934b74bace0ae9c2ef30a5583c8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/check_payload_randomization.py",
+    "git_blob_sha1": "c5b66c49702397a047d757840c5ea3d800a8be87",
+    "bytes": 3072,
+    "sha256": "ae56bcd4a6459da5eb330d37bca079902c4e59193ca9d9b881943921b52501d5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/crouch_pose_editor.py",
+    "git_blob_sha1": "1c8193f8d001c229a781d37463cc22efd69e600a",
+    "bytes": 3490,
+    "sha256": "0268aacd7bdc0d3ecca8cbd40b70e2f65d25ed52d83b8b50327e306a478cac41"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/diagnose_clearance_reachability.py",
+    "git_blob_sha1": "31e2248485f6e507bba42115fc7ba75b7b828624",
+    "bytes": 5243,
+    "sha256": "94a35abd6ac998dd5cbc2f557b1ca07b88126fa87150271c4e592c0dda176e76"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/diagnose_m6_sit_reachability.py",
+    "git_blob_sha1": "aea2012e26934fe3dedff7d9a55ea4cc5248e1e3",
+    "bytes": 2833,
+    "sha256": "8e6f2a7631baa431e4eb0551ca84b609c313ec2000889c68af0834614e10d935"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/evaluate_forward_transfer.py",
+    "git_blob_sha1": "e5cf622cb5d48a30afca5c0e30aaedc3b8ef0560",
+    "bytes": 3404,
+    "sha256": "4b269a14f71f633a8ec3954386fd42352a9e4ac954184b43e9ac234c22df4912"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/evaluate_payload_transfer.py",
+    "git_blob_sha1": "e34bc5471e757a3a0b150ce2f9ad501533fa333e",
+    "bytes": 2918,
+    "sha256": "2529aa2cccd845342bc295e4f53a02ea0367632ad4e2dbde0d2c33898cde4daf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/evaluate_reference_direct.py",
+    "git_blob_sha1": "1390531df78ab15ef5a51d46efd168b203c1c4f2",
+    "bytes": 18237,
+    "sha256": "ea628b65f73dc093d33e34e00f8e07f27f91294fb29fcdeb9a15adf1d485ee81"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/evaluate_step.py",
+    "git_blob_sha1": "3c1af1dfefba4a34264b75701b4406fcfacb1a99",
+    "bytes": 23487,
+    "sha256": "e1a66b384b692d6b43e2bdd267892ab4681fcceacd8066c2e19a82f0391a577c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/export.py",
+    "git_blob_sha1": "e8cf26efe469e3d8ad9639882e0f3c90af88ec9f",
+    "bytes": 361,
+    "sha256": "435d576ebd20fb34727bb1bc1438ac6521ab76654225d789d3d90cebce47de25"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/export_hd1910_body.py",
+    "git_blob_sha1": "1117728b3977628739616b731a81d76379dd6fb2",
+    "bytes": 2345,
+    "sha256": "9cf694f0c8c0b51adb5d06baff11fb70cd0cc9f112e54689b2a1e9a53fd106b6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/hf/README.md",
+    "git_blob_sha1": "f77b1f2e69f9e36f76ae8a2266de8679e36caee9",
+    "bytes": 3213,
+    "sha256": "10fffdc425e2cb8602ee17389187d69f508faf101342d7575f108979d9d78cc0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/hf/train_hf.py",
+    "git_blob_sha1": "85b476e673472e869941376499d2cedd6253f3e3",
+    "bytes": 426,
+    "sha256": "0db74a6edd3cc157a5596ac6f019496e8fdde936d9edcc3f260052297d7f1ae9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/hf/uploader.py",
+    "git_blob_sha1": "7c5f96621ed184ce9d60c7bc20edeecbb14d7833",
+    "bytes": 2491,
+    "sha256": "0b9610e26cfc02082b361d2198768d260846cd8354a2824251e31718935512a1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/import_reference_actor.py",
+    "git_blob_sha1": "c65e7ed86fc85a10fc20f2f206be5a29f54e7735",
+    "bytes": 6101,
+    "sha256": "5ea150c4baf8314fe2a659954cb680fc468fcf69e2c6bf75c456911a66ce54c5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/infer_policy.py",
+    "git_blob_sha1": "819af7e684dae2a69d852b79e7e1e91d859d6cc1",
+    "bytes": 78562,
+    "sha256": "bfeb91fb477490c932754eb7726207697628629229b9495fde1f56232acb1b45"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/iterate_hd1910.py",
+    "git_blob_sha1": "0632c6015f8f9476f572cbfb987dfbec8cba3c52",
+    "bytes": 16083,
+    "sha256": "8e3db80377d173065d39383c3c1dff7fe93587f036681287393d3933760d42ee"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/play_latest.py",
+    "git_blob_sha1": "841ff1d7406b82ac28b25b72ccc52501f4022721",
+    "bytes": 2006,
+    "sha256": "1e898b201992a111dbc220832f63d32dc9fcc79f0f5658a0075d854fd4c99adc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/plot_observations_comparison_plotly.py",
+    "git_blob_sha1": "d3cb4b0ee272f1e2406bd05e2dcc59a5cc6bea2a",
+    "bytes": 10517,
+    "sha256": "f5e9af3bdc1e81822980e81475c307a8925797ac87fdd100b0a5fe0898ce54d5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/probe_low_terrain.py",
+    "git_blob_sha1": "294b0bd49101c72742fe45527ece4382b1ee8c56",
+    "bytes": 8287,
+    "sha256": "549938c42d56e73adbb53fda0b8e0c97e9e99faef7aafad8f5323f657da68b06"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/qualify_hd1910.py",
+    "git_blob_sha1": "d740dcde0752a22ddeee8f8fbdaf33f57510f474",
+    "bytes": 6946,
+    "sha256": "e5c960fcc8de02a8eda62b623268c3d9c6f772f27bc4f86d2bd2ea4c1c395de3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/render_m6_multitask_preview.py",
+    "git_blob_sha1": "f6af07134473855094d7f4b7f856aec79c4c8c0e",
+    "bytes": 10887,
+    "sha256": "bf084afecd0e64bf10fbe18423fd9bc24d53adf8c574ffd9e07189686a225ddd"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/render_reference_reference_views.py",
+    "git_blob_sha1": "558cf6bcc837fa5c09cf376b3e6c8873c6f81913",
+    "bytes": 5457,
+    "sha256": "5dd6eade6479d8047a351e4cceed47174b9bcf3ae8f2d8b7af13d3f761672914"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_hd1910.py",
+    "git_blob_sha1": "20e0a87ca174bddf8b5b3dbf66d3bd89d5201a5e",
+    "bytes": 51245,
+    "sha256": "f0072517c4c318170f32331dc5e1835f1cc99152a5bb487d3559b586897cd40b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_hd1910_task.py",
+    "git_blob_sha1": "71f2c36908dcc5298173a30a31429792897ac335",
+    "bytes": 19855,
+    "sha256": "f81d9a4af5465d94ca3ef075b651c9370bf12a2fb37036ab09b3b48ccf7f4c30"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_hd1910_warp.py",
+    "git_blob_sha1": "85135531917ff050f472a24ec39478e73d44980c",
+    "bytes": 14399,
+    "sha256": "7e910f4a0f900e10c77f8de9e53d8ca0c511c2b8521a8604d1ba376733e8ee38"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_m6_recovery.py",
+    "git_blob_sha1": "027e28d060934ae1fb0aa0febf47d58c76b6743f",
+    "bytes": 10221,
+    "sha256": "b4f5bba6bc1fc944daa0d0923062783cb0c5d6b65ea414f3953fc521d3da3965"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_m6_recovery_warp.py",
+    "git_blob_sha1": "61c2d7339817a8e2e5f36bfdc9b29bb168d9bae6",
+    "bytes": 4974,
+    "sha256": "686a31f9d258edf8453f5a8709f13dd1ac1f5dfa943b661182c4847d977f6e73"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_m6_roulade.py",
+    "git_blob_sha1": "16b6c6fe0c3ec1f5c6b9fc3f1f40ef259b1ab640",
+    "bytes": 4211,
+    "sha256": "db301a03236e368d5c78ac5c669566ecdfd69cbc0a88ccb7efea886ea49dcf3f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_m6_step.py",
+    "git_blob_sha1": "8155046377c30f7a1a8bd83f441801f409181064",
+    "bytes": 7605,
+    "sha256": "3176882d863737952750871381731802b0a99c8149db9430ae526f167ec3c40a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/replay_reference_local_suite.py",
+    "git_blob_sha1": "4753291efe7b73be24463c8d4ec1b4d3c2912795",
+    "bytes": 17083,
+    "sha256": "4b5a20fae9d44b69738bfb187bd7727768cedb863790a388c6141d41101cd905"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/review_collected_skills.py",
+    "git_blob_sha1": "0ea24296ca7be1b1602f69bb21491f3b1d3d9dcb",
+    "bytes": 5671,
+    "sha256": "adec733c38f2528f224dd11120f0f83006652f725d8e0b799c19ac545bd9c51c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/review_stable_gait.py",
+    "git_blob_sha1": "cb4a55c407013ad35004d2c2f84522e1f7c0385d",
+    "bytes": 7413,
+    "sha256": "b912690c98ee39b59c596524367d8e76e44d38bda6608eebaade46796e8dc818"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_hd1910_delay_followup.sh",
+    "git_blob_sha1": "1258e1f8df33431eb3e9612eb7b87090d98318c7",
+    "bytes": 856,
+    "sha256": "a04f0f176b4a6a9a599b21696c56c7a5750834f1d930067d69c596fd8cbbc324"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_hd1910_demand_queue.sh",
+    "git_blob_sha1": "199d0487cd219c79a21975c95131dc4e06fcd194",
+    "bytes": 814,
+    "sha256": "f52996125dd7bc6e5aeaa68ae26491273a20402ec991c20d1e900e1406188df8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_hd1910_robust_delay.sh",
+    "git_blob_sha1": "60111b2ae867fc61c1fa53c3fcf4df27552d0e2f",
+    "bytes": 892,
+    "sha256": "ef73e7816d2588742733a2cb5f916baaf9fceb8daa672121a44a5a8bc4ca1c88"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_hd1910_smooth_pilot.sh",
+    "git_blob_sha1": "cb9c96051150810624c86992b935c5a25a7ff9dc",
+    "bytes": 1528,
+    "sha256": "a1a970903233e1125471f663d49d7a4ba4152c2d99b8d3348c37f4515d0fb700"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_head_balance_experiment.py",
+    "git_blob_sha1": "866a4ab985b95d4647bf8526af05208c6a406e14",
+    "bytes": 20591,
+    "sha256": "362e2a5e68bccb2e8eb1fe4392e80a455de09223e4344768b52d708a39dc7351"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_infer05_training.py",
+    "git_blob_sha1": "7b3dd85f99f491e8e29cbc07082fc1c21fed52ee",
+    "bytes": 2630,
+    "sha256": "f331f205f8c1d66d8dbc2e9932919c50e254566adf7cb7d013a94095b54557a5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_local_head_campaign.py",
+    "git_blob_sha1": "a9ceca7e5f843fa4c7b4f88a451935a60fb03d69",
+    "bytes": 5703,
+    "sha256": "294cda31b27aabf57483c1dcbc38ba4e8cbc00b5e60e1e763ea07067e5960040"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_m6_balance_campaign.py",
+    "git_blob_sha1": "2d2984bbb5e13f0e067b078de44d20c765b6f70e",
+    "bytes": 7585,
+    "sha256": "b2468f6d024bf3aa1c10f3224c136b2c8523c1229bd20f779a1983fa49d108ab"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_m6_next_campaign.py",
+    "git_blob_sha1": "730c580dee202c32bcae826d543b37dbf349d8bf",
+    "bytes": 3359,
+    "sha256": "b604259e1add67f2e1c18c8dec9f5754de6af1a8aed44b2b83309dd8deb38e9b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_m6_repair_campaign.py",
+    "git_blob_sha1": "bec091699e78931054983e17703f8a9f0d66fcde",
+    "bytes": 6061,
+    "sha256": "56fc53dcd69b8c49649abf81c1d4a88bd02aeca6e0553caaf08f043c046d0d1b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_m6_skills_campaign.py",
+    "git_blob_sha1": "4b112df19877c364cc3cdeb1fa35d882879d5f1c",
+    "bytes": 5407,
+    "sha256": "913cf6af4f75140c0853fc761f9e2b7de6ed54d49ae5ee47643a356ca83f070c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_m6_transfer_campaign.py",
+    "git_blob_sha1": "228b3a1bca94882d5b94c2258607aef966f30a93",
+    "bytes": 5718,
+    "sha256": "bef13fef078e16d6c9a00ed2ec8682f2b06a6ec4fbf29b18f619b03e7c6f9e05"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_radxa_m6_training.sh",
+    "git_blob_sha1": "6408c8c2696f73ee5273a0bfd7ee11391606193a",
+    "bytes": 2778,
+    "sha256": "a98e2add68d7b3c463826c269433e71bc0a0f8b4998d6b932ea4fbf548099772"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_reference_p6_training.py",
+    "git_blob_sha1": "601e28e3b9f3ba4773d4eff9f01d66a3df1c9728",
+    "bytes": 7646,
+    "sha256": "dd65e71a97739e79d104a5d09ccba15a07a5c97f5a4e8287c6aee18557ed566b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/run_static_voltage_ab.py",
+    "git_blob_sha1": "1be5ed542b7ef36e8069d76c5e612e7204a35fe8",
+    "bytes": 11517,
+    "sha256": "3c4ce580f81cba9f33f3c7ed952a430593ea8a9e5d012d0b0f1083d8c945bce0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/screen_hd1910_checkpoint.py",
+    "git_blob_sha1": "d2a603f82845d2d2564ede80ee5f5a822bc9cc71",
+    "bytes": 4857,
+    "sha256": "7eae7514a81fdd2accb61041160ed4ec9d29be26e4933fd178f60cd711e73410"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/search_dynamic_clearance.py",
+    "git_blob_sha1": "693afff4eac79b32ccbcfad499fb4ad00d2ea9d5",
+    "bytes": 14652,
+    "sha256": "b324fbc7a6b09692ca9067fcb2e3f496b4ea7ec9286face9c08477d1004d9509"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/start_after_training.sh",
+    "git_blob_sha1": "1d6d11c34c41693c68c72abae54f725714ae3364",
+    "bytes": 416,
+    "sha256": "7c0dad5235dcb73421657ac151771e2a3c2bb54b93486bd48ff64a7142355aeb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/start_training_container.sh",
+    "git_blob_sha1": "9fc8ae8fb49a8817ce09ce802e39205450a5237c",
+    "bytes": 1627,
+    "sha256": "6f486211e4ab4191a4d33c6b3ce260dde4d0132608e5f36748a2a8ddc6637366"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/testbench_hd1910.py",
+    "git_blob_sha1": "9fbc291e6895f0bf660d5bed0c686e237c38947f",
+    "bytes": 454,
+    "sha256": "ace945bc954c84efb02dcbdff61ad52a3097abaa5685227ce174ea4fc6f9917c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/testbench_sim2real.py",
+    "git_blob_sha1": "1ba3d58735767bd775142a84a8eaa67e52668f39",
+    "bytes": 24394,
+    "sha256": "ebdb1007bb56cb2ab7c700d205d7815bad1afab0853508e38916e25244fd347f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/train_hd1910.py",
+    "git_blob_sha1": "ec87ffc34723606ae8a1caa8da9e7ae895efda5e",
+    "bytes": 8011,
+    "sha256": "c6d678c5bdad0f1eb4ff8a965336afd6ba491e9877c87bde001f4a77a6330561"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/train_hd1910_bam.py",
+    "git_blob_sha1": "b46d486e0cb8dfb6fecdfe86363a43783a50e01f",
+    "bytes": 18984,
+    "sha256": "d81c2904010b9531ee19a4dac6a159786079328a8e60c2805aa6e2e61af4df64"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/train_hd1910_suite.py",
+    "git_blob_sha1": "3174944a61080a4cb61c69a8651f5ae72a3308ee",
+    "bytes": 5560,
+    "sha256": "92db6edd324829d4b963406c1222251323f8a4a07c73d1b9252e1d8d786b8463"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/train_step.sh",
+    "git_blob_sha1": "bceac463399ad080904804e2512548ab0a100c9d",
+    "bytes": 1616,
+    "sha256": "f9ec65cf1f710c0244d4ed3bd5473fa97c583daf3798f6d270f1f65d604e9526"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/train_sway.sh",
+    "git_blob_sha1": "0e32b7fe22cf470b7303247d53f95f7c64dd45a7",
+    "bytes": 1658,
+    "sha256": "0e2df89e5ac1f19228f82572952d7fd4ea2c33c171b85a75d7cb89b921f76d79"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/validate_bam_testbench.py",
+    "git_blob_sha1": "08455e7b3d854cee005e5ddfa7c42159493521a7",
+    "bytes": 9066,
+    "sha256": "3be5028f89f65ad960fd19e1a56fc20875a43c7b1f9cc75d5cc3ef56ae91efbe"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/view_slope_terrain.py",
+    "git_blob_sha1": "fef271dd5974d27ef31483c4d322cc27257af954",
+    "bytes": 4122,
+    "sha256": "252467c923df9641edfa064b028acd48024cc57a67b2cbb3db3dfdb31870aaa5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/scripts/wandb_utils.py",
+    "git_blob_sha1": "d55f7d425ba807211cb51745d6d60cdec5c54dd4",
+    "bytes": 5070,
+    "sha256": "a4682def0e329c16f287dc881ab629e1b7918ff0d18de4c38c366ff2e3839250"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/__init__.py",
+    "git_blob_sha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/__init__.py",
+    "git_blob_sha1": "170f7c0500c132c5cdb391c7693d8bcbc120b0b0",
+    "bytes": 328,
+    "sha256": "181bfbec32115818720695915322f6e2c860fe87767570662a029f8e2d01f12d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/bounded_position.py",
+    "git_blob_sha1": "4269902655795fba26b7702429f9f1b42b14699c",
+    "bytes": 7015,
+    "sha256": "5882a98252cb9e67406634dfa4b242e9211ca8c467d381652662b54038423a06"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/cpu_hd1910.py",
+    "git_blob_sha1": "9e630e6580d37f48f37911e2d08354e9ebe800ea",
+    "bytes": 3343,
+    "sha256": "1fa7be8fe48ebc5ff5400d97b879134545444dabb3fbc513de3ebe4dd0fd2b67"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/cpu_hd1910_bam.py",
+    "git_blob_sha1": "e7d5dd9860cc9cff36497190711ad204364aced8",
+    "bytes": 3190,
+    "sha256": "4c722189dc98d807092824f6c1701c62e05f1e2e5ea7dab95d788ba5af87b234"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/friction_dr_bam.py",
+    "git_blob_sha1": "1f5b6652f7d46be7216432acf24945d96d89f1e6",
+    "bytes": 5060,
+    "sha256": "20d25ce2fd06a94bc4fd5356a657710a0959a352bad3dfcc670122f0f0bcd4d4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/hd1910_1910_m6.json",
+    "git_blob_sha1": "1cd4d7721b583148dff4299813e56ebc155a8e83",
+    "bytes": 755,
+    "sha256": "2ab7e3c5bb4f45fea09aee55680f68679f3b573bacb3155e381e685ec16f9ac1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/payload_uncertainty.py",
+    "git_blob_sha1": "99371209ffee86b22b2e8af1c07835bb9f8ea715",
+    "bytes": 3188,
+    "sha256": "6adeae25e7b242d339bf8ffe3ac693d6b65cbba24041724a0ed3f5fb9b3c3b59"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/radxa_1910_m6.json",
+    "git_blob_sha1": "c73822f0fee00ab5940ceecf1714e4eda5de55c1",
+    "bytes": 738,
+    "sha256": "5cd21f3cf2abce51746b95c79f34d19f7992102200ce6e7cd6cf07bc5d805d84"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/radxa_alignment.py",
+    "git_blob_sha1": "409878953527923f72dd7d00060f0adff9238c60",
+    "bytes": 3610,
+    "sha256": "37b020f9bb514d7aa8b2106780fba498caef6e2831f0790e91d462ff2b26f5e5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/reference_hd1910.py",
+    "git_blob_sha1": "4a0bdb382abede0923e85b6f578082ea81801bdc",
+    "bytes": 8639,
+    "sha256": "430ef399a7b3a47f0da83a2db808d687e4eb9ec04c2ecf45c85960ea9dcd456e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/reference_hd1910_profile.json",
+    "git_blob_sha1": "22ee42e2c57fcf1e53c76dad5747d1172a295ae3",
+    "bytes": 3611,
+    "sha256": "f92fd037dfcb12b91ec14fd990d3edcfda5c5edff521fd4d5aa614684c5b054d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/actuator/replica_mass_20261002.json",
+    "git_blob_sha1": "a16f3db5a68206ee33835e183b6d8ed10abf6531",
+    "bytes": 1586,
+    "sha256": "e1a4d4efa9ecf3af10d793a8e4c797bd6419137ae8e7b26fe25509b941979ff3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/export.py",
+    "git_blob_sha1": "4154937a9da509756bddfed736c09c7bbbe2eb72",
+    "bytes": 14145,
+    "sha256": "8043f15daee23fdd8e57af36e02cde64eac6321b364a829b5268a77c7a836c9e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/hf_jobs.py",
+    "git_blob_sha1": "64d26a23ee377c4cf3d3ab3fa7bbe712830eb665",
+    "bytes": 20212,
+    "sha256": "792f28edf4607ab25670fb4e0c70eb8e1f865fba8094c5c125140e0d1f151816"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/publish/__init__.py",
+    "git_blob_sha1": "9520b13361fede055d28a9ca7e6ef75276b123f6",
+    "bytes": 329,
+    "sha256": "7768b41714b565cc97b5553a170b5d95cf17abafe6baa0f9a4be0b7e8cfec7bf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/publish/cli.py",
+    "git_blob_sha1": "0c048e3e29665917c0b32ff4e1d80a0e93ac5261",
+    "bytes": 9366,
+    "sha256": "c89852eee96dc6267c8f3e18c0aff4a888edc650c06766be814b3c82b76c1b09"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/publish/manifest.py",
+    "git_blob_sha1": "9daf16bb07e65ed54f7ac022fe79b2a4ef3ffd3e",
+    "bytes": 16017,
+    "sha256": "dac0fd08c98882c2460d4167a823357c68651971376da83e951f9e0eaec471d6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/__init__.py",
+    "git_blob_sha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/hd1910.py",
+    "git_blob_sha1": "17f7bef0a270ed267a9c6f409dba776b48912034",
+    "bytes": 6656,
+    "sha256": "f1b5f828ebc5bae2e55e96c357773992d7691ec9c60342e91816a7aaf868b6b3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/add_backlash.py",
+    "git_blob_sha1": "2ff88034768a0740249d25c36108f3beecddfb8a",
+    "bytes": 5867,
+    "sha256": "805a17ba4ad60f7a2ba20ff90879ad93a6db66013150c5ad9be3d31bc7b4252c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/additional.xml",
+    "git_blob_sha1": "25cc7d851fb54c25539486e88c50c2ffc69386ef",
+    "bytes": 611,
+    "sha256": "958010af8e09a2ac7a79797d1aead327435e5201b3c4df0f2f7220f3c2c42941"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/allcollisions_contacts.xml",
+    "git_blob_sha1": "6bc88f5075e21028ffa11a5cfe4d288ef0c270c4",
+    "bytes": 576,
+    "sha256": "8a5bd59e09c6469fa99036bb6cfa6e31972c363bb4ed065bec22f0eb465d6f16"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/apartment.xml",
+    "git_blob_sha1": "767700d2dbd5b884599e0865099b3f14aabc9e3c",
+    "bytes": 19911,
+    "sha256": "a0d4503d3e086c1638a63aa0394efc9cd7276653c96cee38900f2f2540db3928"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_l_v1.part",
+    "git_blob_sha1": "a322de4f21ba5d42f2d95cdfdb9b898df56a1cd3",
+    "bytes": 377,
+    "sha256": "f074c5b5cc3273d46142f382820b4446206c0c08e81a13104b61d8c07f4be75c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_l_v1.stl",
+    "git_blob_sha1": "833977b0498f5e0ad69a59fd7821baadff940ecc",
+    "bytes": 235984,
+    "sha256": "cf4407956caf05b2e9bb2c75764fa365d217f44efb5d365ed18ccfa62db3436f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_left.part",
+    "git_blob_sha1": "cb50ddfd7d327980fffbcab8ad38e2e2c975bb6b",
+    "bytes": 377,
+    "sha256": "29dfeff917970b424cdb166b388be6f9ef03cd78e07d80f757a807abf9878866"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_left.stl",
+    "git_blob_sha1": "2dad3b1633f4158b1262288ba73b46c7d194264d",
+    "bytes": 248984,
+    "sha256": "2ec1bd89205b407efebaa9a8898ad9fea741389d87b80ecc5c96b21d1668119e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_r_v1.part",
+    "git_blob_sha1": "56c7bcf235fbf3601e2d6cb162c4401571af2f75",
+    "bytes": 377,
+    "sha256": "a64063150d4f0c99eb124c2e7c091d2f78565a9db2467d506d5d81fde6d512cf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_r_v1.stl",
+    "git_blob_sha1": "0affaf7cc675861e9536fa3fd9750c2259b6be54",
+    "bytes": 235784,
+    "sha256": "0ddd5d3135cde74bddbfbaf6469f50ac02ba44681b796853a052bf0d23751d1d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_right.part",
+    "git_blob_sha1": "50c8759b5b3b0f3e0eef9e1daade2be5e089cc8b",
+    "bytes": 378,
+    "sha256": "8591240d8c0329cad47b5eedc5efa5e8782fee250e41caa484308a1e776734f1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/ankle_right.stl",
+    "git_blob_sha1": "55f5d794697144ba425ecc4023b95e5c83aceb44",
+    "bytes": 248884,
+    "sha256": "f83f388ae00787415e76b8ecaab769f08f25b8c4e90c1937ff0fc4d68d81722e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/banana_pcb_locker.part",
+    "git_blob_sha1": "f7222cd0db7d4a13ec6f73439b6982652096ca09",
+    "bytes": 384,
+    "sha256": "88c2298109f8a3539a6814c50a68289332b389c0a98cb63129f3dfba3b72e0d0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/banana_pcb_locker.stl",
+    "git_blob_sha1": "e431ca6236a5dd0dbdfaa508d1dd4e2b0ae4c47c",
+    "bytes": 69484,
+    "sha256": "42ddde9d01bf5d91f88b99847017f14d97d2537ee27383c6d41dd8bf30a51134"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/bearing_roll.part",
+    "git_blob_sha1": "1b372ed29371ba50b6f054647e8e66267e2feeb1",
+    "bytes": 379,
+    "sha256": "fd7c1e7a77a318e8c4dd4b342228a3aff35857f010ada545105040ff64a97de7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/bearing_roll.stl",
+    "git_blob_sha1": "3e506e515c729f7d8e9c9be5c155b8489a8e0f4d",
+    "bytes": 121084,
+    "sha256": "b5603a64b2d965ad75ea847767b5798130852e12a658fde7b5068fc457e2adcc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/bottom_head_shell.part",
+    "git_blob_sha1": "2346190c6c5e1d0a273c6bfe6d07c9b22a28e181",
+    "bytes": 383,
+    "sha256": "a0dd8d96c6c0d19153dfd01709b642c929457affc8420bfa4248cc57b1bbae47"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/bottom_head_shell.stl",
+    "git_blob_sha1": "0cc4e79f405fac5b2cd93e4ddfefeeb8ea47f0ff",
+    "bytes": 1048584,
+    "sha256": "1820f7cf96646b0fc0c431f07da87b91b13111bfa9857ab1bf2b1fc3388f8da2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/elec_rpi_robot_hat_pcb.part",
+    "git_blob_sha1": "faa1e72b609a26653bdf602cc88106b4c13f476f",
+    "bytes": 388,
+    "sha256": "1ef13cd35c7eae75e5609f2d0773c698bedefa566d0e7de915f9b61d599d974f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/elec_rpi_robot_hat_pcb.stl",
+    "git_blob_sha1": "01bc5b73d4cf968fa4136870273510cdc7787006",
+    "bytes": 942884,
+    "sha256": "1a61582759d82b5b4df9b7d11099bf1bb3944fc77e6b74d3237adf24dd5d03d7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/face_part.part",
+    "git_blob_sha1": "243ef53504c8d12705ebb6da35d8711b844b9d8e",
+    "bytes": 376,
+    "sha256": "11c225acb4aae06b51850ade1f542a0c8fc2f3916cab592b78735eea2a72f11c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/face_part.stl",
+    "git_blob_sha1": "174b04a2725c71dbece506d5801f6a02b5057666",
+    "bytes": 570684,
+    "sha256": "d0e89a173e7bdc8038c4d413f458140d8f42f1a2f098f67a887c2388eff31718"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/foot_left.part",
+    "git_blob_sha1": "45055d843ecc5dfcbbbd8aeaa94dfa99e95fdcf8",
+    "bytes": 376,
+    "sha256": "b5248b01d15c33316545773b4f2e892bb1a19625db67049ef6c1078e20096703"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/foot_left.stl",
+    "git_blob_sha1": "e0e196b5f281d9744930e7fd96b0109f06975574",
+    "bytes": 996184,
+    "sha256": "a1f5d43456d0f522bd60870153795f1e8112c1adf9b8b4373b59608d9545c044"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/foot_right.part",
+    "git_blob_sha1": "f08abcd93938edf2fa5927bd684b0e24a292e23c",
+    "bytes": 377,
+    "sha256": "315d6ce39a4061f8c163e805d1555f4b140800f27f4a2394095571f43ffc9a08"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/foot_right.stl",
+    "git_blob_sha1": "3d9ac8112fd60b4d787bd26a280b4d5045b8db02",
+    "bytes": 997684,
+    "sha256": "54f97fa1f0e0e611d31329df9f3c3b17ffcca2d695c579d1d32cbe99e8a6c7ef"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/hip_l.part",
+    "git_blob_sha1": "32f6cbba0214d825875a5b5fad4b213fcb652a25",
+    "bytes": 372,
+    "sha256": "0d07654fd3ef9a3ddb7b071362379fab813e87acb814843ebc90b9df3f3933cd"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/hip_l.stl",
+    "git_blob_sha1": "6870737a6f88f62c03f22e01723b06905e2e80d7",
+    "bytes": 1048584,
+    "sha256": "e175896932d76dc7648cf939aa39cb7b1d188b783d91745adb9a4cec65e9052c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/jaw.part",
+    "git_blob_sha1": "f72fa2cef93e0dc23490ed757a2f496bb3e05d8c",
+    "bytes": 369,
+    "sha256": "257d1617ee2211e2724c3716523af391650711a1cc982209397b893aed9029ee"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/jaw.stl",
+    "git_blob_sha1": "b8019924e79f2df088dfb503459bd1c1de7a227a",
+    "bytes": 495984,
+    "sha256": "45cdbd319a4583095d8daa0db07dee726522a743d59acb82d27d82ded500a1cf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/jaw_soft.part",
+    "git_blob_sha1": "bc030cbf36921e4d106849ce1a6c03bbb4bc35bf",
+    "bytes": 426,
+    "sha256": "faa573ca64c9a98c65bd6288db990a0fa4d87ec2c8b52322dece28cd8f901faf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/jaw_soft.stl",
+    "git_blob_sha1": "70a8ee9248f65fcfa2f68bbab41e94571b26f25a",
+    "bytes": 336384,
+    "sha256": "2d2ade4e86df4b37ce313bb9b96023109dd04bab39dba08b154e76d332fbce2e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/left_shell.part",
+    "git_blob_sha1": "b66a2c29e25b2648b1e5113902a4833328fecf6e",
+    "bytes": 377,
+    "sha256": "5f54088d4a0405eb667330f7ff0cdb0010ae48eaec47849b93cb31e0ec60234f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/left_shell.stl",
+    "git_blob_sha1": "afc336267d9b7ce2b5b309d3a762fa598cd5fa73",
+    "bytes": 1048584,
+    "sha256": "2abde8e2b79c9b011cdb11957c67ab4287b45d7301affd4235ab81141118e331"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/leg.part",
+    "git_blob_sha1": "df50aaafdfb4c1a023ba99b78fec1428c56ce2d7",
+    "bytes": 370,
+    "sha256": "a4cea64f7e43c6a3de2e0150b192d5177b1c96ed578560717a85420db483130b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/leg.stl",
+    "git_blob_sha1": "7da4e67dadb2df338f49ffd25855345b4a905f8f",
+    "bytes": 738884,
+    "sha256": "9a91cc1ae31ecd9e0c1ba93f3bb2ad8a12e29bff24ec27d1ac66c0c3037d9fcf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/lens.part",
+    "git_blob_sha1": "f17d77c9dd601a2468580c348f8e71281ff6cea6",
+    "bytes": 370,
+    "sha256": "bd62583c7184c9d0cdadc25664b5d827dbde821b4695c58e8279517b40866854"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/lens.stl",
+    "git_blob_sha1": "c3d0bf32879e0bacd311eb5289902d1705b1d249",
+    "bytes": 93684,
+    "sha256": "b1c717432ff7666398de58adec6a1b7e03a7e45aa155dbfe27a6152ef19663e5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/m12_lens_holder.part",
+    "git_blob_sha1": "bd21bdf4bce016380f99ed1df562a7779f92c35b",
+    "bytes": 381,
+    "sha256": "a0a87aeb786c48c33a518b4dd7fed0b89def972dd049c14e61ea79efc4e76b11"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/m12_lens_holder.stl",
+    "git_blob_sha1": "d606a064040b65af3eb9e584657226c4970f1a8a",
+    "bytes": 549684,
+    "sha256": "031d5ffaf6247328cf6d020f6b6695ffb3f8d3f22cf923b85811351d89ecfd7c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/motor_support.part",
+    "git_blob_sha1": "d8947b69c46804c4a775578786196e7a9d6ab546",
+    "bytes": 380,
+    "sha256": "36335b45277d021772415ef85398cb3636699b2d462c452dfb480b28bb68b516"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/motor_support.stl",
+    "git_blob_sha1": "72289542cbb9b02f69686993f59fcf40fbe8422b",
+    "bytes": 180884,
+    "sha256": "ce0aa5bef82c7474512d302568c341b9769b3005e0bdb91a19c2eaaba6dad480"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/neck.part",
+    "git_blob_sha1": "77726b38c6b8f1e4aafd77a9c28fbdc596b89481",
+    "bytes": 371,
+    "sha256": "d80b9eb1be66d63a80e6d970f8c3ce1b9ff202590e8b52d421ba3d0402c39fda"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/neck.stl",
+    "git_blob_sha1": "2841d71ffd4203a30bbdba33a6a171742e20a581",
+    "bytes": 73484,
+    "sha256": "b6e86b886153be8a8a776c1cb219c074ee9e89c8bd431117662a2d9e504d7cb5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/neck_pitch.part",
+    "git_blob_sha1": "038de486add063588f1a837d94b2ecfc098d5f62",
+    "bytes": 428,
+    "sha256": "2eacfc6f3cd00271117bf60e2c804d36199514fceefcbf779d5a69e3fa9d9fb0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/neck_pitch.stl",
+    "git_blob_sha1": "d93b3d30b8c8e4bc596c96aeaa065685bb55ed45",
+    "bytes": 356084,
+    "sha256": "a685ce65348ae4d0d49417c69a7a8871f8bbd54a6e3419362be9c334abd5d2ae"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/noenoeil.part",
+    "git_blob_sha1": "18f7372127970e23ede7b8fb5539f88672cc02a5",
+    "bytes": 375,
+    "sha256": "a3efe21844d8356f9830e4208157d4708694596065e407feb74ed655fd80789a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/noenoeil.stl",
+    "git_blob_sha1": "9f498cfccddc9668dceff0c9e54d9f33d73b55cb",
+    "bytes": 49284,
+    "sha256": "e1167b3d5ad7fbbe6e63296bcd0c6b61556611e6bc1367b15ecfd27e3abb72f5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/np_f970.part",
+    "git_blob_sha1": "c4eaccc0621c3c45ae2bff02d6646674530f2c0f",
+    "bytes": 373,
+    "sha256": "ef948d20413ed2e3e463041583755360f37dfb9189d1e13cf84048ff39a35c67"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/np_f970.stl",
+    "git_blob_sha1": "d27fc27da228c3ece3f0909b95757b9c2e1e1a0f",
+    "bytes": 1048584,
+    "sha256": "0e55a48281331b3b7b1a363d2e93b6012f37c52045b6dc922a149ca7c1b38388"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/pcb__raspberry_pi_zero_2_w.part",
+    "git_blob_sha1": "c88c3a9465646ac5f7bc6d465d7f0dda72c4d277",
+    "bytes": 393,
+    "sha256": "d940276bbba2831fa6ce6f512e090456b1247efbe87e882f26719075dd87aa1b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/pcb__raspberry_pi_zero_2_w.stl",
+    "git_blob_sha1": "7c160d099d48076e91b7f9924653817f3ead069f",
+    "bytes": 1048584,
+    "sha256": "802cc66fc5447c67fc642d1339e55160df10f2ad04a65efd130e35fb7b2d3c90"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/power_support.part",
+    "git_blob_sha1": "0b3c6fc514e916f7a253699598801843b3ff5f0f",
+    "bytes": 380,
+    "sha256": "9a82260d06d2e00976f2e4e916c4d4782b0a23679d07ee759ae8f9f182e3540b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/power_support.stl",
+    "git_blob_sha1": "102f0deebf9670223b13ea1756046724970cb871",
+    "bytes": 641684,
+    "sha256": "ee45e397d3f3422f34940a4b61156c3c11c7e8c2b240451ce5f9ddd1622a130e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/right_shell.part",
+    "git_blob_sha1": "ee35df3eb742912dd9c0bb2dc6c0db22b0b5b6e6",
+    "bytes": 378,
+    "sha256": "cbc6cb2889db13fa9a283fc29d275c47e50207ffa0616c8498a6addc38621fd1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/right_shell.stl",
+    "git_blob_sha1": "4341ee67696762fefc62dd5612a5abd32aed6f40",
+    "bytes": 1048584,
+    "sha256": "3efba3e193cc6aa49d49a9c92cdded0504917397c9e2c5b8fe002a958e2f2d2b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/rim.part",
+    "git_blob_sha1": "e5638b681213fd37d3d6f86b0edc3615d41b22bf",
+    "bytes": 421,
+    "sha256": "96648c282219239d1c1bba14c3d81949618759983674c15449776cb40d41c177"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/rim.stl",
+    "git_blob_sha1": "88c0d2f734dc1231a52041cbc9c984e0475a8ad6",
+    "bytes": 115284,
+    "sha256": "b3c9cc8ea50a1406d289060dc007894e009471f15b59baf443a5545bfc242c6f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/roller_blade.part",
+    "git_blob_sha1": "e51e6b24df5d11859e4b51eaa97e0d095bef38a7",
+    "bytes": 430,
+    "sha256": "add40a287e5f06d0fa704fc74795b7221940519653002aafa01e5e69accc9238"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/roller_blade.stl",
+    "git_blob_sha1": "bb286cd381b381e547acb8ac42b49d0b57bd2271",
+    "bytes": 1048484,
+    "sha256": "cbdc755394d5046640db6045dd241921654ec17a313db9de8e851c14b918472f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration__22x16x4.part",
+    "git_blob_sha1": "a9eb47be279a0b91bfd670e4562cecca02718a9a",
+    "bytes": 421,
+    "sha256": "5104963cc7ca63d44762ca762227f0528217d02d692a0ae9b1f397ba8c33a257"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration__22x16x4.stl",
+    "git_blob_sha1": "1cc2a3562e9cdec8667b849817569f7dc2c7f4fb",
+    "bytes": 1048584,
+    "sha256": "295ee68ed9766c91fe06d3a2a49d39f7c2f56cc943395d293afdeb013123435e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration_default.part",
+    "git_blob_sha1": "a24f79a1d45401a0bb83f63ccdd9fad7bdf7b138",
+    "bytes": 420,
+    "sha256": "7bcd749ad222a1f10049e2511cc083766747b23aa9dd4746c8311c4cfcc84dd9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration_default.stl",
+    "git_blob_sha1": "71aa1ba5f5f4002dee6aa887b86ad4b64cd31356",
+    "bytes": 1048584,
+    "sha256": "e815f3483a2e7b80844f3c0938a47e53db38b12faed9b2d364414c19e4322da4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/soft_mouth_top.part",
+    "git_blob_sha1": "1bc8b3251e7b8b6781d9e41bc210100597dc4c80",
+    "bytes": 432,
+    "sha256": "4bfa1f8ace9b9000ff76f2fd34e9cef278e6635b871c3291cb45e2e02e5fac4a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/soft_mouth_top.stl",
+    "git_blob_sha1": "e224e1e951ec24990884b033d5ac63a2073e5eea",
+    "bytes": 393584,
+    "sha256": "3c2b52b0b6e2ce944a1e1b5a0838e1216be1ad3a34c8cdf91be186e634aec57b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/sole_left.part",
+    "git_blob_sha1": "d804a5fb4bd0182c0c49c2d9792a7e1c43fe0eef",
+    "bytes": 376,
+    "sha256": "b8ff505c92bfa8e89a9eb6db750dfe139fe8bb6606c532bc01d89f6088f619dc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/sole_left.stl",
+    "git_blob_sha1": "c15fe2f38994cbd988ebcb7a76bc6a14c49f2564",
+    "bytes": 789484,
+    "sha256": "e028c8b09fecd4cb354d042bf7fd95a1a1bc2d524d760d62137fa8d74093fc23"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/sole_right.part",
+    "git_blob_sha1": "2e3e603c1b54c0720f5e2bfc73c7cce72a7d8b82",
+    "bytes": 377,
+    "sha256": "62a129727a8d780a14099817444e62ad6b536ac2c8239774dab9dabaf50a3f05"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/sole_right.stl",
+    "git_blob_sha1": "6ecced133512bfc34fc02216b4902a536d53334e",
+    "bytes": 795184,
+    "sha256": "3f5068872f3add10eb967327651445bdfca635f5a8a01befa0ef05e462b72b4c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/speaker.part",
+    "git_blob_sha1": "a6b42f681976c3f2406ab253dce5b3740be2f0db",
+    "bytes": 373,
+    "sha256": "9850f9fcdb8f3138f976ac822a0e2774439623345f131056c7d7ec98d3078592"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/speaker.stl",
+    "git_blob_sha1": "16de470fcc6b2977a2898ee2e60dc43d27b056d5",
+    "bytes": 684,
+    "sha256": "75a35f9bcf94cd8e52f99b3fd6ae667b48f52503f9075ee2f699eebe8e7b3ddf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/tire.part",
+    "git_blob_sha1": "f6c666b7e5e518ee67d18806c5d68232ab677782",
+    "bytes": 422,
+    "sha256": "4efa94edfa0848c7eaada2624404f9b202467b6c646d1d8688fb511a4d8f878e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/tire.stl",
+    "git_blob_sha1": "0ddadc66835a4eb576e1d719d63cd0c1a7fa3e18",
+    "bytes": 352884,
+    "sha256": "8aa460566e99afcccccd5c0507c883d3f6d1901e28ddd492cf0c7edc41067b54"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/top_head_shell.part",
+    "git_blob_sha1": "e7f6a2ff89a6beaea8051808b7ea95a2b6b432eb",
+    "bytes": 380,
+    "sha256": "47b4394f5cc1fdc36861fe916be8a11aa3049760d4e563120588cc6cf3ab6cd6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/top_head_shell.stl",
+    "git_blob_sha1": "7c10d0cfe279e4df0f3c7debfe95e3bf4852203f",
+    "bytes": 806084,
+    "sha256": "6d01f396f514c9d2185cf6b8250b1d8382ac3fa0702eb525bcb284f706196291"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/trunk_base.part",
+    "git_blob_sha1": "a11328bfd8436190730d702d5c513799bb6a19fb",
+    "bytes": 377,
+    "sha256": "3b459735741f8e0a9fab171ecd744c607999322228d045e6623282aa9eed3e9f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/trunk_base.stl",
+    "git_blob_sha1": "28a703ce76b817bdf73a4fb8f8089040c2ec4510",
+    "bytes": 184984,
+    "sha256": "aa4f853ae555a8b765e585ce4519c0bbff325ce298ec15a1437792c52a0beac1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/upper_leg_left.part",
+    "git_blob_sha1": "ecdb6fb5b8f6a4a5a6a1b4555d6bb6934679b917",
+    "bytes": 381,
+    "sha256": "61414442f6766fd7aaadd64d29e37c74d4f19de6d7e93153c43559382d24f497"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/upper_leg_left.stl",
+    "git_blob_sha1": "5b3edce01372224337cde91435e0dae70ee306d5",
+    "bytes": 612584,
+    "sha256": "8cb1c12dfa6d366a318bb1ec16f585427b9a185afeb7738d0a6f41f5db46a07d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/upper_leg_right.part",
+    "git_blob_sha1": "cb079207a9e69fccaf1242efa40ffea139b115ac",
+    "bytes": 382,
+    "sha256": "33ae62db8087c1c15213fcde56329240d0bd9b70c9919a085ba8705815037383"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/upper_leg_right.stl",
+    "git_blob_sha1": "f1443617b1aa5ebe201cded5bf9aecab041d56bc",
+    "bytes": 612584,
+    "sha256": "5caf996cc3e151b01f393cdc6a6a6a940c1d86179d8b7c7f5f85cf1f1ac2fb63"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/upper_leg_rigidity_plate.part",
+    "git_blob_sha1": "baeb2119363ad9c94a5273f89ad408d5afdcc88f",
+    "bytes": 391,
+    "sha256": "9abdfc1874da369ed5953a32e8481242929da69b96461e6f42242288a5baa2e8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/upper_leg_rigidity_plate.stl",
+    "git_blob_sha1": "01f9fdef32d84b2f63820bb718ab07087c21d71a",
+    "bytes": 180084,
+    "sha256": "231b3e5f1e24d146d735dc158cbcfec0c95a0d0ca8c500f61f04d15d0b665652"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/xl330.part",
+    "git_blob_sha1": "b2988c8534f31ff0ba6d63976bf2ade952a821ca",
+    "bytes": 372,
+    "sha256": "e611f8ad4068acadd8ef0ababd355bb8597becb7eddd1ba206df6bbd539624fd"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/xl330.stl",
+    "git_blob_sha1": "036fba0df9acdd1568d5fcb13fe68673b1abde83",
+    "bytes": 206384,
+    "sha256": "96238ed0d020ce0009cf1a5aa4b6926176c800840318ee65e4375be2298d2744"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/yaw2roll.part",
+    "git_blob_sha1": "ddd0bd5f52b3d7c01240a417f7255228d1ad2970",
+    "bytes": 374,
+    "sha256": "bc0bd3f0c6551bf5eb35acc14b69fce0bbc0d335bf83026b18609f2c0c570d1b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/yaw2roll.stl",
+    "git_blob_sha1": "50e107311bb7af52c0452e3414d03d9b34857ee8",
+    "bytes": 620284,
+    "sha256": "6c8f193ec7cb40be0f48eeb5fba81bce2c87f12e1aab3f77f1bc4981386e1495"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/yaw_roll_motion.part",
+    "git_blob_sha1": "e34a1166c82c657b69e6aca92fcb7281b5615f5a",
+    "bytes": 382,
+    "sha256": "4189857fe1b3b8565b2654c3f7294f642ddf20732aad0f25dd93977ab7ffe277"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/assets/yaw_roll_motion.stl",
+    "git_blob_sha1": "20dd91011e74f3002fc376e248b4c5e827909a87",
+    "bytes": 290784,
+    "sha256": "b0c9902dee19f06cdb7fa930292e0e1c91e2dc59baa971211495b58ff76c3c60"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/ball.xml",
+    "git_blob_sha1": "42c3278eb5f5498e8204bc9696bf223c810e7d2e",
+    "bytes": 706,
+    "sha256": "54a455bf454a9b6167655381df91593bbca86695d8d71e29fb6af69454c7c865"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/config_mjcf_allcollisions.json",
+    "git_blob_sha1": "e797f65956415a78ee228893d85923ea36c9ed60",
+    "bytes": 1496,
+    "sha256": "a557bb21f6e38389450d448a02eb1b13ab7a679179e17e283d1fe79988ac9d9b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/config_mjcf_groundcontact.json",
+    "git_blob_sha1": "92a99b87b6135f7216101c6f36a3cf5345c0b107",
+    "bytes": 2006,
+    "sha256": "6e9d1efffa574f2f09ba40ae63e236d7bd8b7900b9d65c78231751d72b22f962"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/config_mjcf_groundcontact_backlash.json",
+    "git_blob_sha1": "572037ef7dda7dbb479e7b082cf88e082e31ebc2",
+    "bytes": 2141,
+    "sha256": "fd6e89d562d0ca92cb1e789ed273d14ceecbd95198c79da3ca2690e8e62ab204"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/config_mjcf_groundcontact_rollers.json",
+    "git_blob_sha1": "081dbcbd8c8c6f0870d35ded63fdbbe20d1dac70",
+    "bytes": 2092,
+    "sha256": "7b3d837a2b15b92ff02a53cce3936f6b6871ef4cbf823c2b386be8cad4eae7af"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/config_mjcf_groundcontact_rollers_backlash.json",
+    "git_blob_sha1": "14785ad374ff77a5cde05376f5d6cdaa4eb783af",
+    "bytes": 2235,
+    "sha256": "9af2931a67955be82e76a2ee2fb9ca554c3e8cf87f964b2b770e1389c10382ff"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/config_mjcf_walk.json",
+    "git_blob_sha1": "43db1632f26ce5d421b03d1c4941b69ee2d8ee4c",
+    "bytes": 1814,
+    "sha256": "31fdf5bd061170fb41729b3a82a7780e772121ec566625c5a6bf849b890b31f9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/config_mjcf_walk_backlash.json",
+    "git_blob_sha1": "fc1a83d27f945aa20ada665f2fc198e04ec7ddad",
+    "bytes": 1974,
+    "sha256": "1f662b54138c30b135a451e1765da34045b6330bcb7c573d2719c51ef5f564a0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/joints_properties.xml",
+    "git_blob_sha1": "ad2e7558204743c6532223e5f5d5f69c419250d4",
+    "bytes": 1780,
+    "sha256": "6a4481a9279ffd92139479e67515df7b3510799ceb648c18fde0d58c300eae86"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/robot_allcollisions.xml",
+    "git_blob_sha1": "74acf47e7df13fa51346a1d3dbf2c85a7423498b",
+    "bytes": 43020,
+    "sha256": "ec9d2f731596cfc847a7fc3898ef8b5e67a548928abc23216537f1da8af2729c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/robot_groundcontact.xml",
+    "git_blob_sha1": "18b50b58e251a324774834127fc6c32cf236bfa1",
+    "bytes": 32904,
+    "sha256": "99d23867e46e9d4748ff1398016b850f09fb6cf02a558c0272743b39ce3acf15"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/robot_groundcontact_backlash.xml",
+    "git_blob_sha1": "a8eec5faebac5cfb5e9415ae6cb855abf16e3ad6",
+    "bytes": 34991,
+    "sha256": "8ddae05f00d321945220c632cca13445287c94fdbc1654573142347a5ac87d59"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/robot_groundcontact_rollers.xml",
+    "git_blob_sha1": "e36ea1eef1f7d26ef6385d5f2e4897e9622e2db3",
+    "bytes": 35693,
+    "sha256": "e410e74978511fa2efdc9dcbe1488964c0c149ecca568a59dc73ef7f8844bf8b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/robot_groundcontact_rollers_backlash.xml",
+    "git_blob_sha1": "08e4374d5fe9b42c95ca0eae3a950fd04f4f5e55",
+    "bytes": 37780,
+    "sha256": "400fe547140354899774f72634a66fc446a96ab317e894c2a6fac5aa706a9967"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/robot_walk.xml",
+    "git_blob_sha1": "96de481cce278f089145cf07b7088b173a7bbede",
+    "bytes": 32023,
+    "sha256": "80fc4424ed71e430ec4919110dfdb5c714dc1c4e1138e1832a16865cf31eb8c8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/robot_walk_backlash.xml",
+    "git_blob_sha1": "a06023ec69f17a2e3250558f93e0643300fef3c0",
+    "bytes": 34110,
+    "sha256": "8c2f271948cf06a3c5720c48abaac35b909c53fcfc6f5c3d2cef15f732da74e9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene.xml",
+    "git_blob_sha1": "a3848be52113a50138d54921748733f09488d496",
+    "bytes": 2350,
+    "sha256": "9a85461121ba8273083c482c166f27e143ca386993b3ec8f8d97eb09aa257d31"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene_allcollisions.xml",
+    "git_blob_sha1": "3ce5068fa88a9f9f9d1f9a2c3757f8f50a3e8dd6",
+    "bytes": 2350,
+    "sha256": "0d2f58227a3e1c4caae4e847a368ae83516d0f398f428c4e96737b67dd894ef1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene_apartment.xml",
+    "git_blob_sha1": "40a3005f9713d001204a3b495976f479bbf94221",
+    "bytes": 2457,
+    "sha256": "f89da842d8972db257cb9a1a7c1804e21e1d0c01cc3388d6de6ac6fa1060f6e2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene_backlash.xml",
+    "git_blob_sha1": "451fb3000b6178590868578f42426d546a796d69",
+    "bytes": 2570,
+    "sha256": "2e8abed8258c0299859ca5403e44013da241f494065ed5bf184302923bd03c7d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene_ball.xml",
+    "git_blob_sha1": "bda06bb8736d2de3a85f58093eba30af41e4aad6",
+    "bytes": 1238,
+    "sha256": "3a6e69457fe68af692823c46da9e081021e3bf4be6c5381018446762acd20265"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene_rollers.xml",
+    "git_blob_sha1": "963c49703dda143cecf18d2f04bf50064531a004",
+    "bytes": 2439,
+    "sha256": "9029044d5b605882c7f10b52b9bf90c9d5572fb25d79033d0d04026a269375ac"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene_walk.xml",
+    "git_blob_sha1": "7aa25e52b609da73d759c7adc99233c7e63239bc",
+    "bytes": 2341,
+    "sha256": "6e23146c1a5025473b55ec94cbe37b08104ca388b7eb005ea277f8230736c8be"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/scene_walk_backlash.xml",
+    "git_blob_sha1": "0fba9a5e2fe909930058ebe6a26383b60240d05e",
+    "bytes": 2562,
+    "sha256": "bf71c93e90f5a70890f6f76f79f8ba25191cf7ef0a8de47b1dd24f629449150b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck/sensors.xml",
+    "git_blob_sha1": "a2be91b7ff8f47643fe0937eb2d89f91069827ba",
+    "bytes": 357,
+    "sha256": "47854a0ab18261f069553e1572e0c329c4f39e4557dbdada71e0dc62af14ee20"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/microduck_constants.py",
+    "git_blob_sha1": "d893a0bfd6ad7c2e73995ca9b73d30ec287f8e46",
+    "bytes": 11118,
+    "sha256": "1b741537d1e67615e5094d4330802db74f9621cee05d6bd7a5ac734cace78099"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/testbench_constants.py",
+    "git_blob_sha1": "e676e5918a0f3b79630bba28667b8324e75cd258",
+    "bytes": 1777,
+    "sha256": "bf5e95376131471443e1daddf5abb0bc6326bc6b5c49bfb352774bcc6b011b9f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/arm.part",
+    "git_blob_sha1": "51da6d449b6f2ed496acb1f82ff62fc95ea5aa77",
+    "bytes": 369,
+    "sha256": "081b71065888ab6ccb90b601e21438a115d748a19164d0d1d0ac19fffbb3bbef"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/arm.stl",
+    "git_blob_sha1": "a8dbbf40cc1925082c2554b550bee0a709df2200",
+    "bytes": 151284,
+    "sha256": "2b5adeff9acddca7ca3f14ca502687bdccb0d5718ca5eee5ea8e0b7b92fe460e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/axis.part",
+    "git_blob_sha1": "de3f789bff930380475fd3c1a8c987b382c768dd",
+    "bytes": 370,
+    "sha256": "e50bc0c3d0d0efc2c0389db3da6614b38d1ac3d63b586bd0c419c097be35a6d3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/axis.stl",
+    "git_blob_sha1": "7cd475fbbc17abd6c8953c03c9ab02c5d74b33e7",
+    "bytes": 14484,
+    "sha256": "435cdf37cd5cfd9cc7ce1202fcf075aebabffbf6cf1249a8e8d3a93d6350b244"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/bench_holder.part",
+    "git_blob_sha1": "62d6f930940d10c6816ea07c5b387f65ae5628a9",
+    "bytes": 378,
+    "sha256": "e54085f77346853620ce55bf8bac6c6ba1e5569bda857edf851890605ec96327"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/bench_holder.stl",
+    "git_blob_sha1": "32cfa186dccd172761f998cd5ec2b5566c058210",
+    "bytes": 60284,
+    "sha256": "3a46df8b07b5b7eda4a0f68642cc90e4a557cb3f8678e49a2508b9225a26cba1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_1.part",
+    "git_blob_sha1": "1c0a3885dff7a135b4904eaee94ca6a98f12ac33",
+    "bytes": 372,
+    "sha256": "e49e473f52d3f72fd8dcdffa16bece1dd019ecba220721a5c03fd42986901367"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_1.stl",
+    "git_blob_sha1": "a8dbbf40cc1925082c2554b550bee0a709df2200",
+    "bytes": 151284,
+    "sha256": "2b5adeff9acddca7ca3f14ca502687bdccb0d5718ca5eee5ea8e0b7b92fe460e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_2.part",
+    "git_blob_sha1": "8d4f8bf19e128dab42b59e52ac9bac7e24381acb",
+    "bytes": 372,
+    "sha256": "b0c87058dda6e65b78ce252b0da49cc77f4e7101d6d9a1be1cfcff4ff8293208"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_2.stl",
+    "git_blob_sha1": "8219a169ad1351269a6bccd54f102a10f4332663",
+    "bytes": 28884,
+    "sha256": "6f57229eb624849885294536527402ebd6a2e4933e086ad80eda1604d3fbec0c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_3.part",
+    "git_blob_sha1": "bd58d22f6d7cf79d5fd512c7df778dfb63664101",
+    "bytes": 372,
+    "sha256": "f8021a43202b3a5b3af40455f4790a1fa85695ddec8dd38fb1ea8d6970a9bb30"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_3.stl",
+    "git_blob_sha1": "32cfa186dccd172761f998cd5ec2b5566c058210",
+    "bytes": 60284,
+    "sha256": "3a46df8b07b5b7eda4a0f68642cc90e4a557cb3f8678e49a2508b9225a26cba1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_4.part",
+    "git_blob_sha1": "db6b2c206e9064923bff5466f28374c2aecfebfd",
+    "bytes": 372,
+    "sha256": "7bc00fb470725890737598e59ee990a2bb82c242994f671d92b3fa597e4234d5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_4.stl",
+    "git_blob_sha1": "b5590840b429965cf9f54fe299d25d8ae63cdff1",
+    "bytes": 28884,
+    "sha256": "4e5b08e92d99bb9fa2d0f4b00f9c1f25b98092f1594e9735c38caef76a4475a7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_5.part",
+    "git_blob_sha1": "2b87f2be0be2e7464acc465e0d8716c9944e332a",
+    "bytes": 372,
+    "sha256": "e650c96517ea0fc724fc6042043a7fa9bcba94faa26f9d5cdfcc0fc4b519e930"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/part_5.stl",
+    "git_blob_sha1": "7cd475fbbc17abd6c8953c03c9ab02c5d74b33e7",
+    "bytes": 14484,
+    "sha256": "435cdf37cd5cfd9cc7ce1202fcf075aebabffbf6cf1249a8e8d3a93d6350b244"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/spacer.part",
+    "git_blob_sha1": "292fd50b40d982ce62ebbd0dafc1feca62feacb1",
+    "bytes": 372,
+    "sha256": "55d9bfc8ab9583b8f9967762d2e79821f27bdfe539790ac69968058b25fd4bbc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/spacer.stl",
+    "git_blob_sha1": "8219a169ad1351269a6bccd54f102a10f4332663",
+    "bytes": 28884,
+    "sha256": "6f57229eb624849885294536527402ebd6a2e4933e086ad80eda1604d3fbec0c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/weight.part",
+    "git_blob_sha1": "06dd404ae29d0c0e08cd9be929949c953be68d3e",
+    "bytes": 372,
+    "sha256": "612e03a44dc3d61747e6504a9df7b927117503dfeeba38fe132ca697870c2164"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/weight.stl",
+    "git_blob_sha1": "b5590840b429965cf9f54fe299d25d8ae63cdff1",
+    "bytes": 28884,
+    "sha256": "4e5b08e92d99bb9fa2d0f4b00f9c1f25b98092f1594e9735c38caef76a4475a7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/xl330.part",
+    "git_blob_sha1": "311a5fbe3f678b1847696367e7902b6a06f3070b",
+    "bytes": 371,
+    "sha256": "e1e95b797098ec0e855db86c7d316b689dd04445d838c92a2bfc8d6a624efa50"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/assets/xl330.stl",
+    "git_blob_sha1": "0ea8d4fa34037b0987a64a22a104bea0ff80a8b6",
+    "bytes": 206384,
+    "sha256": "c9f6bf7dd9d8b307a4174b40ff12517b3ea470e5535319a5b7dcce4ba52cdfe1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/config.json",
+    "git_blob_sha1": "8d44975bcceb541ea54710ccf295cbfb1495c712",
+    "bytes": 508,
+    "sha256": "c66518cd6fade3bbe881be0ab9b6e1ac395ddfb41a9b3ce5b39dfdf58e3a0210"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/joints_properties.xml",
+    "git_blob_sha1": "c0406a1cf62a96d05863c949e9c4e6ffa69cda6d",
+    "bytes": 909,
+    "sha256": "5204d854ca41a08b752be733acc7abe238c279f6525cbf2c532792446b187458"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/scene.xml",
+    "git_blob_sha1": "4b9fa89bbdfb1106f9def3c284447f9acbb3bb4a",
+    "bytes": 932,
+    "sha256": "711f1503b4cee29270f206bd538de38fbd9df18cb2c12ff6a012061fadce247c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/robot/xl330_test_bench/xl330_test_bench.xml",
+    "git_blob_sha1": "14132ba3f49cd1a32be3672b8565fca3cfed9fca",
+    "bytes": 4598,
+    "sha256": "b189f8c9d97b1e8fd11a67e8270f379042f863bca24d3af03970194c5e3451f2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/sim/__init__.py",
+    "git_blob_sha1": "4062e5abbc918abd806151da7c45c42e9f1c62fd",
+    "bytes": 336,
+    "sha256": "f13d4940266b9579529074bc60426353ed8fc6f49bf8f480691d30e8e4276e22"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/sim/body_server.py",
+    "git_blob_sha1": "28743d320633195b39880440e47f7acccfade0aa",
+    "bytes": 25025,
+    "sha256": "83f6d71549fe6f4e897536aeb6bca2501ea6b68846d548aea23388654059ff82"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/sim/hd1910_body.py",
+    "git_blob_sha1": "d2c75e042043d90c0cdf2e940f19928073e9dda8",
+    "bytes": 7761,
+    "sha256": "c00202929c5223cabc0c679688855460dbf0a214ddd6321c01c0b3009082a77c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/sim/tof.py",
+    "git_blob_sha1": "cc25739226f4659cbb0fa6511422760aacad0167",
+    "bytes": 4118,
+    "sha256": "2d8cf04c127f0cf923f1de362cd81e7a2b62b79ba1abfbd280dee2c723d87da5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/__init__.py",
+    "git_blob_sha1": "f205f3bd2406219a5704b7f5027c2f532db9a1e6",
+    "bytes": 19299,
+    "sha256": "00e146a6da528d9ab6ac3427f5e590e21949b30d61719f42df86a8e28ab96714"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/backlash.py",
+    "git_blob_sha1": "e77219a482f19c1ca9db9d1b4a9d7a8bbc8099b0",
+    "bytes": 4344,
+    "sha256": "35598c2a3db496527fb8835269b4e0ac0eddcc86e683a7af447933c7281d0e22"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/hd1910_bam.py",
+    "git_blob_sha1": "983f311efea22202f34b4046a85c34707c88a189",
+    "bytes": 73231,
+    "sha256": "bab479d5b200942a1ef68abdcb26ca9056a25a193b5c0436b304df4d68c51f5c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/hd1910_suite.py",
+    "git_blob_sha1": "9a36538a96fc52f3ad2964765d7581dd1833d194",
+    "bytes": 3340,
+    "sha256": "d901d44fa02498ebebe951b6a12483819e9cdd134de93652b29621db536a8f8b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/mdp.py",
+    "git_blob_sha1": "9817a89d726435c3706ddbab59f371be63f2138c",
+    "bytes": 336899,
+    "sha256": "ecefd57abc23002c70b6ddab6bbdd5a5ac61bfdfc34018d7ad5a619de2138226"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_ball_kick_env_cfg.py",
+    "git_blob_sha1": "34ea20cb1611a7e45c435b08e9ee5689700a5d3d",
+    "bytes": 29653,
+    "sha256": "313180628c0d0364ea6d0f1843e7e3e10b76585491b90b0c1f0e301d9e5fd30c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_ground_pick_env_cfg.py",
+    "git_blob_sha1": "94df8b551a913fe22e3e21dace40cc7fbfee76d3",
+    "bytes": 32917,
+    "sha256": "9b68951e2c84fdccb5894701efa97e060438eb56c956a34c65e844ba3fa6185e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_hd1910_env_cfg.py",
+    "git_blob_sha1": "ddadd92a4504496a3b010a3ec8fdfa5c339f6c0e",
+    "bytes": 8511,
+    "sha256": "386660ba84ab235c10a265c11421ff9f49a96bfbed5367e0350d7e6be0951408"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_roller_crouch_env_cfg.py",
+    "git_blob_sha1": "c37507d68ce9a99372994051b355141cda50d86e",
+    "bytes": 19507,
+    "sha256": "745142fab9ffc4c43a6b7d367d6be37f5675f5fbf255ac4341a9e2a21a4062ee"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_roller_slope_env_cfg.py",
+    "git_blob_sha1": "a39b601e14c6d080ce0b7c1ebae1329b1e7a13df",
+    "bytes": 12134,
+    "sha256": "92738df650e3527c8cbe194169f60fb2a232933b1eabbbaf7d4b7d2aa67e2b42"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_roller_standup_env_cfg.py",
+    "git_blob_sha1": "ba459b89e1a3ea3b0b7435323193f0213bd28850",
+    "bytes": 27524,
+    "sha256": "5dd23f1052eb97b90721f87ab3b4551047917d70e79e3215a1dc23b0ffc23baf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_roulade_env_cfg.py",
+    "git_blob_sha1": "5d26a4242769b712f7e8ac3fc03c80a1c6c5db90",
+    "bytes": 35052,
+    "sha256": "5e923d9ba69946228062c72102fe2b97bce02b9fd6f52c2418a42bbd4f919b42"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_sitstand_env_cfg.py",
+    "git_blob_sha1": "ea97853b8971695ddb42a3ce7e9cbb992912ce48",
+    "bytes": 43985,
+    "sha256": "864ace55b17ad9f4422c31251ff9cb834862fa7e2abd0ec6fa529deeb456dc88"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_spin_env_cfg.py",
+    "git_blob_sha1": "60cf32ef09064eba13a205e17cd05ce359d2b08a",
+    "bytes": 19856,
+    "sha256": "ba85e26407a29a208f871aa229bb2c7971eca6087f0740e7de6f898adbc5b395"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_standup_env_cfg.py",
+    "git_blob_sha1": "358b567c75300551c3e1b0ccbcd378f481cb9f14",
+    "bytes": 58592,
+    "sha256": "b20b8f3fac5a374dd602f371f0b500955b4dbcb4d3f7330bddfa15b327826873"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_step_env_cfg.py",
+    "git_blob_sha1": "eccdadfcbfbd814573b205d443f5a2c05f62730f",
+    "bytes": 2995,
+    "sha256": "7a720bcd177b90d3add9cbee0942c0863d9a78563ea228a997ca0e7d86da93cd"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_sway_env_cfg.py",
+    "git_blob_sha1": "fc6e279b801e7c25197f2333a8b41cd94b9c9ec8",
+    "bytes": 2530,
+    "sha256": "d7b4093faf0d9ca8349827ed9387bd0f3880195fab95a4ff32961a96ccb7d90f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_velocity_env_cfg.py",
+    "git_blob_sha1": "45a1f6d5b7f5d81aa58dab777ed34f458a2f847c",
+    "bytes": 44971,
+    "sha256": "75a0430b814ac7495eb237ab806fbd4dd10309b9fd3027ac3eee3c2e3c5a944a"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_velocity_rollers_env_cfg.py",
+    "git_blob_sha1": "1d2c46644b5b0be460bd8cebafcd60e650d36f43",
+    "bytes": 30194,
+    "sha256": "53567a5ed91b4c70166b57c79fc31917fdcf41287128aff12d3b9ff678f4c38c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_velocity_swizzle_env_cfg.py",
+    "git_blob_sha1": "104dfa1964699a045aea0981f6c9e471493d4acf",
+    "bytes": 9544,
+    "sha256": "75197c956afd77586f60e4b773033ace15e088179bb5912a88328862b0a10f49"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/microduck_velstand_env_cfg.py",
+    "git_blob_sha1": "3e1631243612c0c5b85e15b70b36f89de5480114",
+    "bytes": 21298,
+    "sha256": "0ccb20f3334d47afcb59dcdb9cda54fdd417b86f535fec8c73f5db6fe0d1c666"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/slope_terrain.py",
+    "git_blob_sha1": "e4270fc6a211064f4137edd19a8e946275e1a83f",
+    "bytes": 5004,
+    "sha256": "1ce48eef8b4bd82cde94d7c9f50f19d2992f4dc8d3b5b5d314b7381bc572b8a0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/symmetry.py",
+    "git_blob_sha1": "e950421916f48231f22108178dc769ae7912d5d6",
+    "bytes": 7348,
+    "sha256": "e37980389773f2f87b8f376df449af4d70e0c983744459f9a35a3ee7b686186b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/tasks/testbench_env_cfg.py",
+    "git_blob_sha1": "7b6ebef8e75c20991a83c079ea2aebedef8e3103",
+    "bytes": 9481,
+    "sha256": "d254218ca3f491e52d471ad033ebd1cb39a339f1f21394ea55e2bec4f3dc2776"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/train_cli.py",
+    "git_blob_sha1": "869772263959e441ae80fce6f31e721c691ce3a0",
+    "bytes": 1456,
+    "sha256": "6c1e118d2bf65f86f6b932dd41b4ddff2a20a0633194a03072f700c7bfa8e372"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/src/mjlab_microduck/train_hook.py",
+    "git_blob_sha1": "a10390cdeb3e7e3e9ed2ca66133784c0364e4472",
+    "bytes": 2507,
+    "sha256": "db1bcbceadd41d65077983eaadcb89dee146dc14ea9c9cc3df9d29c1cba20db5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_aarch64_cuda_torch.py",
+    "git_blob_sha1": "ebcda61f661f502d86ad38b97a8313fd32ed00a6",
+    "bytes": 5291,
+    "sha256": "a709e75b92398465c28244b5282f67fa0c762f83bf63f331dd7cc895ca203e02"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_action_request_probe.py",
+    "git_blob_sha1": "954871b01ed98c6c42af1041da867d78b2031874",
+    "bytes": 1833,
+    "sha256": "998ca4a27b1d85c0a87e04cff0fc4506813cc3d7e10dec570d4c321ec7ff9e07"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_crouch_glide.py",
+    "git_blob_sha1": "af81d716fccff270a36cabac5bffa61e0a3ec48a",
+    "bytes": 3853,
+    "sha256": "a98d7a4cfea4d0995b685ab261b35de6173dc89b7024bd2fd7c80f840beda25c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_descent_speed.py",
+    "git_blob_sha1": "cf97f1f7ac6ff026f0e88679194507a1fab726a0",
+    "bytes": 1261,
+    "sha256": "3e4d7bca6881a3055b487507301801c6d6de1e880f7bfa9bec3d9ad978cbf69c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_dynamic_clearance_search.py",
+    "git_blob_sha1": "63605cb3b33fea7fe1cb3bcad7c30b3017cfe761",
+    "bytes": 1743,
+    "sha256": "a4665a48c41fa7727a801bae36f9b77ee1be9b78e09be4794c67c21b5ae2f4d8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_experiment_resume.py",
+    "git_blob_sha1": "83e55b5f6beeffad6f4c8d2bcfd0c016a391d786",
+    "bytes": 2003,
+    "sha256": "0aa86a0b6d5257f8f7355df7dd65c89eebd54cd3f688ff22d2bdc0c902ac4493"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_forward_transfer.py",
+    "git_blob_sha1": "a0a7c32dea649db99b44b8f598c230da2a323afe",
+    "bytes": 7240,
+    "sha256": "de7960e47db9a9f4ffdb1fca4c40bd12f83550334a5577c9acae5551eeda2e57"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_gait_curriculum_audit.py",
+    "git_blob_sha1": "6f36edcc2fd0169941192eea9bede0fc9fc0305d",
+    "bytes": 2509,
+    "sha256": "535f7c6c6dbe8c1e37dc30ae13010e4ee611a32ce6e321213bd2a809bc13ffe6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_ground_pick_cfg.py",
+    "git_blob_sha1": "fe9c9ca4e2608b73b9a22c3ffb60f5138eff35a4",
+    "bytes": 2434,
+    "sha256": "0d1556219800df3b7c7d6c7c53f1ae304d0072ebaf8dbe57e5937f11bdf05708"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_ground_pick_pose.py",
+    "git_blob_sha1": "23d23c86ff5435e431781cb659932eddf4a7cbce",
+    "bytes": 4628,
+    "sha256": "dc2156a7d1f730f09c6ff139e07574f5255c7c6fc17900b190905dee00046855"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_bam.py",
+    "git_blob_sha1": "c68ab1dc2c39550879b1d27a11252cb4a526a9b7",
+    "bytes": 6328,
+    "sha256": "f1603880bb93814481705cef0b1f6434b8d6fe591fb7f1ecba489a57dd86b420"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_body.py",
+    "git_blob_sha1": "de9e101f94cc25d4549118bcb4fe283a81bf6797",
+    "bytes": 6031,
+    "sha256": "32e773f186247db42b90aaaf3ef75ddf05268f6f0a195264b1562a9d0122f574"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_bounded.py",
+    "git_blob_sha1": "58944f9f9e39d604e1a0c8b26ffb86d119c7321f",
+    "bytes": 11316,
+    "sha256": "42a2f298b25c1957783138cc2ad4856355ba8fd3958770cf40624688c0dc9ee9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_checkpoint_screen.py",
+    "git_blob_sha1": "42ac35b9c5b7f0859198c08460ae1ed170e45d8d",
+    "bytes": 1061,
+    "sha256": "2b2f04cd71d02225cb4a39e33b0b68429275856c9a1d2cda50fd7611eab1c62b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_interface.py",
+    "git_blob_sha1": "b0c55bce23016263e23b9efe90ada11129cf4ec1",
+    "bytes": 4561,
+    "sha256": "0fe508f58817053f7132c22a275e2a2518c8129cadaf317c96f1d912fca6f4e3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_model.py",
+    "git_blob_sha1": "ea705e4febfa9672cc764d83e3b9ee469d1cd69f",
+    "bytes": 4388,
+    "sha256": "638f4564abebbbc8f9cbeca5774bf0d612777d28cefd309ef1d7b2774fafa855"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_posture_replay.py",
+    "git_blob_sha1": "8cfe27f31605350976c75b866da99a0717989f53",
+    "bytes": 4087,
+    "sha256": "a4cb03b7ea4db91c3ed484b6c974695b46428e6f4dd77f8a4befd8b867ec04af"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_qualification.py",
+    "git_blob_sha1": "3a59e094e75756f9e593cbbcce2197de7de12b41",
+    "bytes": 3549,
+    "sha256": "4387d45fe302126049783a476def2cbeb6669e8c165101ad00653374babf4ad4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_reference.py",
+    "git_blob_sha1": "1f8aad39a6c90b6d62995bb9140c98b4d4a6ee65",
+    "bytes": 8660,
+    "sha256": "a8f82221c70734e8fc905f8b3d38ea420bc4a4fb7e75ebf017518bbe331e3d16"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_refine.py",
+    "git_blob_sha1": "380053bb04b11db543743bf1d52902e14ca3a828",
+    "bytes": 13700,
+    "sha256": "34c29ad1ea124cd283facda95ca541c6e0e85850f9794c8cd945a562e9ad9efb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_stress_matrix.py",
+    "git_blob_sha1": "d37784f887bce3c6c78140689b892e4847d5251f",
+    "bytes": 843,
+    "sha256": "818f64a6c8a457e5f0cd198f144f0443993b6f651f27cd8cbc3fc24c66073c81"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_suite.py",
+    "git_blob_sha1": "dac877168ee2ca83a8df59fcf89bc0a859d69a80",
+    "bytes": 4321,
+    "sha256": "35eb916b4f8b20dfdfd01ce5e2b106daf2fca63cf78c36d10d3d29d3b2b58658"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hd1910_velocity.py",
+    "git_blob_sha1": "89e676c9317c41f34d8ff91b488b0174509f8da8",
+    "bytes": 1104,
+    "sha256": "d249ee83ad6b51e8607fdff964ee9a32f364ef8e9faf088f4b8f0d3cf7940770"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_head_balance_training.py",
+    "git_blob_sha1": "060f889238eaa5b35c2eb4cd7ab6ab7f6e09f2ee",
+    "bytes": 8281,
+    "sha256": "a69c578c96e7e7502112c506fe9c226ef3d62e2db48aea0d28f4b6c755c0fff6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_head_center_metrics.py",
+    "git_blob_sha1": "15b8089ef7fefc091a8bfb2009097a8baf35e1ad",
+    "bytes": 805,
+    "sha256": "7ea4e61412d5a48db4fd95a6b8593dafd7a47f6330ab6453fb54ffd66696f5a5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_head_experiment_summary.py",
+    "git_blob_sha1": "06aea3a3b04b341a7ae17c627ac54129c2825e93",
+    "bytes": 1858,
+    "sha256": "00fa33795ddaf14c5208a34fb0d25391da2d4e8963122a1a04f7dc565f7a590f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_head_pose_bias.py",
+    "git_blob_sha1": "5ad06795c5e9eff2caf0cf3d121197661f4ab126",
+    "bytes": 7519,
+    "sha256": "93b6737e24bdb5cbad661a5e41c1fcda6619382bd78d0fc095ad4b2b63062fae"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_hf_jobs_flag.py",
+    "git_blob_sha1": "be08beb955bd30af9b18856bef31a287986a401a",
+    "bytes": 7723,
+    "sha256": "ba54819eab252b3352b03dc176d6cc9ec9ef10f0bfc1fac4ec5c08adeb6de1f2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_infer_policy_bam.py",
+    "git_blob_sha1": "c3dd6b021fa1a55c3a7391fe58a0eeb4b5d733a0",
+    "bytes": 4207,
+    "sha256": "5eccd3370bcb3b12ac3dc4177259f98981fe2f8fba9b99d083ba5d7f1c673e3d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_local_campaign_queue.py",
+    "git_blob_sha1": "0f04947b6ebdf86d319fefc7dbd7d4fc39113e42",
+    "bytes": 1649,
+    "sha256": "26cbbea2f6cdeb54564ad6387d9296718b4aad6a4d2cf4086b3f3e1e606910f4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_m6_balance.py",
+    "git_blob_sha1": "a27e439247154e3d4c40f283ada92b7a457b680a",
+    "bytes": 9264,
+    "sha256": "633ef0c33f72bc35a261dc96d9e16a41c71e4e926a4238d90456f7ac5340a3ed"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_m6_head_optical_pitch.py",
+    "git_blob_sha1": "bd0c53cbeaf9b25a1622803a3222fb50a70410c7",
+    "bytes": 2354,
+    "sha256": "d0222aa5fba856683915f4f0303c039c408d708b704bad54ba5d8e1fcf294519"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_m6_head_sole.py",
+    "git_blob_sha1": "ecfc03ef30f974dabcb0bbae85994dafc9ad7576",
+    "bytes": 18217,
+    "sha256": "114e6528f76dc1645a9a3cca78bb16257995aeb42488cbe2e974e770f47e3019"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_m6_next_campaign.py",
+    "git_blob_sha1": "0bc9f0ace84e4157499a26ebae43af87b2b09419",
+    "bytes": 16856,
+    "sha256": "0b5886ec75d1bb475c084b8ddbfc044fa81be17855d94d0c77a3fe47716ab73c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_m6_repair.py",
+    "git_blob_sha1": "a1e9999c7a44c054402556ff73417d31f0daba2d",
+    "bytes": 2667,
+    "sha256": "00779a3a9ad79c69fd3c36e4f55dc61366ed11a7d2ba0a01f99c5ea3161f1bb7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_m6_skills_campaign.py",
+    "git_blob_sha1": "c07db902ef755df3a1a94efa0b4b70fb2d23640c",
+    "bytes": 2212,
+    "sha256": "d21d4a1c2d7326d51ff3bcfc8058b92848c3450a6b8febb3fe6e6abe36444ea4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_m6_step_measurement.py",
+    "git_blob_sha1": "2c5790fb906a77d028b2beb81b738fb85614a89f",
+    "bytes": 2569,
+    "sha256": "43faf46a54353405bf475c8e4329b36060bac6878a73c3c28063eab9e5d1dbf6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_nan_guard.py",
+    "git_blob_sha1": "77ea793006fe9062e599d7c63ecd730f5999f6d5",
+    "bytes": 1888,
+    "sha256": "b80c338ce6949ab754806615bce2b8b8e47b43391f0290f07afbb1cd43e7facf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_obs_nan_guard.py",
+    "git_blob_sha1": "12c7d12449253301478e8758dc96bba864e6ff63",
+    "bytes": 4527,
+    "sha256": "d521a3ddf30f9be8fee54dd2dce68a662952e9acc05223457bf68a24af8aa731"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_p6_campaign.py",
+    "git_blob_sha1": "e2d0f785191129f4ce5d34165e6c93d5ca00e247",
+    "bytes": 961,
+    "sha256": "77ef15a2737ec25db831a15a726238f913ac28cb4e25f5eb6fffa493bf121e89"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_payload_uncertainty.py",
+    "git_blob_sha1": "441435ee4be10fb2747aa1946c7422accf9eac33",
+    "bytes": 4121,
+    "sha256": "ee2caf5855862958ddec5e57c5f9db2d54b7d4a9ee22fc7321e06457b1326462"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_publish_manifest.py",
+    "git_blob_sha1": "a27223581135e724e01363d2859923c13b105007",
+    "bytes": 10932,
+    "sha256": "71c6b0c7585e263637ec6aecf16025d1297eef2355b483b5b6adc89bb79c501d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_radxa_alignment.py",
+    "git_blob_sha1": "b8a880c70de358fa0b0b76ed3ed6b14baa3335a9",
+    "bytes": 1815,
+    "sha256": "6e591af74f2ac2049381f0b0d685035e17a3f1e5e9e3d08597c808678b1510d4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_reference_direct.py",
+    "git_blob_sha1": "6e61bc4885b47b713da691d47fa11c9aea914624",
+    "bytes": 4052,
+    "sha256": "afd05ecdf8523c33d023839b7afe81b8136c6894dd8c29de0c5d7c2bf6edd2f5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_reference_transfer.py",
+    "git_blob_sha1": "ff0ca8d243501369b0cc201fcea956ec5a1f2a26",
+    "bytes": 41241,
+    "sha256": "dfcb868bfd12b954ddfc9393850191f21d0379756573976c0dd55a7d3d7b32c8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_roller_crouch_cfg.py",
+    "git_blob_sha1": "25a7e86e5d994c6e2683db3eb3d6870ef567566c",
+    "bytes": 2300,
+    "sha256": "99598c25cbb265e12ea3eca0cbbe30616183e0e28f75cfa3f82fb5e600ecfa9d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_roller_slope_cfg.py",
+    "git_blob_sha1": "3a438e3b8bd9afd9aae2099c9c889cc26836feaa",
+    "bytes": 4459,
+    "sha256": "62fe70c4cc69b42294f43db2480a53b3048569118344d691b8c654947c724122"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_roller_standup_cfg.py",
+    "git_blob_sha1": "f60d690b67a46c7912d7c4ff27ad65c0cd167053",
+    "bytes": 25753,
+    "sha256": "0b399390dfafa2a2e5f3a774edfd22b35174872fd5f6900d96dd8d96d9fa3d38"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_slope_curriculum.py",
+    "git_blob_sha1": "b55f4a014cd2e991aa999306a9936e426c7c28e5",
+    "bytes": 1365,
+    "sha256": "efd0e6f4e3ece42bdfdca011815a5506af74a5f094fbd265e5644f964678e6a0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_slope_terrain.py",
+    "git_blob_sha1": "7bf32d126bee087b7461cb22b614441ff6f04eeb",
+    "bytes": 4034,
+    "sha256": "a48713d10b1ee4faddef6e96c54d1f3ff09f71ea73c787714babd1d3af6afbfc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_spin.py",
+    "git_blob_sha1": "73ca47a2c9ad9656497d005a4527d8aaeb1c265c",
+    "bytes": 15896,
+    "sha256": "0f27f1a1afee0c2c7c15e73fdad4c2649b4f396670206dbb57aa1743f71b4b95"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_spin_cfg.py",
+    "git_blob_sha1": "888e939673f862c4f416b3dd67d42e9dfbb9d5b6",
+    "bytes": 4457,
+    "sha256": "62dfeac34c863e755650790f62af19b8e4584f829c640f455d71c08ec5fec065"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_stable_gait_review.py",
+    "git_blob_sha1": "cf3240994d6770abca4ea443d9253cb6fd9b966d",
+    "bytes": 1450,
+    "sha256": "e766e0163214863b6dfcbf0fb4ab97c28acb66be9715dfae03f297e14739beaf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_static_home_calibration.py",
+    "git_blob_sha1": "06d249c93e89bc511f2d4ed9ed6738adf5511f23",
+    "bytes": 2753,
+    "sha256": "93af702692e8876df854aa7dca85041035f1e15cdea72ad4579893c224f3349f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_step_in_place.py",
+    "git_blob_sha1": "b91ba4a11eb22796a214801a3f5413bc6e31f1df",
+    "bytes": 3539,
+    "sha256": "769ec685364334784ea3a3e5d477d86db89eb81bff384058081169a68df6252e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_step_mouth.py",
+    "git_blob_sha1": "c2dbf077f598232fda1dabddda09fc47b4a88801",
+    "bytes": 1264,
+    "sha256": "b82244f81ffc9af4e23c7a5316a2c9285d9e4961baf55447ca03e17951b53b9f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_step_transition.py",
+    "git_blob_sha1": "c7b1b740cb1214f9d8d6198ec915c66465d09f6d",
+    "bytes": 1303,
+    "sha256": "de4bac50f6ac139e34af9c2eb4fedd86e4b9b8e51bbcab1fcaf12aa838bf2f77"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_sway_in_place.py",
+    "git_blob_sha1": "7fcc90394d5285d5f0d8099ede8e3f97e4d2a8f6",
+    "bytes": 4650,
+    "sha256": "5a255c9f628454c208cb50d0ae6d306b2f59c298b710087e74b1cb6d9bd70535"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_swizzle_head_cfg.py",
+    "git_blob_sha1": "52b31f33dce3f9d00fc1b49aae22d1962715a701",
+    "bytes": 1750,
+    "sha256": "d053d11281576687230fe60234ec0fb545ee1c2974486df8ac5996628e346cb7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_transfer_campaign.py",
+    "git_blob_sha1": "d008ff3c29e395396f7a2fd0161187aacc0908c2",
+    "bytes": 1196,
+    "sha256": "eb8ef2678025d8639f26cb5647e110441490300f45d99bf4a76ba37a7937f249"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_voltage_domain.py",
+    "git_blob_sha1": "1ce3ffe9eeff5246074fcbcc8da46d8a08430aa4",
+    "bytes": 1037,
+    "sha256": "2ca7cc748876c979a607984b6c9e2f950680fce0b0b7732f54d249d93c908db0"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/tests/test_wheel_glide.py",
+    "git_blob_sha1": "2e51c76dbfd6cb686758ecd313968a8cd95e9268",
+    "bytes": 1990,
+    "sha256": "5e9796ed46f9a1b09a160c9b868c3d525ca2f6bece3ca202b369409e99c537bb"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/microduck_rl/uv.lock",
+    "git_blob_sha1": "2ef08572ac77fd37d010420472c8e2985d5f50ec",
+    "bytes": 243212,
+    "sha256": "3fc6f323eb34cabb558117cd097154cf37d6577047a334c2235c6ab626c141ba"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/installation.json",
+    "git_blob_sha1": "88a7579c32c7380dad0df758a2b2e3253d8c5e0d",
+    "bytes": 1616,
+    "sha256": "89af0f612e312f3c023633da45a4661af2d88a67f6517d0b7710d619d68f50a5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/reference_native.toml",
+    "git_blob_sha1": "5fe522875194222b3e5b1af77c4b15e348ffd4be",
+    "bytes": 1239,
+    "sha256": "16c3c5aceaf060299573bcf9daa4ca4bec30e22efc489e86c6ea4b7cc1cf2bd6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/reference_policy.py",
+    "git_blob_sha1": "ff46c7402f3017715fbe1b86b129a724fe009801",
+    "bytes": 11715,
+    "sha256": "7b1fb67d3fe8e2d0a24fc3381ab6ad8c4bd4d4e516b02d710eeebdfc184857a6"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/references/reference_runtime_20261005/hd1910_getup.onnx",
+    "git_blob_sha1": "69e9263f27398a057c3e96dd22d2d12f933d594e",
+    "bytes": 793706,
+    "sha256": "c414f2bd84b0a79b89f0ba6997135eb45e4ecd9df9271ea989c237864027b2a3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/references/reference_runtime_20261005/hd1910_pick.onnx",
+    "git_blob_sha1": "388c2d49b5cbe0701a7065ddca3f2b5c1bae158a",
+    "bytes": 793686,
+    "sha256": "f34e990dda785e9a8c53890bdcd0f7f1d457592691fd3703f3776b48fb2d14b8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/references/reference_runtime_20261005/hd1910_roulade.onnx",
+    "git_blob_sha1": "c8f020be80495d353bc6ab4bd2f26c3cf726abd0",
+    "bytes": 793686,
+    "sha256": "8adb1e6bc3f5eef751ce4edbf940f6d5a25fdec3ec4a798e1d9ca135c8248e97"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/references/reference_runtime_20261005/hd1910_walk.onnx",
+    "git_blob_sha1": "dbfeb3ae6ae085a56327ba2e41080318e92b6b5c",
+    "bytes": 793706,
+    "sha256": "5727b909d5ea1a0f9ff63bf4cea9707339dea6a522374c7a120da633605b923f"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/references/reference_runtime_20261005/manifest.json",
+    "git_blob_sha1": "f19a0b56f93ea5d158dfa66d33ca2916f578a012",
+    "bytes": 2320,
+    "sha256": "f52f7a8b10d426090faad670ab2fa88c7c1c1853d7c4a17f9986e016bb4f5ca3"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/radxa/test_reference_policy.py",
+    "git_blob_sha1": "5c2bd88777e4b5786a5f0248d3404008b1d39d9b",
+    "bytes": 6337,
+    "sha256": "a7a108cbeea7754d8de876c74d94d0fe2475c770dc2cb6cbef31bed39947201e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/ankle_left.stl",
+    "git_blob_sha1": "2dad3b1633f4158b1262288ba73b46c7d194264d",
+    "bytes": 248984,
+    "sha256": "2ec1bd89205b407efebaa9a8898ad9fea741389d87b80ecc5c96b21d1668119e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/ankle_right.stl",
+    "git_blob_sha1": "55f5d794697144ba425ecc4023b95e5c83aceb44",
+    "bytes": 248884,
+    "sha256": "f83f388ae00787415e76b8ecaab769f08f25b8c4e90c1937ff0fc4d68d81722e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/banana_pcb_locker.stl",
+    "git_blob_sha1": "e431ca6236a5dd0dbdfaa508d1dd4e2b0ae4c47c",
+    "bytes": 69484,
+    "sha256": "42ddde9d01bf5d91f88b99847017f14d97d2537ee27383c6d41dd8bf30a51134"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/bearing_roll.stl",
+    "git_blob_sha1": "3e506e515c729f7d8e9c9be5c155b8489a8e0f4d",
+    "bytes": 121084,
+    "sha256": "b5603a64b2d965ad75ea847767b5798130852e12a658fde7b5068fc457e2adcc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/bottom_head_shell.stl",
+    "git_blob_sha1": "0cc4e79f405fac5b2cd93e4ddfefeeb8ea47f0ff",
+    "bytes": 1048584,
+    "sha256": "1820f7cf96646b0fc0c431f07da87b91b13111bfa9857ab1bf2b1fc3388f8da2"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/elec_rpi_robot_hat_pcb.stl",
+    "git_blob_sha1": "01bc5b73d4cf968fa4136870273510cdc7787006",
+    "bytes": 942884,
+    "sha256": "1a61582759d82b5b4df9b7d11099bf1bb3944fc77e6b74d3237adf24dd5d03d7"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/face_part.stl",
+    "git_blob_sha1": "174b04a2725c71dbece506d5801f6a02b5057666",
+    "bytes": 570684,
+    "sha256": "d0e89a173e7bdc8038c4d413f458140d8f42f1a2f098f67a887c2388eff31718"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/foot_left.stl",
+    "git_blob_sha1": "e0e196b5f281d9744930e7fd96b0109f06975574",
+    "bytes": 996184,
+    "sha256": "a1f5d43456d0f522bd60870153795f1e8112c1adf9b8b4373b59608d9545c044"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/foot_right.stl",
+    "git_blob_sha1": "3d9ac8112fd60b4d787bd26a280b4d5045b8db02",
+    "bytes": 997684,
+    "sha256": "54f97fa1f0e0e611d31329df9f3c3b17ffcca2d695c579d1d32cbe99e8a6c7ef"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/hip_l.stl",
+    "git_blob_sha1": "6870737a6f88f62c03f22e01723b06905e2e80d7",
+    "bytes": 1048584,
+    "sha256": "e175896932d76dc7648cf939aa39cb7b1d188b783d91745adb9a4cec65e9052c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/jaw.stl",
+    "git_blob_sha1": "b8019924e79f2df088dfb503459bd1c1de7a227a",
+    "bytes": 495984,
+    "sha256": "45cdbd319a4583095d8daa0db07dee726522a743d59acb82d27d82ded500a1cf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/jaw_soft.stl",
+    "git_blob_sha1": "70a8ee9248f65fcfa2f68bbab41e94571b26f25a",
+    "bytes": 336384,
+    "sha256": "2d2ade4e86df4b37ce313bb9b96023109dd04bab39dba08b154e76d332fbce2e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/left_shell.stl",
+    "git_blob_sha1": "afc336267d9b7ce2b5b309d3a762fa598cd5fa73",
+    "bytes": 1048584,
+    "sha256": "2abde8e2b79c9b011cdb11957c67ab4287b45d7301affd4235ab81141118e331"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/leg.stl",
+    "git_blob_sha1": "7da4e67dadb2df338f49ffd25855345b4a905f8f",
+    "bytes": 738884,
+    "sha256": "9a91cc1ae31ecd9e0c1ba93f3bb2ad8a12e29bff24ec27d1ac66c0c3037d9fcf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/lens.stl",
+    "git_blob_sha1": "c3d0bf32879e0bacd311eb5289902d1705b1d249",
+    "bytes": 93684,
+    "sha256": "b1c717432ff7666398de58adec6a1b7e03a7e45aa155dbfe27a6152ef19663e5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/m12_lens_holder.stl",
+    "git_blob_sha1": "d606a064040b65af3eb9e584657226c4970f1a8a",
+    "bytes": 549684,
+    "sha256": "031d5ffaf6247328cf6d020f6b6695ffb3f8d3f22cf923b85811351d89ecfd7c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/motor_support.stl",
+    "git_blob_sha1": "72289542cbb9b02f69686993f59fcf40fbe8422b",
+    "bytes": 180884,
+    "sha256": "ce0aa5bef82c7474512d302568c341b9769b3005e0bdb91a19c2eaaba6dad480"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/neck.stl",
+    "git_blob_sha1": "2841d71ffd4203a30bbdba33a6a171742e20a581",
+    "bytes": 73484,
+    "sha256": "b6e86b886153be8a8a776c1cb219c074ee9e89c8bd431117662a2d9e504d7cb5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/neck_pitch.stl",
+    "git_blob_sha1": "d93b3d30b8c8e4bc596c96aeaa065685bb55ed45",
+    "bytes": 356084,
+    "sha256": "a685ce65348ae4d0d49417c69a7a8871f8bbd54a6e3419362be9c334abd5d2ae"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/noenoeil.stl",
+    "git_blob_sha1": "9f498cfccddc9668dceff0c9e54d9f33d73b55cb",
+    "bytes": 49284,
+    "sha256": "e1167b3d5ad7fbbe6e63296bcd0c6b61556611e6bc1367b15ecfd27e3abb72f5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/np_f970.stl",
+    "git_blob_sha1": "d27fc27da228c3ece3f0909b95757b9c2e1e1a0f",
+    "bytes": 1048584,
+    "sha256": "0e55a48281331b3b7b1a363d2e93b6012f37c52045b6dc922a149ca7c1b38388"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/pcb__raspberry_pi_zero_2_w.stl",
+    "git_blob_sha1": "7c160d099d48076e91b7f9924653817f3ead069f",
+    "bytes": 1048584,
+    "sha256": "802cc66fc5447c67fc642d1339e55160df10f2ad04a65efd130e35fb7b2d3c90"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/power_support.stl",
+    "git_blob_sha1": "102f0deebf9670223b13ea1756046724970cb871",
+    "bytes": 641684,
+    "sha256": "ee45e397d3f3422f34940a4b61156c3c11c7e8c2b240451ce5f9ddd1622a130e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/right_shell.stl",
+    "git_blob_sha1": "4341ee67696762fefc62dd5612a5abd32aed6f40",
+    "bytes": 1048584,
+    "sha256": "3efba3e193cc6aa49d49a9c92cdded0504917397c9e2c5b8fe002a958e2f2d2b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/seeed_bearing__configuration__22x16x4.stl",
+    "git_blob_sha1": "1cc2a3562e9cdec8667b849817569f7dc2c7f4fb",
+    "bytes": 1048584,
+    "sha256": "295ee68ed9766c91fe06d3a2a49d39f7c2f56cc943395d293afdeb013123435e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/seeed_bearing__configuration_default.stl",
+    "git_blob_sha1": "71aa1ba5f5f4002dee6aa887b86ad4b64cd31356",
+    "bytes": 1048584,
+    "sha256": "e815f3483a2e7b80844f3c0938a47e53db38b12faed9b2d364414c19e4322da4"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/soft_mouth_top.stl",
+    "git_blob_sha1": "e224e1e951ec24990884b033d5ac63a2073e5eea",
+    "bytes": 393584,
+    "sha256": "3c2b52b0b6e2ce944a1e1b5a0838e1216be1ad3a34c8cdf91be186e634aec57b"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/sole_left.stl",
+    "git_blob_sha1": "c15fe2f38994cbd988ebcb7a76bc6a14c49f2564",
+    "bytes": 789484,
+    "sha256": "e028c8b09fecd4cb354d042bf7fd95a1a1bc2d524d760d62137fa8d74093fc23"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/sole_right.stl",
+    "git_blob_sha1": "6ecced133512bfc34fc02216b4902a536d53334e",
+    "bytes": 795184,
+    "sha256": "3f5068872f3add10eb967327651445bdfca635f5a8a01befa0ef05e462b72b4c"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/speaker.stl",
+    "git_blob_sha1": "16de470fcc6b2977a2898ee2e60dc43d27b056d5",
+    "bytes": 684,
+    "sha256": "75a35f9bcf94cd8e52f99b3fd6ae667b48f52503f9075ee2f699eebe8e7b3ddf"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/top_head_shell.stl",
+    "git_blob_sha1": "7c10d0cfe279e4df0f3c7debfe95e3bf4852203f",
+    "bytes": 806084,
+    "sha256": "6d01f396f514c9d2185cf6b8250b1d8382ac3fa0702eb525bcb284f706196291"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/trunk_base.stl",
+    "git_blob_sha1": "28a703ce76b817bdf73a4fb8f8089040c2ec4510",
+    "bytes": 184984,
+    "sha256": "aa4f853ae555a8b765e585ce4519c0bbff325ce298ec15a1437792c52a0beac1"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/upper_leg_left.stl",
+    "git_blob_sha1": "5b3edce01372224337cde91435e0dae70ee306d5",
+    "bytes": 612584,
+    "sha256": "8cb1c12dfa6d366a318bb1ec16f585427b9a185afeb7738d0a6f41f5db46a07d"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/upper_leg_right.stl",
+    "git_blob_sha1": "f1443617b1aa5ebe201cded5bf9aecab041d56bc",
+    "bytes": 612584,
+    "sha256": "5caf996cc3e151b01f393cdc6a6a6a940c1d86179d8b7c7f5f85cf1f1ac2fb63"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/upper_leg_rigidity_plate.stl",
+    "git_blob_sha1": "01f9fdef32d84b2f63820bb718ab07087c21d71a",
+    "bytes": 180084,
+    "sha256": "231b3e5f1e24d146d735dc158cbcfec0c95a0d0ca8c500f61f04d15d0b665652"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/xl330.stl",
+    "git_blob_sha1": "036fba0df9acdd1568d5fcb13fe68673b1abde83",
+    "bytes": 206384,
+    "sha256": "96238ed0d020ce0009cf1a5aa4b6926176c800840318ee65e4375be2298d2744"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/yaw2roll.stl",
+    "git_blob_sha1": "50e107311bb7af52c0452e3414d03d9b34857ee8",
+    "bytes": 620284,
+    "sha256": "6c8f193ec7cb40be0f48eeb5fba81bce2c87f12e1aab3f77f1bc4981386e1495"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/meshes/yaw_roll_motion.stl",
+    "git_blob_sha1": "20dd91011e74f3002fc376e248b4c5e827909a87",
+    "bytes": 290784,
+    "sha256": "b0c9902dee19f06cdb7fa930292e0e1c91e2dc59baa971211495b58ff76c3c60"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/microduck.urdf",
+    "git_blob_sha1": "0bb3dd54f5e9fe0da364437a90677658e18e6745",
+    "bytes": 26320,
+    "sha256": "32d83c8da8a9887a9e6bc07499d2d0c00107e3e9a5d4263a7fb9c44626280775"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/robot_description/servo_ids.json",
+    "git_blob_sha1": "4c72a74ca7ea4599cd588f4f68a8831a90849b64",
+    "bytes": 595,
+    "sha256": "84de4c59a42594f2b37eb20920b9f6e4da4535bd1a2f5a55554dc4b2fd8ae203"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/audit_release.py",
+    "git_blob_sha1": "b0038ae16a74398216ed9818740a402fc20e9e2e",
+    "bytes": 1953,
+    "sha256": "4a5738d832eed5f04255aa22cbee002fd144cafb72d544db5d1c2e0d3441b68e"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/build.sh",
+    "git_blob_sha1": "c7974928ca76aeb256f08afa889a1a48c5599e1c",
+    "bytes": 998,
+    "sha256": "13b5beb1324dab0999653cc6cc2c9dd4820277d042e17eda8b66ed4bdfabf9f9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/build_sim.py",
+    "git_blob_sha1": "c99038827e7f973d386479b4c881bdbb79527b21",
+    "bytes": 2886,
+    "sha256": "9167296bb0b06d594836b1cb8e30ce73d31afedca1e4116ecf0ad1cff646b4ea"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/configure.py",
+    "git_blob_sha1": "d061b86e8da9ccfcbff000106d3134131f2f1fbf",
+    "bytes": 2662,
+    "sha256": "8ec21b624aff1190a9615a57d18f7b03a67bb3b9f62ccdfc48670768ff0cfd04"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/deploy.py",
+    "git_blob_sha1": "b1058962272f4fac7fea14550b0cb3e29359f7d2",
+    "bytes": 2096,
+    "sha256": "efba8460ccff748a081c7ce66730e92ff70d2d026dd40f7129d1981d89651ae5"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/fetch_models.py",
+    "git_blob_sha1": "9f03e83f81d576678ef5bd780b1900dee87fd296",
+    "bytes": 1540,
+    "sha256": "ef8198bacfea98be8e35e05d908530a5c4e73215f4b935d2c065183cc1e2dd72"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/install_service.sh",
+    "git_blob_sha1": "50313b2e3a55462fb62d9d42865d940a21f5cc30",
+    "bytes": 1246,
+    "sha256": "ea7d52b4d80df43ca2387d973551df6c7645088a15fd03fc5860627d62ef1dec"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/make_readme_gifs.py",
+    "git_blob_sha1": "5976c6c1fa38da7c6a966347b50419be49a74e03",
+    "bytes": 2408,
+    "sha256": "66e0a4f7a2ce7c1ce5e4148b1498917969329822fbd71232bd1d23e5e3fad779"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/package.sh",
+    "git_blob_sha1": "48cdaf009b513b487aa9520eba0b97a9a9b37db2",
+    "bytes": 440,
+    "sha256": "0bc81fb0750b764df98a4ce2f1e5180086b61ec199b88069bc7dec2f738f69a8"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/run_hardware.sh",
+    "git_blob_sha1": "aa9606d7fe7d1398f3520e311e1b6a28592e908d",
+    "bytes": 1016,
+    "sha256": "1bc40cea49bb7baf265ebc655102268bd2f5ff525cde8411aedd0ff244a44f72"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/run_sim.py",
+    "git_blob_sha1": "887bf0cdc3a1ac4fb76730a8cf06cbdc56e16f95",
+    "bytes": 2378,
+    "sha256": "815ad279621ddfc7f83f0a57574e47bc4239feb11aa45f55e047d1341af51277"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/sim_body.py",
+    "git_blob_sha1": "30f4d7bae3eff2a54e5f523bc2884c4d45b446e3",
+    "bytes": 1444,
+    "sha256": "0e5ddffc7a8732c43dd97407b6199845a66d785395354b80da3f07aba78b0ac9"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/scripts/validate_artifacts.py",
+    "git_blob_sha1": "5876cdd0306bc0780814e016b945e7d8afa794a9",
+    "bytes": 3401,
+    "sha256": "96ed9911421a827d1300e7a198fa5f951714ad23e2250a6832f962fa56543bfc"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/sim/README.md",
+    "git_blob_sha1": "2a4dadc447b8c4b360707fbcd6d84976755c78e9",
+    "bytes": 362,
+    "sha256": "2fd2e2f6c82b374399d8a3d192a622ea8a08d3d45d48c7ad090d6948bc9064df"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/tests/test_launcher.py",
+    "git_blob_sha1": "444a747afc430218fc691058712cdbceb22ff161",
+    "bytes": 1617,
+    "sha256": "c3d8436043ce52b44278fb6b644e34b1d2fefe9a9debe45b2210029217f7bf13"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/tests/test_live.py",
+    "git_blob_sha1": "f72846fb9d14225e6c51a17c96c4ba74ad65fb39",
+    "bytes": 4757,
+    "sha256": "0b8084f87d4111ba8693d79abdfe6c871b006a94dde1cf9778a0af873ee43376"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/tests/test_reference_native.py",
+    "git_blob_sha1": "8d364dca2fe6b7fef0a287c8756275d5652a09d8",
+    "bytes": 6149,
+    "sha256": "c0dcc504b2417dc7f031a3a08f0d444369e750c985e807966126583a8f0aebac"
+  },
+  {
+    "path": "04_alternatives/microduck-hd1910m/tests/test_release_config.py",
+    "git_blob_sha1": "a36bbcbe36cc17eb9507a9fb14bf18f696004d46",
+    "bytes": 1654,
+    "sha256": "018c03233fb61426a1894d17f2a35924d594a70f1694eb4bb76760c1671215a5"
+  }
+]

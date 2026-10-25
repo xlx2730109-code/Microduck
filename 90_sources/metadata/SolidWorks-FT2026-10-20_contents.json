@@ -1,0 +1,366 @@
+[
+  {
+    "path": "SolidWorks-FT2026-10-20/",
+    "bytes": 0
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/00-microduck装配体-FT2026.9.23.SLDASM",
+    "bytes": 66264530
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/01-upper_leg_rigidity_plate_上腿加固板-FT.SLDPRT",
+    "bytes": 197528
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/01_躯干主体-FT.SLDASM",
+    "bytes": 19941532
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/02_左髋yaw-roll-FT.SLDASM",
+    "bytes": 2445270
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/03_左髋roll-FT.SLDASM",
+    "bytes": 4030990
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/04_左大腿-FT.SLDASM",
+    "bytes": 1867073
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/05_左小腿-FT.SLDASM",
+    "bytes": 1808162
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/06_左踝脚-FT.SLDASM",
+    "bytes": 8531428
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/07_颈根-FT.SLDASM",
+    "bytes": 154087
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/08_颈俯仰-FT.SLDASM",
+    "bytes": 314881
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/09_头yaw-roll-FT.SLDASM",
+    "bytes": 351390
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/1013ankle_right脚踝右1-FT.SLDPRT",
+    "bytes": 268197
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/1013ankle_right脚踝右1-FT.STEP",
+    "bytes": 210942
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/10_头部总成-FT.SLDASM",
+    "bytes": 20658695
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/11_右髋yaw-roll-FT.SLDASM",
+    "bytes": 2436882
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/12_右髋roll-FT.SLDASM",
+    "bytes": 3845675
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/13_右大腿-FT.SLDASM",
+    "bytes": 1749819
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/14_右小腿-FT.SLDASM",
+    "bytes": 1817406
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/15_右踝脚-FT.SLDASM",
+    "bytes": 8731237
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_PCB1_2026-09-08-FT.SLDPRT",
+    "bytes": 14666670
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_POGP_PIN_1V0A_PCB_2026-10-13.SLDPRT",
+    "bytes": 1517477
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_POGP_PIN_1V0A_PCB_2026-10-19-2.SLDPRT",
+    "bytes": 1086291
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_POGP_PIN_1V0A_PCB_2026-10-19-2.step",
+    "bytes": 785532
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_POGP_PIN_1V0A_PCB_2026-10-19.SLDPRT",
+    "bytes": 2148898
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_imu_to_dxl_1V0_PCB_2026-10-13.SLDPRT",
+    "bytes": 12473881
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_imu_to_dxl_1V0_PCB_2026-10-19.SLDPRT",
+    "bytes": 12398828
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_wire_hub_PCB_2026-10-13.SLDPRT",
+    "bytes": 3517871
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/3D_wire_hub_PCB_2026-10-19.SLDPRT",
+    "bytes": 4183500
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/99-yaw_roll_motion_偏航横滚运动-F.SLDPRT",
+    "bytes": 272604
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/HD-1910-c001-dan.SLDPRT",
+    "bytes": 151930
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/HD-1910-c001-shuang.SLDPRT",
+    "bytes": 118987
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/M2铜柱-FT.SLDPRT",
+    "bytes": 69128
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/ankle_l_v1_脚踝左V1.SLDPRT",
+    "bytes": 334167
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/ankle_left_脚踝左-FT.SLDPRT",
+    "bytes": 261711
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/ankle_right脚踝右1-FT-改外面轴承.SLDPRT",
+    "bytes": 282528
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/ankle_right脚踝右1-FT-改外面轴承1.SLDPRT",
+    "bytes": 276376
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/ankle_right脚踝右1-FT.SLDPRT",
+    "bytes": 274600
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/ankle_right脚踝右1-FT.STEP",
+    "bytes": 210923
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/banana_pcb_locker_香蕉形PCB锁扣-FT.SLDPRT",
+    "bytes": 395782
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/bearing_roll_轴承滚轮-FT.SLDPRT",
+    "bytes": 113725
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/bottom_head_shell_头部下壳-FT.SLDPRT",
+    "bytes": 12734914
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/cast.dds",
+    "bytes": 1398228
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/console.log",
+    "bytes": 1675
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/deep groove ball bearings gb.sldprt",
+    "bytes": 471877
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/elec_rpi_robot_hat_pcb_树莓派机器人HAT电路板-FT.SLDPRT",
+    "bytes": 3528650
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/face_part_面部零件-FT.SLDPRT",
+    "bytes": 2674313
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/foot_left_左脚-FT.SLDPRT",
+    "bytes": 11030870
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/foot_right_右脚-FT.SLDPRT",
+    "bytes": 11622674
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/hip_l_髋部左-FT.SLDPRT",
+    "bytes": 10671631
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/jaw_soft_软下巴-FT.SLDPRT",
+    "bytes": 4039378
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/jaw_下巴-FT.SLDPRT",
+    "bytes": 5327671
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/left_shell_左壳-FT.SLDPRT",
+    "bytes": 21903606
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/left_shell_左壳-FT.STEP",
+    "bytes": 24568697
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/left_upper_leg_左上腿-FT.SLDPRT",
+    "bytes": 9324902
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/left_upper_leg_左上腿-FT.STEP",
+    "bytes": 8650479
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/leg_腿部-FT.SLDPRT",
+    "bytes": 9583219
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/lens_镜头-FT.SLDPRT",
+    "bytes": 867335
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/motor_support_电机支架-FT.SLDPRT",
+    "bytes": 994615
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/neck_pitch_颈部俯仰-FT.SLDPRT",
+    "bytes": 226509
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/neck_颈部-FT.SLDPRT",
+    "bytes": 129976
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/neck_颈部-FT.STEP",
+    "bytes": 47268
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/noenoeil_眼睛-FT.SLDPRT",
+    "bytes": 295416
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/np_f970_NPF970电池-FT.SLDPRT",
+    "bytes": 13483059
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/pcb__raspberry_pi_zero_2_w_树莓派Zero2W电路板-FT.SLDPRT",
+    "bytes": 9802411
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/plasticmt11150_normalmap.dds",
+    "bytes": 349652
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/power_support_电源支架-FT.SLDPRT",
+    "bytes": 3818090
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/right_shell_右壳-FT.SLDPRT",
+    "bytes": 12026218
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/right_upper_leg_右上腿-FT.SLDPRT",
+    "bytes": 9699552
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/right_upper_leg_右上腿-FT.STEP",
+    "bytes": 8564993
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/roller_blade_滚轮叶片_mm.SLDPRT",
+    "bytes": 1286293
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/soft_mouth_top_软嘴顶部-FT.SLDPRT",
+    "bytes": 5196636
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/sole_left_左脚底-FT.SLDPRT",
+    "bytes": 10759783
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/sole_right_右脚底-FT.SLDPRT",
+    "bytes": 10899910
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/top_head_shell_头部上壳-FT.SLDPRT",
+    "bytes": 18993323
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/top_head_shell_头部上壳-FT.STEP",
+    "bytes": 21798363
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/trunk_base_躯干底座-FT.SLDPRT",
+    "bytes": 752537
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/yaw2roll_偏航转横滚-FT.SLDPRT",
+    "bytes": 9781010
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/~$roller_blade_滚轮叶片_mm.SLDPRT",
+    "bytes": 3
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/~$合体轮胎.SLDPRT",
+    "bytes": 3
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/~$轮滑鞋组件.SLDASM",
+    "bytes": 3
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/~$轴承12×6×3.SLDPRT",
+    "bytes": 3
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/合体轮胎.SLDPRT",
+    "bytes": 162604
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/垫片01.SLDPRT",
+    "bytes": 76557
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/轮滑鞋组件.SLDASM",
+    "bytes": 801414
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/轴承12×6×3.SLDPRT",
+    "bytes": 127957
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/轴承16×22×4-FT.SLDPRT",
+    "bytes": 345732
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/零件1左脚底.SLDPRT",
+    "bytes": 612967
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/零件1左脚底.STEP",
+    "bytes": 1245353
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/零件2右脚底.SLDPRT",
+    "bytes": 946754
+  },
+  {
+    "path": "SolidWorks-FT2026-10-20/零件2右脚底.STEP",
+    "bytes": 1245320
+  }
+]

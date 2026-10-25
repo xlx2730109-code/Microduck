@@ -1,0 +1,8 @@
+{
+  "url": "https://github.com/fanhao375/microduck-replica/releases/download/microduck-replica-image-20261021b/microduck-replica-20261021b.img.xz.sha256",
+  "path": "02_feetech/images/fanhao_20261021b/microduck-replica-20261021b.img.xz.sha256",
+  "bytes": 101,
+  "sha256": "100ba75f0ee2f2c9b9fa70745c057a41adb5c2842d718f17ec489a62e6cbb9f6",
+  "expected_sha256": "100ba75f0ee2f2c9b9fa70745c057a41adb5c2842d718f17ec489a62e6cbb9f6",
+  "sha256_verified": true
+}

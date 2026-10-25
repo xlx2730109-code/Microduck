@@ -1,0 +1,27 @@
+{
+  "archive": {
+    "url": "https://codeload.github.com/pollen-robotics/microduck_rl/zip/b02fdea4902c2b93b7d34a83a6f05da4ececb7d3",
+    "path": "90_sources/archives/pollen-robotics__microduck_rl__b02fdea4902c.zip",
+    "bytes": 9300415,
+    "sha256": "0fc0271752475e99219f9c98d9e2e312ca86d8f247bd23085c2fbab03bdc431c",
+    "repo": "pollen-robotics/microduck_rl",
+    "branch": "develop",
+    "commit": "b02fdea4902c2b93b7d34a83a6f05da4ececb7d3",
+    "commit_date": "2026-10-12T11:58:55Z",
+    "extract_dir": "03_official/microduck_rl",
+    "license": null,
+    "archive_crc": "PASS",
+    "retrieved_at": "2026-10-22T11:46:18.710903+00:00"
+  },
+  "repository": {
+    "default_branch": "develop"
+  },
+  "commit": {
+    "sha": "b02fdea4902c2b93b7d34a83a6f05da4ececb7d3",
+    "commit": {
+      "committer": {
+        "date": "2026-10-12T11:58:55Z"
+      }
+    }
+  }
+}

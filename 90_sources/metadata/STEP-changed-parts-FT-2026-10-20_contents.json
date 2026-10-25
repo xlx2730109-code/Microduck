@@ -1,0 +1,62 @@
+[
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/",
+    "bytes": 0
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/",
+    "bytes": 0
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/01-upper_leg_rigidity_plate_上腿加固板-FT.STEP",
+    "bytes": 124309
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/99-yaw_roll_motion_偏航横滚运动-F.STEP",
+    "bytes": 203456
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/ankle_left_脚踝左-FT.STEP",
+    "bytes": 210766
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/ankle_right脚踝右1-FT.STEP",
+    "bytes": 210923
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/bearing_roll_轴承滚轮-FT.STEP",
+    "bytes": 64212
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/face_part_面部零件-FT1适配瑞莎原版摄像头 改了孔距.STEP",
+    "bytes": 5028471
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/left_shell_左壳-FT.STEP",
+    "bytes": 24568697
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/left_upper_leg_左上腿-FT.STEP",
+    "bytes": 8650479
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/leg_腿部-FT.STEP",
+    "bytes": 11802940
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/right_upper_leg_右上腿-FT.STEP",
+    "bytes": 8564993
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/top_head_shell_头部上壳-FT.STEP",
+    "bytes": 21798363
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/yaw2roll_偏航转横滚-FT.STEP",
+    "bytes": 12833554
+  },
+  {
+    "path": "STEP-changed-parts-FT 2026-10-20/STEP-changed-parts-FT 2026-09-30/合体轮胎.STEP",
+    "bytes": 36453
+  }
+]

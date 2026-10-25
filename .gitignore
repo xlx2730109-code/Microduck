@@ -1,0 +1,15 @@
+# 他人仓库与大文件，不上传，需要时按版本锁重新下载
+02_feetech/
+03_official/
+04_alternatives/
+05_vendor/
+06_voice/
+01_mechanical/cad_v2.2/
+01_mechanical/releases_v2.2/
+90_sources/archives/
+
+# 来源不明或有许可限制的文件
+Microduck上手指南-V2.pdf
+
+# 办公软件临时文件
+~$*

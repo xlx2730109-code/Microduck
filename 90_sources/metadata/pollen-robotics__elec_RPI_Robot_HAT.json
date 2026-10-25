@@ -1,0 +1,27 @@
+{
+  "archive": {
+    "url": "https://codeload.github.com/pollen-robotics/elec_RPI_Robot_HAT/zip/6de86283297e4c49a9da8312cd3395ab83c437e3",
+    "path": "90_sources/archives/pollen-robotics__elec_RPI_Robot_HAT__6de86283297e.zip",
+    "bytes": 33588692,
+    "sha256": "b9830687105c9e06327a027dd330c7f3ee3af15a32ee53868b0324e2d0394708",
+    "repo": "pollen-robotics/elec_RPI_Robot_HAT",
+    "branch": "main",
+    "commit": "6de86283297e4c49a9da8312cd3395ab83c437e3",
+    "commit_date": "2026-10-20T15:43:22Z",
+    "extract_dir": "03_official/elec_RPI_Robot_HAT",
+    "license": null,
+    "archive_crc": "PASS",
+    "retrieved_at": "2026-10-22T11:50:04.880673+00:00"
+  },
+  "repository": {
+    "default_branch": "main"
+  },
+  "commit": {
+    "sha": "6de86283297e4c49a9da8312cd3395ab83c437e3",
+    "commit": {
+      "committer": {
+        "date": "2026-10-20T15:43:22Z"
+      }
+    }
+  }
+}

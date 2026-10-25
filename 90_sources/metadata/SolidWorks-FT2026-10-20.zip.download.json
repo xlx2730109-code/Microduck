@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fanhao375/microduck-replica-cad/releases/download/v2.2/SolidWorks-FT2026-10-20.zip",
+  "path": "01_mechanical/releases_v2.2/SolidWorks-FT2026-10-20.zip",
+  "bytes": 417656282,
+  "sha256": "71e5b6a711ec9b4dd7154627e036a5180207088536aa230e42949212a550eaa1",
+  "expected_sha256": "71e5b6a711ec9b4dd7154627e036a5180207088536aa230e42949212a550eaa1",
+  "sha256_verified": true,
+  "transfer": "HTTP ranges",
+  "archive_crc": "PASS"
+}
