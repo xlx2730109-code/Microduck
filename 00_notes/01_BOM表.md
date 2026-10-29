@@ -11,33 +11,36 @@
 | 6 | 手柄 | TGZ Controller 手柄（已有） | 1 |  |  |  |
 | 7 | 工具 | 焊接工具 6 件套 | 1 | 39.68 | 39.68 |  |
 | 8 | 线材 | AMP2.0 双头转接线，100 mm，双头反向 | 4 | 2.00 | 16.00 | https://item.taobao.com/item.htm?id=1089647066599&skuId=6146736860515 |
-| 9 | 电池触点 | 2.5 mm 香蕉插头 PCB 铜镀金，13 mm，尾部 1.5 mm，U6068 | 4 | 1.60 | 16.40 | https://item.taobao.com/item.htm?id=1066300439603&skuId=6116801109787 |
-| 10 | 电池触点 | banana PCB，嘉立创打样，双面板 1.6 mm，绿色，有铅喷锡 | 5 片 |  | 21.60 | https://www.jlc.com/ |
-| 11 | 摄像头 | IMX219 800 万摄像头模块，DECXIN，222° 广角，含排线 | 1 | 53.80 | 63.80 | https://detail.tmall.com/item.htm?id=775872575316 |
-| 12 | 音频 | 扬声器，8Ω 2W，直径 20 mm，杜邦公头 | 1 | 3.80 | 3.80 | https://item.taobao.com/item.htm?id=902489608878&skuId=5925223242747 |
-| 13 | 轴承 | 轴承 10×15×3，NSK | 6 | 6.00 | 44.00 | https://item.taobao.com/item.htm?id=670727787832 |
-| 14 | 轴承 | 轴承 16×22×4，不锈钢薄壁 ET2216 | 17 | 4.00 | 76.00 | https://item.taobao.com/item.htm?id=539024647147&skuId=5716548727712 |
-| 15 | 紧固件 | 平尾自攻螺丝 M2×5、M2×6、M2×8、M2.5×6、M2.5×8，各 500 只 | 5 包 |  | 26.70 | https://detail.tmall.com/item.htm?id=534923831046 |
-| 16 | 紧固件 | 乐泰 243 螺纹胶 | 1 | 15 | 15 |  |
-| 17 | 脚底 | 鞋底防滑垫 | 1 | 15.31 | 15.31 | https://detail.tmall.com/item.htm?id=888852278057&skuId=5902232407790 |
-| 18 | 存储 | 闪迪 Ultra 64GB microSD，A1 | 1 | 75.69 | 75.69 |  |
-| 19 | 传感器 | VL53L8CX 8×8 多区 ToF 模块 | 1 | 77.69 | 77.69 |  |
-| 20 | 工具 | 电子秤，3 kg / 0.1 g，Type-C | 1 | 13.43 | 13.43 |  |
-| 21 | 结构件 | 0 位支架，3D 打印，作者提供 STEP 与 3MF（已打印） | 1 |  |  | ../01_mechanical/author_tips_20261024/ |
-| 22 | 紧固件 | M3 螺丝，长度 10–30 mm，0 位支架用 | 1 套 |  |  |  |
+| 9 | 线材 | AMP2.0 双头转接线，100 mm，双头同向（用于舵机之间） | 15 | 2.00 | 38.00 | https://item.taobao.com/item.htm?id=1089647066599&skuId=6146736860515 |
+| 10 | 电池触点 | 2.5 mm 香蕉插头 PCB 铜镀金，13 mm，尾部 1.5 mm，U6068 | 4 | 1.60 | 16.40 | https://item.taobao.com/item.htm?id=1066300439603&skuId=6116801109787 |
+| 11 | 电池触点 | banana PCB，嘉立创打样，双面板 1.6 mm，绿色，有铅喷锡 | 5 片 |  | 21.60 | https://www.jlc.com/ |
+| 12 | 摄像头 | IMX219 800 万摄像头模块，DECXIN，222° 广角，含排线 | 1 | 53.80 | 63.80 | https://detail.tmall.com/item.htm?id=775872575316 |
+| 13 | 音频 | 扬声器，8Ω 2W，直径 20 mm，杜邦公头 | 1 | 3.80 | 3.80 | https://item.taobao.com/item.htm?id=902489608878&skuId=5925223242747 |
+| 14 | 音频 | 扬声器 3525 腔体，4Ω 3W，自带 1.25 端子，kissqy 同款 | 1 | 2.77 | 2.77 | https://item.taobao.com/item.htm?id=683920556900 |
+| 15 | 轴承 | 轴承 10×15×3，NSK | 6 | 6.00 | 44.00 | https://item.taobao.com/item.htm?id=670727787832 |
+| 16 | 轴承 | 轴承 16×22×4，不锈钢薄壁 ET2216 | 17 | 4.00 | 76.00 | https://item.taobao.com/item.htm?id=539024647147&skuId=5716548727712 |
+| 17 | 紧固件 | 平尾自攻螺丝 M2×5、M2×6、M2×8、M2.5×6、M2.5×8，各 500 只 | 5 包 |  | 26.70 | https://detail.tmall.com/item.htm?id=534923831046 |
+| 18 | 紧固件 | 乐泰 243 螺纹胶 | 1 | 15 | 15 |  |
+| 19 | 脚底 | 鞋底防滑垫 | 1 | 15.31 | 15.31 | https://detail.tmall.com/item.htm?id=888852278057&skuId=5902232407790 |
+| 20 | 存储 | 闪迪 Ultra 64GB microSD，A1 | 1 | 75.69 | 75.69 |  |
+| 21 | 工具 | 电子秤，3 kg / 0.1 g，Type-C | 1 | 13.43 | 13.43 |  |
+| 22 | 结构件 | 0 位支架，3D 打印，作者提供 STEP 与 3MF（已打印） | 1 |  |  | ../01_mechanical/author_tips_20261024/ |
+| 23 | 紧固件 | M3 螺丝，长度 10–30 mm，0 位支架用 | 1 套 |  |  |  |
+| 24 | 电控板 | kissqy HAT 成品，AMP2.0 飞特舵机接口版（淘宝 kissqy 店，规格选 HAT） | 1 | 119.00 | 119.00 | https://item.taobao.com/item.htm?id=1095121548583 |
+| 25 | 电控板 | kissqy IMU TO DXL 成品，AMP2.0，STM32G031F8P6 加 LSM6DSV16X，须预刷 FT6（淘宝 kissqy 店，规格选 IMU TO DXL） | 1 | 99.00 | 99.00 | https://item.taobao.com/item.htm?id=1095121548583 |
+| 26 | 电源 | 直插电解电容 1000 µF，16 V，8×16 mm，高频，20 只一包，长脚为正 | 1 包 | 4.19 | 5.69 |  |
+| 27 | 传感器 | VL53L5X V2 ToF 模块，配盖片，孔距 20 mm，与脸壳匹配，首走后再用 | 1 | 49.50 | 49.50 | https://item.taobao.com/item.htm?id=737603917521 |
 |  | **二、待购（首走必需）** |  |  |  |  |  |
-| 23 | 主控 | Radxa Zero 3W 主控板，2GB，无 eMMC，带排针 | 1 |  |  | https://item.taobao.com/item.htm?id=763812025816 |
-| 24 | 电控板 | 树莓派机器人 HAT 电路板 | 1 |  |  | https://github.com/fanhao375/microduck-replica |
-| 25 | 电控板 | imu_to_dxl 总线 IMU 电路板 | 1 |  |  | https://github.com/fanhao375/microduck-replica |
-| 26 | 线材 | AMP2.0 双头转接线，100 mm，双头反向（追加） | 12 | 2.00 |  | https://item.taobao.com/item.htm?id=1089647066599&skuId=6146736860515 |
-| 27 | 线材 | 硅胶导线，18 AWG，红黑各 1 m，电池触点板接 HAT 用 | 1 套 |  |  |  |
-| 28 | 线材 | 热缩管套装 | 1 套 |  |  |  |
+| 28 | 主控 | Radxa Zero 3W 主控板，2GB，无 eMMC，带排针 | 1 |  |  | https://item.taobao.com/item.htm?id=763812025816 |
+| 29 | 线材 | AMP2.0 3P 舵机线，20 cm，1007 24AWG，同向直通（追加，用于脖子与躯干） | 10 | 0.90 |  | https://item.taobao.com/item.htm?id=825340808235 |
 |  | **三、待购（视到货核对）** |  |  |  |  |  |
-| 29 | 摄像头 | Radxa Camera 8M 219，DECXIN 不适配时再买 | 1 |  |  |  |
+| 30 | 摄像头 | Radxa Camera 8M 219，DECXIN 不适配时再买 | 1 |  |  |  |
 |  | **四、选配** |  |  |  |  |  |
-| 30 | 散热 | 散热片，Radxa Heatsink 5519A | 1 |  |  |  |
-| 31 | 调试 | USB 转 TTL 串口模块，3.3 V，CH340 或 CP2102 | 1 |  |  |  |
+| 31 | 散热 | 散热片，Radxa Heatsink 5519A | 1 |  |  |  |
+| 32 | 调试 | USB 转 TTL 串口模块，3.3 V，CH340 或 CP2102 | 1 |  |  |  |
+| 33 | 线材 | SH1.0 4P 转杜邦母线，20 cm，5 条一包，接 ToF 到 HAT 的 J5（kissqy 同款），首走后用 | 1 包 | 4.56 |  | https://item.taobao.com/item.htm?id=895049863252 |
 |  | **五、已购但本机不用** |  |  |  |  |  |
-| 32 | 传感器 | GY-BMI160 加速度陀螺仪模块（2 笔订单），与本机 IMU 路线不兼容 | 2 |  | 18.20 |  |
-| 33 | 轴承 | 轴承 6×12×3，轮滑用 | 8 | 0.87 | 6.97 |  |
-|  | **合计** |  |  |  | **2592.97** |  |
+| 34 | 传感器 | GY-BMI160 加速度陀螺仪模块（2 笔订单），与本机 IMU 路线不兼容 | 2 |  | 18.20 |  |
+| 35 | 轴承 | 轴承 6×12×3，轮滑用 | 8 | 0.87 | 6.97 |  |
+| 36 | 传感器 | VL53L8CX 8×8 ToF 模块，33.4×10.2 mm 长板，脸壳装不下，7 天无理由退货内处理 | 1 | 77.69 | 77.69 |  |
+|  | **合计** |  |  |  | **2906.93** |  |
