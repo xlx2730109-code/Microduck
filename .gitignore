@@ -4,6 +4,8 @@
 04_alternatives/
 05_vendor/
 06_voice/
+# 作者工作副本；07_upstream 内的说明和更新脚本继续随本机仓库保存
+/07_upstream/*/
 01_mechanical/cad_v2.2/
 01_mechanical/releases_v2.2/
 90_sources/archives/
