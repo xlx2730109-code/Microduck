@@ -4,7 +4,7 @@
 04_alternatives/
 05_vendor/
 06_voice/
-# 作者工作副本；07_upstream 内的说明和更新脚本继续随本机仓库保存
+# 作者工作副本，不随本机整理仓库提交
 /07_upstream/*/
 01_mechanical/cad_v2.2/
 01_mechanical/releases_v2.2/
@@ -15,3 +15,18 @@ Microduck上手指南-V2.pdf
 
 # 办公软件临时文件
 ~$*
+
+# Archived references and pre-organization backup
+/90_archive/references/
+/90_archive/before_20261110.zip
+
+# 本地演示服务：保留源码，忽略解释器、运行状态和日志
+/08_local_web/python/
+/08_local_web/state/
+/08_local_web/duckfs/
+/08_local_web/logs/
+/08_local_web/**/logs/
+/08_local_web/**/__pycache__/
+/08_local_web/**/.pytest_cache/
+/08_local_web/**/*.pyc
+/08_local_web/**/*.pyo

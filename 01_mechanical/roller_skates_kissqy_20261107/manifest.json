@@ -1,0 +1,42 @@
+{
+  "source": "https://github.com/kissqy/Microduck-kissqy/tree/main/hardware/3d-print-frankenduck",
+  "archive": "Microduck-Print-FrankenDuck-20261107.rar",
+  "archive_sha256": "91442d04f367260fa0515e49133c385b47c9accbc9d4b2e3324b281e0bbf09e2",
+  "files": [
+    {
+      "file": "滑轮.stl",
+      "quantity": 4,
+      "sha256": "2b1cf8c8a2947d7434d432afc5ddc21c5de9fd527247fe0672dd73995433187c",
+      "bytes": 1360884
+    },
+    {
+      "file": "滑轮支架左.stl",
+      "quantity": 1,
+      "sha256": "e9f162738a0a013616815ff07bff7d6df1618a115f34de7410201a28def7093c",
+      "bytes": 5977863
+    },
+    {
+      "file": "滑轮支架右.stl",
+      "quantity": 1,
+      "sha256": "e9f162738a0a013616815ff07bff7d6df1618a115f34de7410201a28def7093c",
+      "bytes": 5977863
+    },
+    {
+      "file": "左脚.stl",
+      "quantity": 1,
+      "sha256": "e10497f367caec0cb5e69897b597e941e3044a2e2dc256d38dee5747fb35b6bd",
+      "bytes": 253184
+    },
+    {
+      "file": "右脚.stl",
+      "quantity": 1,
+      "sha256": "a1c89e0cf991fc57fef02575cfd6c76d9071c0f1a54814176dc18541c705387b",
+      "bytes": 253084
+    }
+  ],
+  "quantity_basis": "Original 3MF build: four wheel instances and two bracket instances. Matching left/right ankle parts included; compatibility with existing v2.2 feet has not been verified.",
+  "materials": {
+    "wheel": "TPU (author instruction)",
+    "brackets_and_ankles": "Rigid plastic; ABS is our recommendation, not an author requirement."
+  }
+}
